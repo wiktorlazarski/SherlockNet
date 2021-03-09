@@ -335,7 +335,7 @@ movements were hastened by the news of this very remarkable Park Lane
 Mystery which not only appealed to me by its own merits but which
 seemed to offer some most peculiar personal opportunities . I came
 over at once to London called in my own person at Baker Street
-threw Mrs . Hudson into violent hysterics and found that Mycroft had
+threw Mrs. Hudson into violent hysterics and found that Mycroft had
 preserved my rooms and my papers exactly as they had always been . So
 it was my dear Watson that at two o'clock today I found myself in
 my old armchair in my own old room and only wishing that I could
@@ -476,7 +476,7 @@ or his impatience with a less active intelligence than his own .
 Of course it has moved said he . Am I such a farcical bungler
 Watson that I should erect an obvious dummy and expect that some of
 the sharpest men in Europe would be deceived by it ? We have been in
-this room two hours and Mrs . Hudson has made some change in that
+this room two hours and Mrs. Hudson has made some change in that
 figure eight times or once in every quarter of an hour . She works it
 from the front so that her shadow may never be seen . Ah ! He drew in
 his breath with a shrill excited intake . In the dim light I saw his
@@ -627,7 +627,7 @@ month . That's the charge Lestrade . And now Watson if you can
 endure the draught from a broken window I think that half an hour in
 my study over a cigar may afford you some profitable amusement .
 Our old chambers had been left unchanged through the supervision of
-Mycroft Holmes and the immediate care of Mrs . Hudson . As I entered I
+Mycroft Holmes and the immediate care of Mrs. Hudson . As I entered I
 saw it is true an unwonted tidiness but the old landmarks were all
 in their place . There were the chemical corner and the acidstained
 dealtopped table . There upon a shelf was the row of formidable
@@ -635,14 +635,14 @@ scrapbooks and books of reference which many of our fellowcitizens
 would have been so glad to burn . The diagrams the violincase and
 the piperackeven the Persian slipper which contained the
 tobaccoall met my eyes as I glanced round me . There were two
-occupants of the roomone Mrs . Hudson who beamed upon us both as we
+occupants of the roomone Mrs. Hudson who beamed upon us both as we
 entered the other the strange dummy which had played so important a
 part in the evening's adventures . It was a waxcoloured model of my
 friend so admirably done that it was a perfect facsimile . It stood
 on a small pedestal table with an old dressinggown of Holmes's so
 draped round it that the illusion from the street was absolutely
 perfect .
-I hope you preserved all precautions Mrs . Hudson ? said Holmes .
+I hope you preserved all precautions Mrs. Hudson ? said Holmes .
 I went to it on my knees sir just as you told me .
 Excellent . You carried the thing out very well . Did you observe
 where the bullet went ?
@@ -651,7 +651,7 @@ passed right through the head and flattened itself on the wall . I
 picked it up from the carpet . Here it is !
 Holmes held it out to me . A soft revolver bullet as you perceive
 Watson . There's genius in that for who would expect to find such a
-thing fired from an airgun . All right Mrs . Hudson I am much
+thing fired from an airgun . All right Mrs. Hudson I am much
 obliged for your assistance . And now Watson let me see you in your
 old seat once more for there are several points which I should like
 to discuss with you .
@@ -706,7 +706,7 @@ evil name . It was at this time that he was sought out by Professor
 Moriarty to whom for a time he was chief of the staff . Moriarty
 supplied him liberally with money and used him only in one or two
 very highclass jobs which no ordinary criminal could have
-undertaken . You may have some recollection of the death of Mrs .
+undertaken . You may have some recollection of the death of Mrs.
 Stewart of Lauder in 1887 . Not ? Well I am sure Moran was at the
 bottom of it but nothing could be proved . So cleverly was the
 Colonel concealed that even when the Moriarty gang was broken up we
@@ -828,7 +828,7 @@ He made the announcement as if the name alone would explain both his
 visit and its manner but I could see by my companion's unresponsive
 face that it meant no more to him than to me .
 Have a cigarette Mr. McFarlane said he pushing his case across .
-I am sure that with your symptoms my friend Dr . Watson here would
+I am sure that with your symptoms my friend Dr. Watson here would
 prescribe a sedative . The weather has been so very warm these last
 few days . Now if you feel a little more composed I should be glad
 if you would sit down in that chair and tell us very slowly and
@@ -852,7 +852,7 @@ Upon the charge of murdering Mr. Jonas Oldacre of Lower Norwood .
 My companion's expressive face showed a sympathy which was not I am
 afraid entirely unmixed with satisfaction .
 Dear me said he it was only this moment at breakfast that I was
-saying to my friend Dr . Watson that sensational cases had
+saying to my friend Dr. Watson that sensational cases had
 disappeared out of our papers .
 Our visitor stretched forward a quivering hand and picked up the
 Daily Telegraph which still lay upon Holmes's knee .
@@ -1247,7 +1247,7 @@ definitely prove it would turn Lestrade's argument against himself
 for who would steal a thing if he knew that he would shortly inherit
 it ?
 Finally having drawn every other cover and picked up no scent I
-tried my luck with the housekeeper . Mrs . Lexington is her name a
+tried my luck with the housekeeper . Mrs. Lexington is her name a
 little dark silent person with suspicious and sidelong eyes . She
 could tell us something if she wouldI am convinced of it . But she
 was as close as wax . Yes she had let Mr. McFarlane in at halfpast
@@ -1336,7 +1336,7 @@ You certainly have the air of something unusual having occurred
 said Holmes .
 Lestrade laughed loudly .
 You don't like being beaten any more than the rest of us do said
-he . A man can't expect always to have it his own way can he Dr .
+he . A man can't expect always to have it his own way can he Dr.
 Watson ? Step this way if you please gentlemen and I think I can
 convince you once for all that it was John McFarlane who did this
 crime .
@@ -1378,7 +1378,7 @@ natural action too if you come to think of it . Holmes was
 outwardly calm but his whole body gave a wriggle of suppressed
 excitement as he spoke . By the way Lestrade who made this
 remarkable discovery ?
-It was the housekeeper Mrs . Lexington who drew the night
+It was the housekeeper Mrs. Lexington who drew the night
 constable's attention to it .
 Where was the night constable ?
 He remained on guard in the bedroom where the crime was committed
@@ -1508,7 +1508,7 @@ I am sure sir it was only my practical joke .
 Oh ! a joke was it ? You won't find the laugh on your side I promise
 you . Take him down and keep him in the sittingroom until I come . Mr.
 Holmes he continued when they had gone I could not speak before
-the constables but I don't mind saying in the presence of Dr .
+the constables but I don't mind saying in the presence of Dr.
 Watson that this is the brightest thing that you have done yet
 though it is a mystery to me how you did it . You have saved an
 innocent man's life and you have prevented a very grave scandal
@@ -1709,7 +1709,7 @@ he placed it in his pocketbook .
 This promises to be a most interesting and unusual case said he .
 You gave me a few particulars in your letter Mr. Hilton Cubitt but
 I should be very much obliged if you would kindly go over it all
-again for the benefit of my friend Dr . Watson .
+again for the benefit of my friend Dr. Watson .
 I'm not much of a storyteller said our visitor nervously
 clasping and unclasping his great strong hands . You'll just ask me
 anything that I don't make clear . I'll begin at the time of my
@@ -1958,7 +1958,7 @@ to North Walsham tonight ?
 I turned up the timetable . The last had just gone .
 Then we shall breakfast early and take the very first in the
 morning said Holmes . Our presence is most urgently needed . Ah !
-here is our expected cablegram . One moment Mrs . Hudson there may be
+here is our expected cablegram . One moment Mrs. Hudson there may be
 an answer . No that is quite as I expected . This message makes it
 even more essential that we should not lose an hour in letting Hilton
 Cubitt know how matters stand for it is a singular and a dangerous
@@ -2029,7 +2029,7 @@ the premises without an instant of unnecessary delay .
 Inspector Martin had the good sense to allow my friend to do things
 in his own fashion and contented himself with carefully noting the
 results . The local surgeon an old whitehaired man had just come
-down from Mrs . Hilton Cubitt's room and he reported that her
+down from Mrs. Hilton Cubitt's room and he reported that her
 injuries were serious but not necessarily fatal . The bullet had
 passed through the front of her brain and it would probably be some
 time before she could regain consciousness . On the question of
@@ -2052,7 +2052,7 @@ Nothing .
 You have acted with great discretion . Who sent for you ?
 The housemaid Saunders .
 Was it she who gave the alarm ?
-She and Mrs . King the cook .
+She and Mrs. King the cook .
 Where are they now ?
 In the kitchen I believe .
 Then I think we had better hear their story at once .
@@ -2066,7 +2066,7 @@ stolid village policeman made up the rest of that strange company .
 The two women told their story clearly enough . They had been aroused
 from their sleep by the sound of an explosion which had been
 followed a minute later by a second one . They slept in adjoining
-rooms and Mrs . King had rushed in to Saunders . Together they had
+rooms and Mrs. King had rushed in to Saunders . Together they had
 descended the stairs . The door of the study was open and a candle was
 burning upon the table . Their master lay upon his face in the centre
 of the room . He was quite dead . Near the window his wife was
@@ -2152,8 +2152,8 @@ This must be preserved for it will figure in the trial said
 Holmes as he handed the bag with its contents to the inspector . It
 is now necessary that we should try to throw some light upon this
 third bullet which has clearly from the splintering of the wood
-been fired from inside the room . I should like to see Mrs . King the
-cook again . You said Mrs . King that you were awakened by a loud
+been fired from inside the room . I should like to see Mrs. King the
+cook again . You said Mrs. King that you were awakened by a loud
 explosion . When you said that did you mean that it seemed to you to
 be louder than the second one ?
 Well sir it wakened me from my sleep and so it is hard to judge .
@@ -2223,7 +2223,7 @@ should do well to take it as I have a chemical analysis of some
 interest to finish and this investigation draws rapidly to a close .
 When the youth had been dispatched with the note Sherlock Holmes
 gave his instructions to the servants . If any visitor were to call
-asking for Mrs . Hilton Cubitt no information should be given as to
+asking for Mrs. Hilton Cubitt no information should be given as to
 her condition but he was to be shown at once into the drawingroom .
 He impressed these points upon them with the utmost earnestness .
 Finally he led the way into the drawingroom with the remark that the
@@ -2335,7 +2335,7 @@ The addition of a P and a D completed a message which showed me that
 the rascal was proceeding from persuasion to threats and my
 knowledge of the crooks of Chicago prepared me to find that he might
 very rapidly put his words into action . I at once came to Norfolk
-with my friend and colleague Dr . Watson but unhappily only in
+with my friend and colleague Dr. Watson but unhappily only in
 time to find that the worst had already occurred .
 It is a privilege to be associated with you in the handling of a
 case said the inspector warmly . You will excuse me however if I
@@ -2375,9 +2375,9 @@ glared from one to the other of us with a pair of blazing black eyes .
 Then he burst into a bitter laugh .
 Well gentlemen you have the drop on me this time . I seem to have
 knocked up against something hard . But I came here in answer to a
-letter from Mrs . Hilton Cubitt . Don't tell me that she is in this ?
+letter from Mrs. Hilton Cubitt . Don't tell me that she is in this ?
 Don't tell me that she helped to set a trap for me ?
-Mrs . Hilton Cubitt was seriously injured and is at death's door .
+Mrs. Hilton Cubitt was seriously injured and is at death's door .
 The man gave a hoarse cry of grief which rang through the house .
 You're crazy ! he cried fiercely . It was he that was hurt not
 she . Who would have hurt little Elsie ? I may have threatened her God
@@ -2416,7 +2416,7 @@ the secret of the dancing men . How came you to write it ?
 What one man can invent another can discover said Holmes . There
 is a cab coming to convey you to Norwich Mr. Slaney . But meanwhile
 you have time to make some small reparation for the injury you have
-wrought . Are you aware that Mrs . Hilton Cubitt has herself lain under
+wrought . Are you aware that Mrs. Hilton Cubitt has herself lain under
 grave suspicion of the murder of her husband and that it was only my
 presence here and the knowledge which I happened to possess which has
 saved her from the accusation ? The least that you owe her is to make
@@ -2490,7 +2490,7 @@ Baker Street for dinner .
 Only one word of epilogue . The American Abe Slaney was condemned to
 death at the winter assizes at Norwich but his penalty was changed
 to penal servitude in consideration of mitigating circumstances and
-the certainty that Hilton Cubitt had fired the first shot . Of Mrs .
+the certainty that Hilton Cubitt had fired the first shot . Of Mrs.
 Hilton Cubitt I only know that I have heard she recovered entirely
 and that she still remains a widow devoting her whole life to the
 care of the poor and to the administration of her husband's estate .
@@ -2601,7 +2601,7 @@ that I should go home to her every weekend and he offered me a
 hundred a year which was certainly splendid pay . So it ended by my
 accepting and I went down to Chiltern Grange about six miles from
 Farnham . Mr. Carruthers was a widower but he had engaged a
-ladyhousekeeper a very respectable elderly person called Mrs .
+ladyhousekeeper a very respectable elderly person called Mrs.
 Dixon to look after his establishment . The child was a dear and
 everything promised well . Mr. Carruthers was very kind and very
 musical and we had most pleasant evenings together . Every weekend I
@@ -3007,7 +3007,7 @@ exclergyman bowed to us with mock politeness and the bully Woodley
 advanced with a shout of brutal and exultant laughter .
 You can take your beard off Bob said he . I know you right
 enough . Well you and your pals have just come in time for me to be
-able to introduce you to Mrs . Woodley .
+able to introduce you to Mrs. Woodley .
 Our guide's answer was a singular one . He snatched off the dark beard
 which had disguised him and threw it on the ground disclosing a
 long sallow cleanshaven face below it . Then he raised his revolver
@@ -3196,7 +3196,7 @@ THE ADVENTURE OF THE PRIORY SCHOOL
 We have had some dramatic entrances and exits upon our small stage at
 Baker Street but I cannot recollect anything more sudden and
 startling than the first appearance of Thorneycroft Huxtable M .A .
-Ph .D . etc . His card which seemed too small to carry the weight of
+Ph.D. etc. His card which seemed too small to carry the weight of
 his academic distinctions preceded him by a few seconds and then he
 entered himselfso large so pompous and so dignified that he was
 the very embodiment of selfpossession and solidity . And yet his
@@ -3234,7 +3234,7 @@ I am quite well again . I cannot imagine how I came to be so weak . I
 wish you Mr. Holmes to come to Mackleton with me by the next
 train .
 My friend shook his head .
-My colleague Dr . Watson could tell you that we are very busy at
+My colleague Dr. Watson could tell you that we are very busy at
 present . I am retained in this case of the Ferrers Documents and the
 Abergavenny murder is coming up for trial . Only a very important
 issue could call me from London at present .
@@ -3263,10 +3263,10 @@ pounds will be handed over to the person who can tell him where his
 son is and another thousand to him who can name the man or men who
 have taken him .
 It is a princely offer said Holmes . Watson I think that we shall
-accompany Dr . Huxtable back to the North of England . And now Dr .
+accompany Dr. Huxtable back to the North of England . And now Dr.
 Huxtable when you have consumed that milk you will kindly tell me
 what has happened when it happened how it happened and finally
-what Dr . Thorneycroft Huxtable of the Priory School near Mackleton
+what Dr. Thorneycroft Huxtable of the Priory School near Mackleton
 has to do with the matter and why he comes three days after an
 eventthe state of your chin gives the dateto ask for my humble
 services .
@@ -3444,7 +3444,7 @@ herring led your pack . In the meantime I will do a little quiet work
 at your own doors and perhaps the scent is not so cold but that two
 old hounds like Watson and myself may get a sniff of it .
 That evening found us in the cold bracing atmosphere of the Peak
-country in which Dr . Huxtable's famous school is situated . It was
+country in which Dr. Huxtable's famous school is situated . It was
 already dark when we reached it . A card was lying on the hall table
 and the butler whispered something to his master who turned to us
 with agitation in every heavy feature .
@@ -3458,20 +3458,20 @@ complexion was of a dead pallor which was more startling by contrast
 with a long dwindling beard of vivid red which flowed down over his
 white waistcoat with his watchchain gleaming through its fringe .
 Such was the stately presence who looked stonily at us from the
-centre of Dr . Huxtable's hearthrug . Beside him stood a very young
+centre of Dr. Huxtable's hearthrug . Beside him stood a very young
 man whom I understood to be Wilder the private secretary . He was
 small nervous alert with intelligent lightblue eyes and mobile
 features . It was he who at once in an incisive and positive tone
 opened the conversation .
-I called this morning Dr . Huxtable too late to prevent you from
+I called this morning Dr. Huxtable too late to prevent you from
 starting for London . I learned that your object was to invite Mr.
 Sherlock Holmes to undertake the conduct of this case . His Grace is
-surprised Dr . Huxtable that you should have taken such a step
+surprised Dr. Huxtable that you should have taken such a step
 without consulting him .
 When I learned that the police had failed
 His Grace is by no means convinced that the police have failed .
 But surely Mr. Wilder
-You are well aware Dr . Huxtable that his Grace is particularly
+You are well aware Dr. Huxtable that his Grace is particularly
 anxious to avoid all public scandal . He prefers to take as few people
 as possible into his confidence .
 The matter can be easily remedied said the browbeaten doctor
@@ -3484,7 +3484,7 @@ is of course for you to decide .
 I could see that the unfortunate doctor was in the last stage of
 indecision from which he was rescued by the deep sonorous voice of
 the redbearded Duke which boomed out like a dinnergong .
-I agree with Mr. Wilder Dr . Huxtable that you would have done
+I agree with Mr. Wilder Dr. Huxtable that you would have done
 wisely to consult me . But since Mr. Holmes has already been taken
 into your confidence it would indeed be absurd that we should not
 avail ourselves of his services . Far from going to the inn Mr.
@@ -3533,7 +3533,7 @@ turn their attention to the South of France . I have already said that
 I do not believe that the Duchess would encourage so monstrous an
 action but the lad had the most wrongheaded opinions and it is
 possible that he may have fled to her aided and abetted by this
-German . I think Dr . Huxtable that we will now return to the Hall .
+German . I think Dr. Huxtable that we will now return to the Hall .
 I could see that there were other questions which Holmes would have
 wished to put but the nobleman's abrupt manner showed that the
 interview was at an end . It was evident that to his intensely
@@ -3609,7 +3609,7 @@ Well well ! said Holmes impatiently . A good cyclist does not need
 a high road . The moor is intersected with paths and the moon was at
 the full . Halloa ! what is this ?
 There was an agitated knock at the door and an instant afterwards
-Dr . Huxtable was in the room . In his hand he held a blue cricketcap
+Dr. Huxtable was in the room . In his hand he held a blue cricketcap
 with a white chevron on the peak .
 At last we have a clue ! he cried . Thank Heaven ! at last we are on
 the dear boy's track ! It is his cap .
@@ -3756,7 +3756,7 @@ But I need your company and assistance . Wait a bit ! There is a
 fellow cutting peat up yonder . Bring him over here and he will guide
 the police .
 I brought the peasant across and Holmes dispatched the frightened
-man with a note to Dr . Huxtable .
+man with a note to Dr. Huxtable .
 Now Watson said he we have picked up two clues this morning .
 One is the bicycle with the Palmer tyre and we see what that has led
 to . The other is the bicycle with the patched Dunlop . Before we start
@@ -3992,7 +3992,7 @@ walk to the school and the sooner we get started the better .
 He hardly opened his lips during that weary trudge across the moor
 nor would he enter the school when he reached it but went on to
 Mackleton Station whence he could send some telegrams . Late at night
-I heard him consoling Dr . Huxtable prostrated by the tragedy of his
+I heard him consoling Dr. Huxtable prostrated by the tragedy of his
 master's death and later still he entered my room as alert and
 vigorous as he had been when he started in the morning . All goes
 well my friend said he . I promise that before tomorrow evening
@@ -4005,7 +4005,7 @@ that wild terror of the night before still lurking in his furtive
 eyes and in his twitching features .
 You have come to see his Grace ? I am sorry but the fact is that the
 Duke is far from well . He has been very much upset by the tragic
-news . We received a telegram from Dr . Huxtable yesterday afternoon
+news . We received a telegram from Dr. Huxtable yesterday afternoon
 which told us of your discovery .
 I must see the Duke Mr. Wilder .
 But he is in his room .
@@ -4030,8 +4030,8 @@ If your Grace wishes
 Yes yes you had better go . Now Mr. Holmes what have you to say ?
 My friend waited until the door had closed behind the retreating
 secretary .
-The fact is your Grace said he that my colleague Dr . Watson
-and myself had an assurance from Dr . Huxtable that a reward had been
+The fact is your Grace said he that my colleague Dr. Watson
+and myself had an assurance from Dr. Huxtable that a reward had been
 offered in this case . I should like to have this confirmed from your
 own lips .
 Certainly Mr. Holmes .
@@ -4157,7 +4157,7 @@ for her dear sake there was no end to my longsuffering . All her
 pretty ways toothere was not one of them which he could not
 suggest and bring back to my memory . I could not send him away . But I
 feared so much lest he should do Arthurthat is Lord Saltirea
-mischief that I dispatched him for safety to Dr . Huxtable's school .
+mischief that I dispatched him for safety to Dr. Huxtable's school .
 James came into contact with this fellow Hayes because the man was a
 tenant of mine and James acted as agent . The fellow was a rascal
 from the beginning but in some extraordinary way James became
@@ -4178,7 +4178,7 @@ together . It appearsthough this James only heard yesterdaythat
 they were pursued that Hayes struck the pursuer with his stick and
 that the man died of his injuries . Hayes brought Arthur to his
 publichouse the Fighting Cock where he was confined in an upper
-room under the care of Mrs . Hayes who is a kindly woman but
+room under the care of Mrs. Hayes who is a kindly woman but
 entirely under the control of her brutal husband .
 Well Mr. Holmes that was the state of affairs when I first saw you
 two days ago . I had no more idea of the truth than you . You will ask
@@ -4197,7 +4197,7 @@ actually do so for events moved too quickly for him and he had not
 time to put his plans into practice .
 What brought all his wicked scheme to wreck was your discovery of
 this man Heidegger's dead body . James was seized with horror at the
-news . It came to us yesterday as we sat together in this study . Dr .
+news . It came to us yesterday as we sat together in this study . Dr.
 Huxtable had sent a telegram . James was so overwhelmed with grief and
 agitation that my suspicions which had never been entirely absent
 rose instantly to a certainty and I taxed him with the deed . He made
@@ -4210,7 +4210,7 @@ not go there by daylight without provoking comment but as soon as
 night fell I hurried off to see my dear Arthur . I found him safe and
 well but horrified beyond expression by the dreadful deed he had
 witnessed . In deference to my promise and much against my will I
-consented to leave him there for three days under the charge of Mrs .
+consented to leave him there for three days under the charge of Mrs.
 Hayes since it was evident that it was impossible to inform the
 police where he was without telling them also who was the murderer
 and I could not see how that murderer could be punished without ruin
@@ -4375,7 +4375,7 @@ No sir we could find no pipe indeed he smoked very little . And
 yet he might have kept some tobacco for his friends .
 No doubt . I only mention it because if I had been handling the case
 I should have been inclined to make that the startingpoint of my
-investigation . However my friend Dr . Watson knows nothing of this
+investigation . However my friend Dr. Watson knows nothing of this
 matter and I should be none the worse for hearing the sequence of
 events once more . Just give us some short sketch of the essentials .
 Stanley Hopkins drew a slip of paper from his pocket .
@@ -4558,7 +4558,7 @@ No sir . Nothing seemed to have been touched .
 Dear me it is certainly a very interesting case . Then there was a
 knife was there not ?
 A sheathknife still in its sheath . It lay at the feet of the dead
-man . Mrs . Carey has identified it as being her husband's property .
+man . Mrs. Carey has identified it as being her husband's property .
 Holmes was lost in thought for some time .
 Well said he at last I suppose I shall have to come out and
 have a look at it .
@@ -4805,7 +4805,7 @@ haunted me for ten days . I hereby banish it completely from my
 presence . Tomorrow I trust that we shall hear the last of it for
 ever .
 Sharp at the hour named Inspector Stanley Hopkins appeared and we
-sat down together to the excellent breakfast which Mrs . Hudson had
+sat down together to the excellent breakfast which Mrs. Hudson had
 prepared . The young detective was in high spirits at his success .
 You really think that your solution must be correct ? asked Holmes .
 I could not imagine a more complete case .
@@ -4854,7 +4854,7 @@ I rather fancy that he is on the stair said Holmes serenely . I
 think Watson that you would do well to put that revolver where you
 can reach it . He rose and laid a written paper upon a sidetable .
 Now we are ready said he .
-There had been some talking in gruff voices outside and now Mrs .
+There had been some talking in gruff voices outside and now Mrs.
 Hudson opened the door to say that there were three men inquiring for
 Captain Basil .
 Show them in one by one said Holmes .
@@ -5126,10 +5126,10 @@ overcoat folded it with great deliberation over the back of a chair
 and then took a seat .
 This gentleman ? said he with a wave in my direction . Is it
 discreet ? Is it right ?
-Dr . Watson is my friend and partner .
+Dr. Watson is my friend and partner .
 Very good Mr. Holmes . It is only in your client's interests that I
 protested . The matter is so very delicate
-Dr . Watson has already heard of it .
+Dr. Watson has already heard of it .
 Then we can proceed to business . You say that you are acting for
 Lady Eva . Has she empowered you to accept my terms ?
 What are your terms ?
@@ -5655,7 +5655,7 @@ Well Mr. Holmes there is no use denying that there is something on
 my mind . And yet it is such an absurd business that I hesitated to
 bother you about it . On the other hand although it is trivial it is
 undoubtedly queer and I know that you have a taste for all that is
-out of the common . But in my opinion it comes more in Dr . Watson's
+out of the common . But in my opinion it comes more in Dr. Watson's
 line than ours .
 Disease ? said I .
 Madness anyhow . And a queer madness too ! You wouldn't think there
@@ -5687,17 +5687,17 @@ affair appeared to be too childish for any particular investigation .
 The second case however was more serious and also more singular .
 It occurred only last night .
 In Kennington Road and within a few hundred yards of Morse Hudson's
-shop there lives a wellknown medical practitioner named Dr .
+shop there lives a wellknown medical practitioner named Dr.
 Barnicot who has one of the largest practices upon the south side of
 the Thames . His residence and principal consultingroom is at
 Kennington Road but he has a branch surgery and dispensary at Lower
-Brixton Road two miles away . This Dr . Barnicot is an enthusiastic
+Brixton Road two miles away . This Dr. Barnicot is an enthusiastic
 admirer of Napoleon and his house is full of books pictures and
 relics of the French Emperor . Some little time ago he purchased from
 Morse Hudson two duplicate plaster casts of the famous head of
 Napoleon by the French sculptor Devine . One of these he placed in
 his hall in the house at Kennington Road and the other on the
-mantelpiece of the surgery at Lower Brixton . Well when Dr . Barnicot
+mantelpiece of the surgery at Lower Brixton . Well when Dr. Barnicot
 came down this morning he was astonished to find that his house had
 been burgled during the night but that nothing had been taken save
 the plaster head from the hall . It had been carried out and had been
@@ -5706,7 +5706,7 @@ fragments were discovered .
 Holmes rubbed his hands .
 This is certainly very novel said he .
 I thought it would please you . But I have not got to the end yet .
-Dr . Barnicot was due at his surgery at twelve o'clock and you can
+Dr. Barnicot was due at his surgery at twelve o'clock and you can
 imagine his amazement when on arriving there he found that the
 window had been opened in the night and that the broken pieces of
 his second bust were strewn all over the room . It had been smashed to
@@ -5714,7 +5714,7 @@ atoms where it stood . In neither case were there any signs which
 could give us a clue as to the criminal or lunatic who had done the
 mischief . Now Mr. Holmes you have got the facts .
 They are singular not to say grotesque said Holmes . May I ask
-whether the two busts smashed in Dr . Barnicot's rooms were the exact
+whether the two busts smashed in Dr. Barnicot's rooms were the exact
 duplicates of the one which was destroyed in Morse Hudson's shop ?
 They were taken from the same mould .
 Such a fact must tell against the theory that the man who breaks
@@ -5729,7 +5729,7 @@ these three were the only ones which had been in his shop for years .
 So although as you say there are many hundreds of statues in
 London it is very probable that these three were the only ones in
 that district . Therefore a local fanatic would begin with them . What
-do you think Dr . Watson ?
+do you think Dr. Watson ?
 There are no limits to the possibilities of monomania I answered .
 There is the condition which the modern French psychologists have
 called the 'idée fixe' which may be trifling in character and
@@ -5744,7 +5744,7 @@ find out where these busts were situated .
 Well how do you explain it ?
 I don't attempt to do so . I would only observe that there is a
 certain method in the gentleman's eccentric proceedings . For example
-in Dr . Barnicot's hall where a sound might arouse the family the
+in Dr. Barnicot's hall where a sound might arouse the family the
 bust was taken outside before being broken whereas in the surgery
 where there was less danger of an alarm it was smashed where it
 stood . The affair seems absurdly trifling and yet I dare call
@@ -5896,7 +5896,7 @@ Holmes pointed to the street lamp above our heads .
 He could see what he was doing here and he could not there . That was
 his reason .
 By Jove ! that's true said the detective . Now that I come to think
-of it Dr . Barnicot's bust was broken not far from his red lamp .
+of it Dr. Barnicot's bust was broken not far from his red lamp .
 Well Mr. Holmes what are we to do with that fact ?
 To remember itto docket it . We may come on something later which
 will bear upon it . What steps do you propose to take now Lestrade ?
@@ -5948,14 +5948,14 @@ A drive of an hour brought us to the picturedealer's establishment .
 He was a small stout man with a red face and a peppery manner .
 Yes sir . On my very counter sir said he . What we pay rates and
 taxes for I don't know when any ruffian can come in and break one's
-goods . Yes sir it was I who sold Dr . Barnicot his two statues .
+goods . Yes sir it was I who sold Dr. Barnicot his two statues .
 Disgraceful sir ! A Nihilist plot that's what I make it . No one but
 an Anarchist would go about breaking statues . Red republicans that's
 what I call 'em . Who did I get the statues from ? I don't see what
 that has to do with it . Well if you really want to know I got them
 from Gelder  Co . in Church Street Stepney . They are a wellknown
 house in the trade and have been this twenty years . How many had I ?
-Threetwo and one are threetwo of Dr . Barnicot's and one smashed
+Threetwo and one are threetwo of Dr. Barnicot's and one smashed
 in broad daylight on my own counter . Do I know that photograph ? No I
 don't . Yes I do though . Why it's Beppo . He was a kind of Italian
 piecework man who made himself useful in the shop . He could carve a
@@ -6391,13 +6391,13 @@ where Sherlock Holmes was pursuing some laborious researches in early
 English chartersresearches which led to results so striking that
 they may be the subject of one of my future narratives . Here it was
 that one evening we received a visit from an acquaintance Mr. Hilton
-Soames tutor and lecturer at the College of St . Luke's . Mr. Soames
+Soames tutor and lecturer at the College of St. Luke's . Mr. Soames
 was a tall spare man of a nervous and excitable temperament . I had
 always known him to be restless in his manner but on this particular
 occasion he was in such a state of uncontrollable agitation that it
 was clear something very unusual had occurred .
 I trust Mr. Holmes that you can spare me a few hours of your
-valuable time . We have had a very painful incident at St . Luke's and
+valuable time . We have had a very painful incident at St. Luke's and
 really but for the happy chance of your being in the town I should
 have been at a loss what to do .
 I am very busy just now and I desire no distractions my friend
@@ -6808,7 +6808,7 @@ Holmes made no further allusion to the matter that day though he
 sat lost in thought for a long time after our belated dinner . At
 eight in the morning he came into my room just as I finished my
 toilet .
-Well Watson said he it is time we went down to St . Luke's . Can
+Well Watson said he it is time we went down to St. Luke's . Can
 you do without breakfast ?
 Certainly .
 Soames will be in a dreadful fidget until we are able to tell him
@@ -7091,7 +7091,7 @@ other half hobbling round the house with a stick or being pushed
 about the grounds by the gardener in a bathchair . He was well liked
 by the few neighbours who called upon him and he has the reputation
 down there of being a very learned man . His household used to consist
-of an elderly housekeeper Mrs . Marker and of a maid Susan Tarlton .
+of an elderly housekeeper Mrs. Marker and of a maid Susan Tarlton .
 These have both been with him since his arrival and they seem to be
 women of excellent character . The Professor is writing a learned
 book and he found it necessary about a year ago to engage a
@@ -7159,7 +7159,7 @@ In the meantime the housekeeper had also arrived upon the scene but
 she was just too late to catch the young man's dying words . Leaving
 Susan with the body she hurried to the Professor's room . He was
 sitting up in bed horribly agitated for he had heard enough to
-convince him that something terrible had occurred . Mrs . Marker is
+convince him that something terrible had occurred . Mrs. Marker is
 prepared to swear that the Professor was still in his nightclothes
 and indeed it was impossible for him to dress without the help of
 Mortimer whose orders were to come at twelve o'clock . The Professor
@@ -7367,7 +7367,7 @@ pick this knife off the writingtable . She advanced along this
 corridor leaving no traces upon the cocoanut matting . Then she found
 herself in this study . How long was she there ? We have no means of
 judging .
-Not more than a few minutes sir . I forgot to tell you that Mrs .
+Not more than a few minutes sir . I forgot to tell you that Mrs.
 Marker the housekeeper had been in there tidying not very long
 beforeabout a quarter of an hour she says .
 Well that gives us a limit . Our lady enters this room and what does
@@ -7384,7 +7384,7 @@ keyhole .
 This is recent quite recent . See how the brass shines where it is
 cut . An old scratch would be the same colour as the surface . Look at
 it through my lens . There's the varnish too like earth on each side
-of a furrow . Is Mrs . Marker there ?
+of a furrow . Is Mrs. Marker there ?
 A sadfaced elderly woman came into the room .
 Did you dust this bureau yesterday morning ?
 Yes sir .
@@ -7395,7 +7395,7 @@ shreds of varnish . Who has the key of this bureau ?
 The Professor keeps it on his watchchain .
 Is it a simple key ?
 No sir it is a Chubb's key .
-Very good . Mrs . Marker you can go . Now we are making a little
+Very good . Mrs. Marker you can go . Now we are making a little
 progress . Our lady enters the room advances to the bureau and
 either opens it or tries to do so . While she is thus engaged young
 Willoughby Smith enters the room . In her hurry to withdraw the key
@@ -7524,7 +7524,7 @@ possible that I am utterly mistaken . The cigarettes will show me .
 My dear Holmes I exclaimed how on earth
 Well well you may see for yourself . If not there's no harm done .
 Of course we always have the optician clue to fall back upon but I
-take a short cut when I can get it . Ah here is the good Mrs . Marker !
+take a short cut when I can get it . Ah here is the good Mrs. Marker !
 Let us enjoy five minutes of instructive conversation with her .
 I may have remarked before that Holmes had when he liked a
 peculiarly ingratiating way with women and that he very readily
@@ -8186,7 +8186,7 @@ surprised if before evening we have not cleared it up or made a
 considerable advance along it .
 It was already dark when we reached the old University city . Holmes
 took a cab at the station and ordered the man to drive to the house
-of Dr . Leslie Armstrong . A few minutes later we had stopped at a
+of Dr. Leslie Armstrong . A few minutes later we had stopped at a
 large mansion in the busiest thoroughfare . We were shown in and
 after a long wait were at last admitted into the consultingroom
 where we found the doctor seated behind his table .
@@ -8199,7 +8199,7 @@ could not fail to be impressed by a mere glance at the man the
 square massive face the brooding eyes under the thatched brows and
 the granite moulding of the inflexible jaw . A man of deep character
 a man with an alert mind grim ascetic selfcontained
-formidableso I read Dr . Leslie Armstrong . He held my friend's card
+formidableso I read Dr. Leslie Armstrong . He held my friend's card
 in his hand and he looked up with no very pleased expression upon
 his dour features .
 I have heard your name Mr. Sherlock Holmes and I am aware of your
@@ -8246,7 +8246,7 @@ Did you ever know him ill ?
 Never .
 Holmes popped a sheet of paper before the doctor's eyes . Then
 perhaps you will explain this receipted bill for thirteen guineas
-paid by Mr. Godfrey Staunton last month to Dr . Leslie Armstrong of
+paid by Mr. Godfrey Staunton last month to Dr. Leslie Armstrong of
 Cambridge . I picked it out from among the papers upon his desk .
 The doctor flushed with anger .
 I do not feel that there is any reason why I should render an
@@ -8265,7 +8265,7 @@ Staunton at sixfifteen yesterday eveninga telegram which is
 undoubtedly associated with his disappearanceand yet you have not
 had it . It is most culpable . I shall certainly go down to the office
 here and register a complaint .
-Dr . Leslie Armstrong sprang up from behind his desk and his dark
+Dr. Leslie Armstrong sprang up from behind his desk and his dark
 face was crimson with fury .
 I'll trouble you to walk out of my house sir said he . You can
 tell your employer Lord MountJames that I do not wish to have
@@ -8273,7 +8273,7 @@ anything to do either with him or with his agents . No sir not
 another word ! He rang the bell furiously . John show these
 gentlemen out ! A pompous butler ushered us severely to the door and
 we found ourselves in the street . Holmes burst out laughing .
-Dr . Leslie Armstrong is certainly a man of energy and character
+Dr. Leslie Armstrong is certainly a man of energy and character
 said he . I have not seen a man who if he turned his talents that
 way was more calculated to fill the gap left by the illustrious
 Moriarty . And now my poor Watson here we are stranded and
@@ -8333,7 +8333,7 @@ now as you perceive it has returned after me . Of course I had at
 the outset no particular reason to connect these journeys with the
 disappearance of Godfrey Staunton and was only inclined to
 investigate them on the general grounds that everything which
-concerns Dr . Armstrong is at present of interest to us but now that
+concerns Dr. Armstrong is at present of interest to us but now that
 I find he keeps so keen a lookout upon anyone who may follow him on
 these excursions the affair appears more important and I shall not
 be satisfied until I have made the matter clear .
@@ -8344,7 +8344,7 @@ concealment . All this country that I passed over tonight is as flat
 and clean as the palm of your hand and the man we are following is
 no fool as he very clearly showed tonight . I have wired to Overton
 to let us know any fresh London developments at this address and in
-the meantime we can only concentrate our attention upon Dr .
+the meantime we can only concentrate our attention upon Dr.
 Armstrong whose name the obliging young lady at the office allowed
 me to read upon the counterfoil of Staunton's urgent message . He
 knows where the young man isto that I'll swearand if he knows
@@ -8408,7 +8408,7 @@ combination in the threequarter line and their weakness both in
 attack and defence more than neutralized the efforts of a heavy and
 hardworking pack .'
 Then our friend Overton's forebodings have been justified said
-Holmes . Personally I am in agreement with Dr . Armstrong and
+Holmes . Personally I am in agreement with Dr. Armstrong and
 football does not come within my horizon . Early to bed tonight
 Watson for I foresee that tomorrow may be an eventful day .
 I was horrified by my first glimpse of Holmes next morning for he
@@ -8421,7 +8421,7 @@ this occasion the instrument of evil but it will rather prove to be
 the key which will unlock our mystery . On this syringe I base all my
 hopes . I have just returned from a small scouting expedition and
 everything is favourable . Eat a good breakfast Watson for I propose
-to get upon Dr . Armstrong's trail today and once on it I will not
+to get upon Dr. Armstrong's trail today and once on it I will not
 stop for rest or food until I run him to his burrow .
 In that case said I we had best carry our breakfast with us for
 he is making an early start . His carriage is at the door .
@@ -8464,7 +8464,7 @@ Jove ! here is the brougham coming round the corner . Quick Watson
 quick or we are done !
 He sprang through a gate into a field dragging the reluctant Pompey
 after him . We had hardly got under the shelter of the hedge when the
-carriage rattled past . I caught a glimpse of Dr . Armstrong within
+carriage rattled past . I caught a glimpse of Dr. Armstrong within
 his shoulders bowed his head sunk on his hands the very image of
 distress . I could tell by my companion's graver face that he also had
 seen .
@@ -8502,13 +8502,13 @@ were anything but doctors who had been sent to his assistance . Holmes
 was endeavouring to utter a few words of consolation and to explain
 the alarm which had been caused to his friends by his sudden
 disappearance when there was a step upon the stairs and there was
-the heavy stern questioning face of Dr . Armstrong at the door .
+the heavy stern questioning face of Dr. Armstrong at the door .
 So gentlemen said he you have attained your end and have
 certainly chosen a particularly delicate moment for your intrusion . I
 would not brawl in the presence of death but I can assure you that
 if I were a younger man your monstrous conduct would not pass with
 impunity .
-Excuse me Dr . Armstrong I think we are a little at
+Excuse me Dr. Armstrong I think we are a little at
 crosspurposes said my friend with dignity . If you could step
 downstairs with us we may each be able to give some light to the
 other upon this miserable affair .
@@ -8524,7 +8524,7 @@ anxious to hush up private scandals than to give them publicity . If
 as I imagine there is no breach of the law in this matter you can
 absolutely depend upon my discretion and my cooperation in keeping
 the facts out of the papers .
-Dr . Armstrong took a quick step forward and wrung Holmes by the hand .
+Dr. Armstrong took a quick step forward and wrung Holmes by the hand .
 You are a good fellow said he . I had misjudged you . I thank
 Heaven that my compunction at leaving poor Staunton all alone in this
 plight caused me to turn my carriage back and so to make your
@@ -8629,7 +8629,7 @@ in ivy but the large windows showed that modern changes had been
 carried out and one wing of the house appeared to be entirely new .
 The youthful figure and alert eager face of Inspector Stanley
 Hopkins confronted us in the open doorway .
-I'm very glad you have come Mr. Holmes . And you too Dr . Watson !
+I'm very glad you have come Mr. Holmes . And you too Dr. Watson !
 But indeed if I had my time over again I should not have troubled
 you for since the lady has come to herself she has given so clear an
 account of the affair that there is not much left for us to do . You
@@ -9522,7 +9522,7 @@ it is unreasonable for us to expect you to act unless we give you our
 entire confidence .
 I agree with you sir said the younger statesman .
 Then I will tell you relying entirely upon your honour and that of
-your colleague Dr . Watson . I may appeal to your patriotism also for
+your colleague Dr. Watson . I may appeal to your patriotism also for
 I could not imagine a greater misfortune for the country than that
 this affair should come out .
 You may safely trust us .
@@ -9655,7 +9655,7 @@ Mr. Eduardo Lucas well known in society circles both on account of
 his charming personality and because he has the welldeserved
 reputation of being one of the best amateur tenors in the country .
 Mr. Lucas is an unmarried man thirtyfour years of age and his
-establishment consists of Mrs . Pringle an elderly housekeeper and
+establishment consists of Mrs. Pringle an elderly housekeeper and
 of Mitton his valet . The former retires early and sleeps at the top
 of the house . The valet was out for the evening visiting a friend at
 Hammersmith . From ten o'clock onwards Mr. Lucas had the house to
@@ -9697,7 +9697,7 @@ Lucas than for the others to establish a connection or receive a
 message from the European Secretary's householda small thing and
 yet where events are compressed into a few hours it may prove
 essential . Halloa ! what have we here ?
-Mrs . Hudson had appeared with a lady's card upon her salver . Holmes
+Mrs. Hudson had appeared with a lady's card upon her salver . Holmes
 glanced at it raised his eyebrows and handed it over to me .
 Ask Lady Hilda Trelawney Hope if she will be kind enough to step
 up said he .

@@ -2,7 +2,7 @@ THE PROBLEM OF THOR BRIDGE
 Arthur Conan Doyle
 Somewhere in the vaults of the bank of Cox and Co . at Charing Cross
 there is a travelworn and battered tin dispatchbox with my name
-John H . Watson M .D . Late Indian Army painted upon the lid . It is
+John H . Watson M .D. Late Indian Army painted upon the lid . It is
 crammed with papers nearly all of which are records of cases to
 illustrate the curious problems which Mr. Sherlock Holmes had at
 various times to examine . Some and not the least interesting were
@@ -286,7 +286,7 @@ suspicious .
 Perhaps he will come back ?
 He is sure to come back . He must come back . He can't leave it where
 it is . Ha ! isn't that a ring ? Yes there is his footstep . Well Mr.
-Gibson I was just saying to Dr . Watson that you were somewhat
+Gibson I was just saying to Dr. Watson that you were somewhat
 overdue .
 The Gold King had reentered the room in a more chastened mood than he
 had left it . His wounded pride still showed in his resentful eyes
@@ -444,7 +444,7 @@ straight so I've heard .
 I need not appear in the matter at all said Holmes to the evident
 relief of our melancholy acquaintance . If I can clear it up I don't
 ask to have my name mentioned .
-Well it's very handsome of you I am sure . And your friend Dr .
+Well it's very handsome of you I am sure . And your friend Dr.
 Watson can be trusted I know . Now Mr. Holmes as we walk down to
 the place there is one question I should like to ask you . I'd breathe
 it to no soul but you . He looked round as though he hardly dare
@@ -478,7 +478,7 @@ reedy pool constricted in the centre where the main carriage drive
 passed over a stone bridge but swelling into small lakes on either
 side . Our guide paused at the mouth of this bridge and he pointed to
 the ground .
-That was where Mrs . Gibson's body lay . I marked it by that stone .
+That was where Mrs. Gibson's body lay . I marked it by that stone .
 I understand that you were there before it was moved ?
 Yes they sent for me at once .
 Who did ?
@@ -567,7 +567,7 @@ the evening but the tragedy certainly occurred about the hour named
 in the note . There is no evidence at all that Mr. Gibson had been out
 of doors since his return from town at five o'clock . On the other
 hand Miss Dunbar as I understand it admits that she had made an
-appointment to meet Mrs . Gibson at the bridge . Beyond this she would
+appointment to meet Mrs. Gibson at the bridge . Beyond this she would
 say nothing as her lawyer had advised her to reserve her defence . We
 have several very vital questions to ask that young lady and my mind
 will not be easy until we have seen her . I must confess that the case
@@ -667,7 +667,7 @@ explanation .
 If you will find the facts perhaps others may find the
 explanation .
 With regard then to my presence at Thor Bridge that night I
-received a note from Mrs . Gibson in the morning . It lay on the table
+received a note from Mrs. Gibson in the morning . It lay on the table
 of the schoolroom and it may have been left there by her own hand .
 It implored me to see her there after dinner said she had something
 important to say to me and asked me to leave an answer on the
@@ -793,7 +793,7 @@ but sat lost in thought until we pulled up in the little Hampshire
 station . We secured a ramshackle trap and in a quarter of an hour
 were at the house of our confidential friend the sergeant .
 A clue Mr. Holmes ? What is it ?
-It all depends upon the behaviour of Dr . Watson's revolver said my
+It all depends upon the behaviour of Dr. Watson's revolver said my
 friend . Here it is . Now officer can you give me ten yards of
 string ?
 The village shop provided a ball of stout twine .

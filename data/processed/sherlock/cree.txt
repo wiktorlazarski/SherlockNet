@@ -92,7 +92,7 @@ This matter is very delicate Mr. Holmes he said . Consider the
 relation in which I stand to Professor Presbury both privately and
 publicly . I really can hardly justify myself if I speak before any
 third person .
-Have no fear Mr. Bennett . Dr . Watson is the very soul of
+Have no fear Mr. Bennett . Dr. Watson is the very soul of
 discretion and I can assure you that this is a matter in which I am
 very likely to need an assistant .
 As you like Mr. Holmes . You will I am sure understand my having
@@ -103,7 +103,7 @@ lives under his roof and is engaged to his only daughter . Certainly
 we must agree that the professor has every claim upon his loyalty and
 devotion . But it may best be shown by taking the necessary steps to
 clear up this strange mystery .
-I hope so Mr. Holmes . That is my one object . Does Dr . Watson know
+I hope so Mr. Holmes . That is my one object . Does Dr. Watson know
 the situation ?
 I have not had time to explain it .
 Then perhaps I had better go over the ground again before explaining
@@ -153,7 +153,7 @@ again and again to resume the old relations and to penetrate this
 mask which her father seemed to have put on . You sir as I
 understand did the samebut all was in vain . And now Mr. Bennett
 tell in your own words the incident of the letters .
-You must understand Dr . Watson that the professor had no secrets
+You must understand Dr. Watson that the professor had no secrets
 from me . If I were his son or his younger brother I could not have
 more completely enjoyed his confidence . As his secretary I handled
 every paper which came to him and I opened and subdivided his
@@ -512,7 +512,7 @@ has actually more energy and vitality than I can ever remember nor
 was his brain ever clearer . But it's not heit's never the man whom
 we have known .
 I don't think you have anything to fear now for a week at least
-Holmes answered . I am a busy man and Dr . Watson has his patients to
+Holmes answered . I am a busy man and Dr. Watson has his patients to
 attend to . Let us agree that we meet here at this hour next Tuesday
 and I shall be surprised if before we leave you again we are not able
 to explain even if we cannot perhaps put an end to your troubles .
@@ -533,7 +533,7 @@ are correct we should have an opportunity of bringing matters to a
 head . In order to do so it is necessary to hold the professor under
 observation . I would suggest therefore that you remain awake and on
 the lookout . Should you hear him pass your door do not interrupt
-him but follow him as discreetly as you can . Dr . Watson and I will
+him but follow him as discreetly as you can . Dr. Watson and I will
 not be far off . By the way where is the key of that little box of
 which you spoke ?
 Upon his watchchain .

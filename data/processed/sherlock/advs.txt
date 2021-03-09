@@ -214,7 +214,7 @@ You had my note ? he asked with a deep harsh voice and a strongly
 marked German accent . I told you that I would call . He looked from
 one to the other of us as if uncertain which to address .
 Pray take a seat said Holmes . This is my friend and colleague
-Dr . Watson who is occasionally good enough to help me in my cases .
+Dr. Watson who is occasionally good enough to help me in my cases .
 Whom have I the honour to address ?
 You may address me as the Count Von Kramm a Bohemian nobleman . I
 understand that this gentleman your friend is a man of honour and
@@ -357,7 +357,7 @@ he said .
 Holmes scribbled a receipt upon a sheet of his notebook and handed
 it to him .
 And Mademoiselle's address ? he asked .
-Is Briony Lodge Serpentine Avenue St . John's Wood .
+Is Briony Lodge Serpentine Avenue St. John's Wood .
 Holmes took a note of it . One other question said he . Was the
 photograph a cabinet ?
 It was .
@@ -457,7 +457,7 @@ talking excitedly and waving his arms . Of her I could see nothing .
 Presently he emerged looking even more flurried than before . As he
 stepped up to the cab he pulled a gold watch from his pocket and
 looked at it earnestly 'Drive like the devil' he shouted 'first to
-Gross  Hankey's in Regent Street and then to the Church of St .
+Gross  Hankey's in Regent Street and then to the Church of St.
 Monica in the Edgeware Road . Half a guinea if you do it in twenty
 minutes !'
 Away they went and I was just wondering whether I should not do
@@ -467,13 +467,13 @@ while all the tags of his harness were sticking out of the buckles .
 It hadn't pulled up before she shot out of the hall door and into it .
 I only caught a glimpse of her at the moment but she was a lovely
 woman with a face that a man might die for .
-'The Church of St . Monica John' she cried 'and half a sovereign
+'The Church of St. Monica John' she cried 'and half a sovereign
 if you reach it in twenty minutes .'
 This was quite too good to lose Watson . I was just balancing
 whether I should run for it or whether I should perch behind her
 landau when a cab came through the street . The driver looked twice at
 such a shabby fare but I jumped in before he could object . 'The
-Church of St . Monica' said I 'and half a sovereign if you reach it
+Church of St. Monica' said I 'and half a sovereign if you reach it
 in twenty minutes .' It was twentyfive minutes to twelve and of
 course it was clear enough what was in the wind .
 My cabby drove fast . I don't think I ever drove faster but the
@@ -526,7 +526,7 @@ Oh the cause is excellent !
 Then I am your man .
 I was sure that I might rely on you .
 But what is it you wish ?
-When Mrs . Turner has brought in the tray I will make it clear to
+When Mrs. Turner has brought in the tray I will make it clear to
 you . Now he said as he turned hungrily on the simple fare that our
 landlady had provided I must discuss it while I eat for I have not
 much time . It is nearly five now . In two hours we must be on the
@@ -891,7 +891,7 @@ impossible for me to say whether the present case is an instance of
 crime or not but the course of events is certainly among the most
 singular that I have ever listened to . Perhaps Mr. Wilson you would
 have the great kindness to recommence your narrative . I ask you not
-merely because my friend Dr . Watson has not heard the opening part
+merely because my friend Dr. Watson has not heard the opening part
 but also because the peculiar nature of the story makes me anxious to
 have every possible detail from your lips . As a rule when I have
 heard some slight indication of the course of events I am able to
@@ -1225,7 +1225,7 @@ was using my room as a temporary convenience until his new premises
 were ready . He moved out yesterday .'
 'Where could I find him ?'
 'Oh at his new offices . He did tell me the address . Yes 17 King
-Edward Street near St . Paul's .'
+Edward Street near St. Paul's .'
 I started off Mr. Holmes but when I got to that address it was a
 manufactory of artificial kneecaps and no one in it had ever heard
 of either Mr. William Morris or Mr. Duncan Ross .
@@ -1300,7 +1300,7 @@ out like the bill of some strange bird . I had come to the conclusion
 that he had dropped asleep and indeed was nodding myself when he
 suddenly sprang out of his chair with the gesture of a man who has
 made up his mind and put his pipe down upon the mantelpiece .
-Sarasate plays at the St . James's Hall this afternoon he remarked .
+Sarasate plays at the St. James's Hall this afternoon he remarked .
 What do you think Watson ? Could your patients spare you for a few
 hours ?
 I have nothing to do today . My practice is never very absorbing .
@@ -1385,7 +1385,7 @@ upon him and that his brilliant reasoning power would rise to the
 level of intuition until those who were unacquainted with his
 methods would look askance at him as on a man whose knowledge was not
 that of other mortals . When I saw him that afternoon so enwrapped in
-the music at St . James's Hall I felt that an evil time might be
+the music at St. James's Hall I felt that an evil time might be
 coming upon those whom he had set himself to hunt down .
 You want to go home no doubt Doctor he remarked as we emerged .
 Yes it would be as well .
@@ -1787,7 +1787,7 @@ me Mr. Holmes she cried else how could you know all that ?
 Never mind said Holmes laughing it is my business to know
 things . Perhaps I have trained myself to see what others overlook . If
 not why should you come to consult me ?
-I came to you sir because I heard of you from Mrs . Etherege whose
+I came to you sir because I heard of you from Mrs. Etherege whose
 husband you found so easy when the police and everyone had given him
 up for dead . Oh Mr. Holmes I wish you would do as much for me . I'm
 not rich but still I have a hundred a year in my own right besides
@@ -1839,7 +1839,7 @@ I can do pretty well with what I earn at typewriting . It brings me
 twopence a sheet and I can often do from fifteen to twenty sheets in
 a day .
 You have made your position very clear to me said Holmes . This is
-my friend Dr . Watson before whom you can speak as freely as before
+my friend Dr. Watson before whom you can speak as freely as before
 myself . Kindly tell us now all about your connection with Mr. Hosmer
 Angel .
 A flush stole over Miss Sutherland's face and she picked nervously
@@ -1929,8 +1929,8 @@ It missed him then ?
 Yes sir for he had started to England just before it arrived .
 Ha ! that was unfortunate . Your wedding was arranged then for the
 Friday . Was it to be in church ?
-Yes sir but very quietly . It was to be at St . Saviour's near
-King's Cross and we were to have breakfast afterwards at the St .
+Yes sir but very quietly . It was to be at St. Saviour's near
+King's Cross and we were to have breakfast afterwards at the St.
 Pancras Hotel . Hosmer came for us in a hansom but as there were two
 of us he put us both into it and stepped himself into a fourwheeler
 which happened to be the only other cab in the street . We got to the
@@ -2678,7 +2678,7 @@ I am afraid the doctor won't allow it .
 The doctor ?
 Yes have you not heard ? Poor father has never been strong for years
 back but this has broken him down completely . He has taken to his
-bed and Dr . Willows says that he is a wreck and that his nervous
+bed and Dr. Willows says that he is a wreck and that his nervous
 system is shattered . Mr. McCarthy was the only man alive who had
 known dad in the old days in Victoria .
 Ha ! In Victoria ! That is important .
@@ -3522,7 +3522,7 @@ which showed by its ragged edge that it had indeed been torn from a
 book . It was headed March 1869 and beneath were the following
 enigmatical notices
 4th . Hudson came . Same old platform .
-7th . Set the pips on McCauley Paramore and John Swain of St .
+7th . Set the pips on McCauley Paramore and John Swain of St.
 Augustine .
 9th . McCauley cleared .
 10th . John Swain cleared .
@@ -3841,8 +3841,8 @@ was seen swinging in the trough of a wave with the letters L . S .
 carved upon it and that is all which we shall ever know of the fate
 of the Lone Star .
 THE MAN WITH THE TWISTED LIP
-Isa Whitney brother of the late Elias Whitney D .D . Principal of
-the Theological College of St . George's was much addicted to opium .
+Isa Whitney brother of the late Elias Whitney D.D. Principal of
+the Theological College of St. George's was much addicted to opium .
 The habit grew upon him as I understand from some foolish freak
 when he was at college for having read De Quincey's description of
 his dreams and sensations he had drenched his tobacco with laudanum
@@ -4015,7 +4015,7 @@ nights .
 What ! You do not mean bodies ?
 Ay bodies Watson . We should be rich men if we had £1000 for every
 poor devil who has been done to death in that den . It is the vilest
-murdertrap on the whole riverside and I fear that Neville St . Clair
+murdertrap on the whole riverside and I fear that Neville St. Clair
 has entered it never to leave it more . But our trap should be here .
 He put his two forefingers between his teeth and whistled shrillya
 signal which was answered by a similar whistle from the distance
@@ -4028,7 +4028,7 @@ If I can be of use .
 Oh a trusty comrade is always of use and a chronicler still more
 so . My room at The Cedars is a doublebedded one .
 The Cedars ?
-Yes that is Mr. St . Clair's house . I am staying there while I
+Yes that is Mr. St. Clair's house . I am staying there while I
 conduct the inquiry .
 Where is it then ?
 Near Lee in Kent . We have a sevenmile drive before us .
@@ -4067,21 +4067,21 @@ concisely to you Watson and maybe you can see a spark where all is
 dark to me .
 Proceed then .
 Some years agoto be definite in May 1884there came to Lee a
-gentleman Neville St . Clair by name who appeared to have plenty of
+gentleman Neville St. Clair by name who appeared to have plenty of
 money . He took a large villa laid out the grounds very nicely and
 lived generally in good style . By degrees he made friends in the
 neighbourhood and in 1887 he married the daughter of a local brewer
 by whom he now has two children . He had no occupation but was
 interested in several companies and went into town as a rule in the
 morning returning by the 5 .14 from Cannon Street every night . Mr.
-St . Clair is now thirtyseven years of age is a man of temperate
+St. Clair is now thirtyseven years of age is a man of temperate
 habits a good husband a very affectionate father and a man who is
 popular with all who know him . I may add that his whole debts at the
 present moment as far as we have been able to ascertain amount to
 £88 10s . while he has £220 standing to his credit in the Capital and
 Counties Bank . There is no reason therefore to think that money
 troubles have been weighing upon his mind .
-Last Monday Mr. Neville St . Clair went into town rather earlier than
+Last Monday Mr. Neville St. Clair went into town rather earlier than
 usual remarking before he started that he had two important
 commissions to perform and that he would bring his little boy home a
 box of bricks . Now by the merest chance his wife received a
@@ -4090,13 +4090,13 @@ the effect that a small parcel of considerable value which she had
 been expecting was waiting for her at the offices of the Aberdeen
 Shipping Company . Now if you are well up in your London you will
 know that the office of the company is in Fresno Street which
-branches out of Upper Swandam Lane where you found me tonight . Mrs .
-St . Clair had her lunch started for the City did some shopping
+branches out of Upper Swandam Lane where you found me tonight . Mrs.
+St. Clair had her lunch started for the City did some shopping
 proceeded to the company's office got her packet and found herself
 at exactly 4 .35 walking through Swandam Lane on her way back to the
 station . Have you followed me so far ?
 It is very clear .
-If you remember Monday was an exceedingly hot day and Mrs . St .
+If you remember Monday was an exceedingly hot day and Mrs. St.
 Clair walked slowly glancing about in the hope of seeing a cab as
 she did not like the neighbourhood in which she found herself . While
 she was walking in this way down Swandam Lane she suddenly heard an
@@ -4120,13 +4120,13 @@ doubts and fears she rushed down the lane and by rare goodfortune
 met in Fresno Street a number of constables with an inspector all on
 their way to their beat . The inspector and two men accompanied her
 back and in spite of the continued resistance of the proprietor
-they made their way to the room in which Mr. St . Clair had last been
+they made their way to the room in which Mr. St. Clair had last been
 seen . There was no sign of him there . In fact in the whole of that
 floor there was no one to be found save a crippled wretch of hideous
 aspect who it seems made his home there . Both he and the Lascar
 stoutly swore that no one else had been in the front room during the
 afternoon . So determined was their denial that the inspector was
-staggered and had almost come to believe that Mrs . St . Clair had
+staggered and had almost come to believe that Mrs. St. Clair had
 been deluded when with a cry she sprang at a small deal box which
 lay upon the table and tore the lid from it . Out there fell a cascade
 of children's bricks . It was the toy which he had promised to bring
@@ -4142,17 +4142,17 @@ four and a half feet of water . The bedroom window was a broad one and
 opened from below . On examination traces of blood were to be seen
 upon the windowsill and several scattered drops were visible upon
 the wooden floor of the bedroom . Thrust away behind a curtain in the
-front room were all the clothes of Mr. Neville St . Clair with the
+front room were all the clothes of Mr. Neville St. Clair with the
 exception of his coat . His boots his socks his hat and his
 watchall were there . There were no signs of violence upon any of
-these garments and there were no other traces of Mr. Neville St .
+these garments and there were no other traces of Mr. Neville St.
 Clair . Out of the window he must apparently have gone for no other
 exit could be discovered and the ominous bloodstains upon the sill
 gave little promise that he could save himself by swimming for the
 tide was at its very highest at the moment of the tragedy .
 And now as to the villains who seemed to be immediately implicated
 in the matter . The Lascar was known to be a man of the vilest
-antecedents but as by Mrs . St . Clair's story he was known to have
+antecedents but as by Mrs. St. Clair's story he was known to have
 been at the foot of the stair within a very few seconds of her
 husband's appearance at the window he could hardly have been more
 than an accessory to the crime . His defence was one of absolute
@@ -4161,7 +4161,7 @@ of Hugh Boone his lodger and that he could not account in any way
 for the presence of the missing gentleman's clothes .
 So much for the Lascar manager . Now for the sinister cripple who
 lives upon the second floor of the opium den and who was certainly
-the last human being whose eyes rested upon Neville St . Clair . His
+the last human being whose eyes rested upon Neville St. Clair . His
 name is Hugh Boone and his hideous face is one which is familiar to
 every man who goes much to the City . He is a professional beggar
 though in order to avoid the police regulations he pretends to a
@@ -4191,7 +4191,7 @@ respects he appears to be a powerful and wellnurtured man . Surely
 your medical experience would tell you Watson that weakness in one
 limb is often compensated for by exceptional strength in the others .
 Pray continue your narrative .
-Mrs . St . Clair had fainted at the sight of the blood upon the
+Mrs. St. Clair had fainted at the sight of the blood upon the
 window and she was escorted home in a cab by the police as her
 presence could be of no help to them in their investigations .
 Inspector Barton who had charge of the case made a very careful
@@ -4206,15 +4206,15 @@ ringfinger which had been cut near the nail and explained that the
 bleeding came from there adding that he had been to the window not
 long before and that the stains which had been observed there came
 doubtless from the same source . He denied strenuously having ever
-seen Mr. Neville St . Clair and swore that the presence of the clothes
-in his room was as much a mystery to him as to the police . As to Mrs .
-St . Clair's assertion that she had actually seen her husband at the
+seen Mr. Neville St. Clair and swore that the presence of the clothes
+in his room was as much a mystery to him as to the police . As to Mrs.
+St. Clair's assertion that she had actually seen her husband at the
 window he declared that she must have been either mad or dreaming .
 He was removed loudly protesting to the policestation while the
 inspector remained upon the premises in the hope that the ebbing tide
 might afford some fresh clue .
 And it did though they hardly found upon the mudbank what they had
-feared to find . It was Neville St . Clair's coat and not Neville St .
+feared to find . It was Neville St. Clair's coat and not Neville St.
 Clair which lay uncovered as the tide receded . And what do you think
 they found in the pockets ?
 I cannot imagine .
@@ -4227,7 +4227,7 @@ when the stripped body had been sucked away into the river .
 But I understand that all the other clothes were found in the room .
 Would the body be dressed in a coat alone ?
 No sir but the facts might be met speciously enough . Suppose that
-this man Boone had thrust Neville St . Clair through the window there
+this man Boone had thrust Neville St. Clair through the window there
 is no human eye which could have seen the deed . What would he do
 then ? It would of course instantly strike him that he must get rid of
 the telltale garments . He would seize the coat then and be in the
@@ -4249,7 +4249,7 @@ it could not be shown that there had ever before been anything
 against him . He had for years been known as a professional beggar
 but his life appeared to have been a very quiet and innocent one .
 There the matter stands at present and the questions which have to
-be solvedwhat Neville St . Clair was doing in the opium den what
+be solvedwhat Neville St. Clair was doing in the opium den what
 happened to him when there where is he now and what Hugh Boone had
 to do with his disappearanceare all as far from a solution as ever .
 I confess that I cannot recall any case within my experience which
@@ -4268,8 +4268,8 @@ among the trees ? That is The Cedars and beside that lamp sits a
 woman whose anxious ears have already I have little doubt caught
 the clink of our horse's feet .
 But why are you not conducting the case from Baker Street ? I asked .
-Because there are many inquiries which must be made out here . Mrs .
-St . Clair has most kindly put two rooms at my disposal and you may
+Because there are many inquiries which must be made out here . Mrs.
+St. Clair has most kindly put two rooms at my disposal and you may
 rest assured that she will have nothing but a welcome for my friend
 and colleague . I hate to meet her Watson when I have no news of her
 husband . Here we are . Whoa there whoa !
@@ -4292,7 +4292,7 @@ No bad ?
 No .
 Thank God for that . But come in . You must be weary for you have had
 a long day .
-This is my friend Dr . Watson . He has been of most vital use to me
+This is my friend Dr. Watson . He has been of most vital use to me
 in several of my cases and a lucky chance has made it possible for
 me to bring him out and associate him with this investigation .
 I am delighted to see you said she pressing my hand warmly . You
@@ -4366,7 +4366,7 @@ thumb . Ha ! And the flap has been gummed if I am not very much in
 error by a person who had been chewing tobacco . And you have no
 doubt that it is your husband's hand madam ?
 None . Neville wrote those words .
-And they were posted today at Gravesend . Well Mrs . St . Clair the
+And they were posted today at Gravesend . Well Mrs. St. Clair the
 clouds lighten though I should not venture to say that the danger is
 over .
 But he must be alive Mr. Holmes .
@@ -4417,7 +4417,7 @@ Had he ever spoken of Swandam Lane ?
 Never .
 Had he ever showed any signs of having taken opium ?
 Never .
-Thank you Mrs . St . Clair . Those are the principal points about
+Thank you Mrs. St. Clair . Those are the principal points about
 which I wished to be absolutely clear . We shall now have a little
 supper and then retire for we may have a very busy day tomorrow .
 A large and comfortable doublebedded room had been placed at our
@@ -4492,7 +4492,7 @@ with a huge ledger upon the table and a telephone projecting from
 the wall . The inspector sat down at his desk .
 What can I do for you Mr. Holmes ?
 I called about that beggarman Boonethe one who was charged with
-being concerned in the disappearance of Mr. Neville St . Clair of
+being concerned in the disappearance of Mr. Neville St. Clair of
 Lee .
 Yes . He was brought up and remanded for further inquiries .
 So I heard . You have him here ?
@@ -4539,7 +4539,7 @@ lock and we all very quietly entered the cell . The sleeper half
 turned and then settled down once more into a deep slumber . Holmes
 stooped to the waterjug moistened his sponge and then rubbed it
 twice vigorously across and down the prisoner's face .
-Let me introduce you he shouted to Mr. Neville St . Clair of
+Let me introduce you he shouted to Mr. Neville St. Clair of
 Lee in the county of Kent .
 Never in my life have I seen such a sight . The man's face peeled off
 under the sponge like the bark from a tree . Gone was the coarse brown
@@ -4555,11 +4555,11 @@ man . I know him from the photograph .
 The prisoner turned with the reckless air of a man who abandons
 himself to his destiny . Be it so said he . And pray what am I
 charged with ?
-With making away with Mr. Neville St .Oh come you can't be
+With making away with Mr. Neville St.Oh come you can't be
 charged with that unless they make a case of attempted suicide of
 it said the inspector with a grin . Well I have been twentyseven
 years in the force but this really takes the cake .
-If I am Mr. Neville St . Clair then it is obvious that no crime has
+If I am Mr. Neville St. Clair then it is obvious that no crime has
 been committed and that therefore I am illegally detained .
 No crime but a very great error has been committed said Holmes .
 You would have done better to have trusted your wife .
@@ -4647,7 +4647,7 @@ the leather bag in which I carried my takings . I hurled it out of the
 window and it disappeared into the Thames . The other clothes would
 have followed but at that moment there was a rush of constables up
 the stair and a few minutes after I found rather I confess to my
-relief that instead of being identified as Mr. Neville St . Clair I
+relief that instead of being identified as Mr. Neville St. Clair I
 was arrested as his murderer .
 I do not know that there is anything else for me to explain . I was
 determined to preserve my disguise as long as possible and hence my
@@ -4739,7 +4739,7 @@ left in possession of the field of battle and also of the spoils of
 victory in the shape of this battered hat and a most unimpeachable
 Christmas goose .
 Which surely he restored to their owner ?
-My dear fellow there lies the problem . It is true that 'For Mrs .
+My dear fellow there lies the problem . It is true that 'For Mrs.
 Henry Baker' was printed upon a small card which was tied to the
 bird's left leg and it is also true that the initials 'H . B .' are
 legible upon the lining of this hat but as there are some thousands
@@ -4953,7 +4953,7 @@ who knows him will direct his attention to it . Here you are
 Peterson run down to the advertising agency and have this put in the
 evening papers .
 In which sir ?
-Oh in the Globe Star Pall Mall St . James's Evening News
+Oh in the Globe Star Pall Mall St. James's Evening News
 Standard Echo and any others that occur to you .
 Very well sir . And this stone ?
 Ah yes I shall keep the stone . Thank you . And I say Peterson
@@ -4991,7 +4991,7 @@ come back in the evening at the hour you have mentioned for I should
 like to see the solution of so tangled a business .
 Very glad to see you . I dine at seven . There is a woodcock I
 believe . By the way in view of recent occurrences perhaps I ought
-to ask Mrs . Hudson to examine its crop .
+to ask Mrs. Hudson to examine its crop .
 I had been delayed at a case and it was a little after halfpast six
 when I found myself in Baker Street once more . As I approached the
 house I saw a tall man in a Scotch bonnet with a coat which was
@@ -5154,9 +5154,9 @@ here on this page are the country folk and the numbers after their
 names are where their accounts are in the big ledger . Now then ! You
 see this other page in red ink ? Well that is a list of my town
 suppliers . Now look at that third name . Just read it out to me .
-Mrs . Oakshott 117 Brixton Road249 read Holmes .
+Mrs. Oakshott 117 Brixton Road249 read Holmes .
 Quite so . Now turn that up in the ledger .
-Holmes turned to the page indicated . Here you are 'Mrs . Oakshott
+Holmes turned to the page indicated . Here you are 'Mrs. Oakshott
 117 Brixton Road egg and poultry supplier .'
 Now then what's the last entry ?
 'December 22nd . Twentyfour geese at 7s . 6d .'
@@ -5174,7 +5174,7 @@ he . I daresay that if I had put £100 down in front of him that man
 would not have given me such complete information as was drawn from
 him by the idea that he was doing me on a wager . Well Watson we
 are I fancy nearing the end of our quest and the only point which
-remains to be determined is whether we should go on to this Mrs .
+remains to be determined is whether we should go on to this Mrs.
 Oakshott tonight or whether we should reserve it for tomorrow . It
 is clear from what that surly fellow said that there are others
 besides ourselves who are anxious about the matter and I should
@@ -5186,11 +5186,11 @@ salesman framed in the door of his stall was shaking his fists
 fiercely at the cringing figure .
 I've had enough of you and your geese he shouted . I wish you were
 all at the devil together . If you come pestering me any more with
-your silly talk I'll set the dog at you . You bring Mrs . Oakshott here
+your silly talk I'll set the dog at you . You bring Mrs. Oakshott here
 and I'll answer her but what have you to do with it ? Did I buy the
 geese off you ?
 No but one of them was mine all the same whined the little man .
-Well then ask Mrs . Oakshott for it .
+Well then ask Mrs. Oakshott for it .
 She told me to ask you .
 Well you can ask the King of Proosia for all I care . I've had
 enough of it . Get out of this ! He rushed fiercely forward and the
@@ -5211,7 +5211,7 @@ My name is Sherlock Holmes . It is my business to know what other
 people don't know .
 But you can know nothing of this ?
 Excuse me I know everything of it . You are endeavouring to trace
-some geese which were sold by Mrs . Oakshott of Brixton Road to a
+some geese which were sold by Mrs. Oakshott of Brixton Road to a
 salesman named Breckinridge by him in turn to Mr. Windigate of the
 Alpha and by him to his club of which Mr. Henry Baker is a member .
 Oh sir you are the very man whom I have longed to meet cried the
@@ -5418,7 +5418,7 @@ time from which I have only been freed during the last month by the
 untimely death of the lady to whom the pledge was given . It is
 perhaps as well that the facts should now come to light for I have
 reasons to know that there are widespread rumours as to the death of
-Dr . Grimesby Roylott which tend to make the matter even more terrible
+Dr. Grimesby Roylott which tend to make the matter even more terrible
 than the truth .
 It was early in April in the year '83 that I woke one morning to find
 Sherlock Holmes standing fully dressed by the side of my bed . He
@@ -5427,7 +5427,7 @@ showed me that it was only a quarterpast seven I blinked up at him
 in some surprise and perhaps just a little resentment for I was
 myself regular in my habits .
 Very sorry to knock you up Watson said he but it's the common
-lot this morning . Mrs . Hudson has been knocked up she retorted upon
+lot this morning . Mrs. Hudson has been knocked up she retorted upon
 me and I on you .
 What is it thena fire ?
 No a client . It seems that a young lady has arrived in a
@@ -5448,9 +5448,9 @@ on my clothes and was ready in a few minutes to accompany my friend
 down to the sittingroom . A lady dressed in black and heavily veiled
 who had been sitting in the window rose as we entered .
 Goodmorning madam said Holmes cheerily . My name is Sherlock
-Holmes . This is my intimate friend and associate Dr . Watson before
+Holmes . This is my intimate friend and associate Dr. Watson before
 whom you can speak as freely as before myself . Ha ! I am glad to see
-that Mrs . Hudson has had the good sense to light the fire . Pray draw
+that Mrs. Hudson has had the good sense to light the fire . Pray draw
 up to it and I shall order you a cup of hot coffee for I observe
 that you are shivering .
 It is not cold which makes me shiver said the woman in a low
@@ -5484,7 +5484,7 @@ and came in by the first train to Waterloo . Sir I can stand this
 strain no longer I shall go mad if it continues . I have no one to
 turn tonone save only one who cares for me and he poor fellow
 can be of little aid . I have heard of you Mr. Holmes I have heard
-of you from Mrs . Farintosh whom you helped in the hour of her sore
+of you from Mrs. Farintosh whom you helped in the hour of her sore
 need . It was from her that I had your address . Oh sir do you not
 think that you could help me too and at least throw a little light
 through the dense darkness which surrounds me ? At present it is out
@@ -5533,15 +5533,15 @@ perpetrated in the house he beat his native butler to death and
 narrowly escaped a capital sentence . As it was he suffered a long
 term of imprisonment and afterwards returned to England a morose and
 disappointed man .
-When Dr . Roylott was in India he married my mother Mrs . Stoner the
+When Dr. Roylott was in India he married my mother Mrs. Stoner the
 young widow of MajorGeneral Stoner of the Bengal Artillery . My
 sister Julia and I were twins and we were only two years old at the
 time of my mother's remarriage . She had a considerable sum of
-moneynot less than £1000 a yearand this she bequeathed to Dr .
+moneynot less than £1000 a yearand this she bequeathed to Dr.
 Roylott entirely while we resided with him with a provision that a
 certain annual sum should be allowed to each of us in the event of
 our marriage . Shortly after our return to England my mother diedshe
-was killed eight years ago in a railway accident near Crewe . Dr .
+was killed eight years ago in a railway accident near Crewe . Dr.
 Roylott then abandoned his attempts to establish himself in practice
 in London and took us to live with him in the old ancestral house at
 Stoke Moran . The money which my mother had left was enough for all
@@ -5595,13 +5595,13 @@ It is easy for me to be so for every event of that dreadful time is
 seared into my memory . The manorhouse is as I have already said
 very old and only one wing is now inhabited . The bedrooms in this
 wing are on the ground floor the sittingrooms being in the central
-block of the buildings . Of these bedrooms the first is Dr . Roylott's
+block of the buildings . Of these bedrooms the first is Dr. Roylott's
 the second my sister's and the third my own . There is no
 communication between them but they all open out into the same
 corridor . Do I make myself plain ?
 Perfectly so .
 The windows of the three rooms open out upon the lawn . That fatal
-night Dr . Roylott had gone to his room early though we knew that he
+night Dr. Roylott had gone to his room early though we knew that he
 had not retired to rest for my sister was troubled by the smell of
 the strong Indian cigars which it was his custom to smoke . She left
 her room therefore and came into mine where she sat for some time
@@ -5676,7 +5676,7 @@ charred stump of a match and in her left a matchbox .
 Showing that she had struck a light and looked about her when the
 alarm took place . That is important . And what conclusions did the
 coroner come to ?
-He investigated the case with great care for Dr . Roylott's conduct
+He investigated the case with great care for Dr. Roylott's conduct
 had long been notorious in the county but he was unable to find any
 satisfactory cause of death . My evidence showed that the door had
 been fastened upon the inner side and the windows were blocked by
@@ -5800,7 +5800,7 @@ a fierce old bird of prey .
 Which of you is Holmes ? asked this apparition .
 My name sir but you have the advantage of me said my companion
 quietly .
-I am Dr . Grimesby Roylott of Stoke Moran .
+I am Dr. Grimesby Roylott of Stoke Moran .
 Indeed Doctor said Holmes blandly . Pray take a seat .
 I will do nothing of the kind . My stepdaughter has been here . I have
 traced her . What has she been saying to you ?
@@ -5872,7 +5872,7 @@ A heavily timbered park stretched up in a gentle slope thickening
 into a grove at the highest point . From amid the branches there
 jutted out the grey gables and high rooftree of a very old mansion .
 Stoke Moran ? said he .
-Yes sir that be the house of Dr . Grimesby Roylott remarked the
+Yes sir that be the house of Dr. Grimesby Roylott remarked the
 driver .
 There is some building going on there said Holmes that is where
 we are going .
@@ -5891,7 +5891,7 @@ Stoner . You see that we have been as good as our word .
 Our client of the morning had hurried forward to meet us with a face
 which spoke her joy . I have been waiting so eagerly for you she
 cried shaking hands with us warmly . All has turned out splendidly .
-Dr . Roylott has gone to town and it is unlikely that he will be back
+Dr. Roylott has gone to town and it is unlikely that he will be back
 before evening .
 We have had the pleasure of making the doctor's acquaintance said
 Holmes and in a few words he sketched out what had occurred . Miss
@@ -5919,7 +5919,7 @@ visit . Holmes walked slowly up and down the illtrimmed lawn and
 examined with deep attention the outsides of the windows .
 This I take it belongs to the room in which you used to sleep the
 centre one to your sister's and the one next to the main building to
-Dr . Roylott's chamber ?
+Dr. Roylott's chamber ?
 Exactly so . But I am now sleeping in the middle one .
 Pending the alterations as I understand . By the way there does not
 seem to be any very pressing need for repairs at that end wall .
@@ -5991,7 +5991,7 @@ They seem to have been of a most interesting characterdummy
 bellropes and ventilators which do not ventilate . With your
 permission Miss Stoner we shall now carry our researches into the
 inner apartment .
-Dr . Grimesby Roylott's chamber was larger than that of his
+Dr. Grimesby Roylott's chamber was larger than that of his
 stepdaughter but was as plainly furnished . A campbed a small
 wooden shelf full of books mostly of a technical character an
 armchair beside the bed a plain wooden chair against the wall a
@@ -6063,14 +6063,14 @@ I should prefer to have clearer proofs before I speak .
 You can at least tell me whether my own thought is correct and if
 she died from some sudden fright .
 No I do not think so . I think that there was probably some more
-tangible cause . And now Miss Stoner we must leave you for if Dr .
+tangible cause . And now Miss Stoner we must leave you for if Dr.
 Roylott returned and saw us our journey would be in vain .  Goodbye
 and be brave for if you will do what I have told you you may rest
 assured that we shall soon drive away the dangers that threaten you .
 Sherlock Holmes and I had no difficulty in engaging a bedroom and
 sittingroom at the Crown Inn . They were on the upper floor and from
 our window we could command a view of the avenue gate and of the
-inhabited wing of Stoke Moran Manor House . At dusk we saw Dr .
+inhabited wing of Stoke Moran Manor House . At dusk we saw Dr.
 Grimesby Roylott drive past his huge form looming up beside the
 little figure of the lad who drove him . The boy had some slight
 difficulty in undoing the heavy iron gates and we heard the hoarse
@@ -6099,7 +6099,7 @@ I knew that we should find a ventilator before ever we came to Stoke
 Moran .
 My dear Holmes !
 Oh yes I did . You remember in her statement she said that her
-sister could smell Dr . Roylott's cigar . Now of course that suggested
+sister could smell Dr. Roylott's cigar . Now of course that suggested
 at once that there must be a communication between the two rooms . It
 could only be a small one or it would have been remarked upon at the
 coroner's inquiry . I deduced a ventilator .
@@ -6206,7 +6206,7 @@ and I stood gazing at Holmes and he at me until the last echoes of
 it had died away into the silence from which it rose .
 What can it mean ? I gasped .
 It means that it is all over Holmes answered . And perhaps after
-all it is for the best . Take your pistol and we will enter Dr .
+all it is for the best . Take your pistol and we will enter Dr.
 Roylott's room .
 With a grave face he lit the lamp and led the way down the corridor .
 Twice he struck at the chamber door without any reply from within .
@@ -6215,7 +6215,7 @@ cocked pistol in my hand .
 It was a singular sight which met our eyes . On the table stood a
 darklantern with the shutter half open throwing a brilliant beam of
 light upon the iron safe the door of which was ajar . Beside this
-table on the wooden chair sat Dr . Grimesby Roylott clad in a long
+table on the wooden chair sat Dr. Grimesby Roylott clad in a long
 grey dressinggown his bare ankles protruding beneath and his feet
 thrust into red heelless Turkish slippers . Across his lap lay the
 short stock with the long lash which we had noticed during the day .
@@ -6238,7 +6238,7 @@ As he spoke he drew the dogwhip swiftly from the dead man's lap and
 throwing the noose round the reptile's neck he drew it from its
 horrid perch and carrying it at arm's length threw it into the iron
 safe which he closed upon it .
-Such are the true facts of the death of Dr . Grimesby Roylott of
+Such are the true facts of the death of Dr. Grimesby Roylott of
 Stoke Moran . It is not necessary that I should prolong a narrative
 which has already run to too great a length by telling how we broke
 the sad news to the terrified girl how we conveyed her by the
@@ -6294,7 +6294,7 @@ With the result of driving it through the ventilator .
 And also with the result of causing it to turn upon its master at
 the other side . Some of the blows of my cane came home and roused its
 snakish temper so that it flew upon the first person it saw . In this
-way I am no doubt indirectly responsible for Dr . Grimesby Roylott's
+way I am no doubt indirectly responsible for Dr. Grimesby Roylott's
 death and I cannot say that it is likely to weigh very heavily upon
 my conscience .
 THE ADVENTURE OF THE ENGINEER'S THUMB
@@ -6911,7 +6911,7 @@ appeared in all the papers about a year ago . Listen to this
 'Lost on the 9th inst . Mr. Jeremiah Hayling aged twentysix a
 hydraulic engineer . Left his lodgings at ten o'clock at night and
 has not been heard of since . Was dressed in'
-etc . etc . Ha ! That represents the last time that the colonel needed
+etc. etc. Ha ! That represents the last time that the colonel needed
 to have his machine overhauled I fancy .
 Good heavens ! cried my patient . Then that explains what the girl
 said .
@@ -6987,10 +6987,10 @@ When did it break out ?
 I hear that it was during the night sir but it has got worse and
 the whole place is in a blaze .
 Whose house is it ?
-Dr . Becher's .
-Tell me broke in the engineer is Dr . Becher a German very thin
+Dr. Becher's .
+Tell me broke in the engineer is Dr. Becher a German very thin
 with a long sharp nose ?
-The stationmaster laughed heartily . No sir Dr . Becher is an
+The stationmaster laughed heartily . No sir Dr. Becher is an
 Englishman and there isn't a man in the parish who has a
 betterlined waistcoat . But he has a gentleman staying with him a
 patient as I understand who is a foreigner and he looks as if a
@@ -7045,7 +7045,7 @@ Experience said Holmes laughing . Indirectly it may be of value
 you know you have only to put it into words to gain the reputation
 of being excellent company for the remainder of your existence .
 THE ADVENTURE OF THE NOBLE BACHELOR
-The Lord St . Simon marriage and its curious termination have long
+The Lord St. Simon marriage and its curious termination have long
 ceased to be a subject of interest in those exalted circles in which
 the unfortunate bridegroom moves . Fresh scandals have eclipsed it
 and their more piquant details have drawn the gossips away from this
@@ -7090,9 +7090,9 @@ corner . I have had nothing else to do .
 It is fortunate for you will perhaps be able to post me up . I read
 nothing except the criminal news and the agony column . The latter is
 always instructive . But if you have followed recent events so closely
-you must have read about Lord St . Simon and his wedding ?
+you must have read about Lord St. Simon and his wedding ?
 Oh yes with the deepest interest .
-That is well . The letter which I hold in my hand is from Lord St .
+That is well . The letter which I hold in my hand is from Lord St.
 Simon . I will read it to you and in return you must turn over these
 papers and let me have whatever bears upon the matter . This is what
 he says
@@ -7108,7 +7108,7 @@ o'clock in the afternoon and should you have any other engagement
 at that time I hope that you will postpone it as this matter is of
 paramount importance .
 'Yours faithfully
-'St . Simon .'
+'St. Simon .'
 It is dated from Grosvenor Mansions written with a quill pen and
 the noble lord has had the misfortune to get a smear of ink upon the
 outer side of his right little finger remarked Holmes as he folded
@@ -7119,7 +7119,7 @@ subject . Turn over those papers and arrange the extracts in their
 order of time while I take a glance as to who our client is . He
 picked a redcovered volume from a line of books of reference beside
 the mantelpiece . Here he is said he sitting down and flattening
-it out upon his knee . 'Lord Robert Walsingham de Vere St . Simon
+it out upon his knee . 'Lord Robert Walsingham de Vere St. Simon
 second son of the Duke of Balmoral .' Hum ! 'Arms Azure three
 caltrops in chief over a fess sable . Born in 1846 .' He's fortyone
 years of age which is mature for marriage . Was UnderSecretary for
@@ -7140,7 +7140,7 @@ selections .
 Here is the first notice which I can find . It is in the personal
 column of the Morning Post and dates as you see some weeks back
 'A marriage has been arranged it says and will if rumour is
-correct very shortly take place between Lord Robert St . Simon
+correct very shortly take place between Lord Robert St. Simon
 second son of the Duke of Balmoral and Miss Hatty Doran the only
 daughter of Aloysius Doran . Esq . of San Francisco Cal . U .S .A .'
 That is all .
@@ -7154,7 +7154,7 @@ our home product . One by one the management of the noble houses of
 Great Britain is passing into the hands of our fair cousins from
 across the Atlantic . An important addition has been made during the
 last week to the list of the prizes which have been borne away by
-these charming invaders . Lord St . Simon who has shown himself for
+these charming invaders . Lord St. Simon who has shown himself for
 over twenty years proof against the little god's arrows has now
 definitely announced his approaching marriage with Miss Hatty Doran
 the fascinating daughter of a California millionaire . Miss Doran
@@ -7163,7 +7163,7 @@ the Westbury House festivities is an only child and it is currently
 reported that her dowry will run to considerably over the six
 figures with expectancies for the future . As it is an open secret
 that the Duke of Balmoral has been compelled to sell his pictures
-within the last few years and as Lord St . Simon has no property of
+within the last few years and as Lord St. Simon has no property of
 his own save the small estate of Birchmoor it is obvious that the
 Californian heiress is not the only gainer by an alliance which will
 enable her to make the easy and common transition from a Republican
@@ -7171,7 +7171,7 @@ lady to a British peeress .'
 Anything else ? asked Holmes yawning .
 Oh yes plenty . Then there is another note in the Morning Post to
 say that the marriage would be an absolutely quiet one that it would
-be at St . George's Hanover Square that only half a dozen intimate
+be at St. George's Hanover Square that only half a dozen intimate
 friends would be invited and that the party would return to the
 furnished house at Lancaster Gate which has been taken by Mr.
 Aloysius Doran . Two days laterthat is on Wednesday lastthere is
@@ -7194,7 +7194,7 @@ Perhaps we may make them less so .
 Such as they are they are set forth in a single article of a
 morning paper of yesterday which I will read to you . It is headed
 'Singular Occurrence at a Fashionable Wedding'
-'The family of Lord Robert St . Simon has been thrown into the
+'The family of Lord Robert St. Simon has been thrown into the
 greatest consternation by the strange and painful episodes which have
 taken place in connection with his wedding . The ceremony as shortly
 announced in the papers of yesterday occurred on the previous
@@ -7204,16 +7204,16 @@ spite of the attempts of the friends to hush the matter up so much
 public attention has now been drawn to it that no good purpose can be
 served by affecting to disregard what is a common subject for
 conversation .
-'The ceremony which was performed at St . George's Hanover Square
+'The ceremony which was performed at St. George's Hanover Square
 was a very quiet one no one being present save the father of the
 bride Mr. Aloysius Doran the Duchess of Balmoral Lord Backwater
-Lord Eustace and Lady Clara St . Simon the younger brother and sister
+Lord Eustace and Lady Clara St. Simon the younger brother and sister
 of the bridegroom and Lady Alicia Whittington . The whole party
 proceeded afterwards to the house of Mr. Aloysius Doran at Lancaster
 Gate where breakfast had been prepared . It appears that some little
 trouble was caused by a woman whose name has not been ascertained
 who endeavoured to force her way into the house after the bridal
-party alleging that she had some claim upon Lord St . Simon . It was
+party alleging that she had some claim upon Lord St. Simon . It was
 only after a painful and prolonged scene that she was ejected by the
 butler and the footman . The bride who had fortunately entered the
 house before this unpleasant interruption had sat down to breakfast
@@ -7250,7 +7250,7 @@ and as the clock makes it a few minutes after four I have no doubt
 that this will prove to be our noble client . Do not dream of going
 Watson for I very much prefer having a witness if only as a check
 to my own memory .
-Lord Robert St . Simon announced our pageboy throwing open the
+Lord Robert St. Simon announced our pageboy throwing open the
 door . A gentleman entered with a pleasant cultured face highnosed
 and pale with something perhaps of petulance about the mouth and
 with the steady wellopened eye of a man whose pleasant lot it had
@@ -7264,8 +7264,8 @@ frockcoat white waistcoat yellow gloves patentleather shoes and
 lightcoloured gaiters . He advanced slowly into the room turning his
 head from left to right and swinging in his right hand the cord
 which held his golden eyeglasses .
-Goodday Lord St . Simon said Holmes rising and bowing . Pray
-take the basketchair . This is my friend and colleague Dr . Watson .
+Goodday Lord St. Simon said Holmes rising and bowing . Pray
+take the basketchair . This is my friend and colleague Dr. Watson .
 Draw up a little to the fire and we will talk this matter over .
 A most painful matter to me as you can most readily imagine Mr.
 Holmes . I have been cut to the quick . I understand that you have
@@ -7286,7 +7286,7 @@ in forming an opinion .
 Thank you . I have already learned all that is in the public prints
 nothing more . I presume that I may take it as correctthis article
 for example as to the disappearance of the bride .
-Lord St . Simon glanced over it . Yes it is correct as far as it
+Lord St. Simon glanced over it . Yes it is correct as far as it
 goes .
 But it needs a great deal of supplementing before anyone could offer
 an opinion . I think that I may arrive at my facts most directly by
@@ -7327,7 +7327,7 @@ face of a very lovely woman . It was not a photograph but an ivory
 miniature and the artist had brought out the full effect of the
 lustrous black hair the large dark eyes and the exquisite mouth .
 Holmes gazed long and earnestly at it . Then he closed the locket and
-handed it back to Lord St . Simon .
+handed it back to Lord St. Simon .
 The young lady came to London then and you renewed your
 acquaintance ?
 Yes her father brought her over for this last London season . I met
@@ -7366,7 +7366,7 @@ This gentleman was not one of your wife's friends ?
 No no I call him a gentleman by courtesy but he was quite a
 commonlooking person . I hardly noticed his appearance . But really I
 think that we are wandering rather far from the point .
-Lady St . Simon then returned from the wedding in a less cheerful
+Lady St. Simon then returned from the wedding in a less cheerful
 frame of mind than she had gone to it . What did she do on reentering
 her father's house ?
 I saw her in conversation with her maid .
@@ -7380,7 +7380,7 @@ these things in a different way .
 How long did she speak to this Alice ?
 Oh a few minutes . I had something else to think of .
 You did not overhear what they said ?
-Lady St . Simon said something about 'jumping a claim .' She was
+Lady St. Simon said something about 'jumping a claim .' She was
 accustomed to use slang of the kind . I have no idea what she meant .
 American slang is very expressive sometimes . And what did your wife
 do when she finished speaking to her maid ?
@@ -7398,7 +7398,7 @@ company with Flora Millar a woman who is now in custody and who had
 already made a disturbance at Mr. Doran's house that morning .
 Ah yes . I should like a few particulars as to this young lady and
 your relations to her .
-Lord St . Simon shrugged his shoulders and raised his eyebrows . We
+Lord St. Simon shrugged his shoulders and raised his eyebrows . We
 have been on a friendly footing for some yearsI may say on a very
 friendly footing . She used to be at the Allegro . I have not treated
 her ungenerously and she had no just cause of complaint against me
@@ -7437,7 +7437,7 @@ Well really when I consider that she has turned her backI will
 not say upon me but upon so much that many have aspired to without
 successI can hardly explain it in any other fashion .
 Well certainly that is also a conceivable hypothesis said Holmes
-smiling . And now Lord St . Simon I think that I have nearly all my
+smiling . And now Lord St. Simon I think that I have nearly all my
 data . May I ask whether you were seated at the breakfasttable so
 that you could see out of the window ?
 We could see the other side of the road and the Park .
@@ -7450,10 +7450,10 @@ Eh ? What was that ?
 I say that I have solved it .
 Where then is my wife ?
 That is a detail which I shall speedily supply .
-Lord St . Simon shook his head . I am afraid that it will take wiser
+Lord St. Simon shook his head . I am afraid that it will take wiser
 heads than yours or mine he remarked and bowing in a stately
 oldfashioned manner he departed .
-It is very good of Lord St . Simon to honour my head by putting it on
+It is very good of Lord St. Simon to honour my head by putting it on
 a level with his own said Sherlock Holmes laughing . I think that
 I shall have a whisky and soda and a cigar after all this
 crossquestioning . I had formed my conclusions as to the case before
@@ -7477,7 +7477,7 @@ canvas bag in his hand . With a short greeting he seated himself and
 lit the cigar which had been offered to him .
 What's up then ? asked Holmes with a twinkle in his eye . You look
 dissatisfied .
-And I feel dissatisfied . It is this infernal St . Simon marriage
+And I feel dissatisfied . It is this infernal St. Simon marriage
 case . I can make neither head nor tail of the business .
 Really ! You surprise me .
 Who ever heard of such a mixed affair ? Every clue seems to slip
@@ -7486,7 +7486,7 @@ And very wet it seems to have made you said Holmes laying his hand
 upon the arm of the peajacket .
 Yes I have been dragging the Serpentine .
 In heaven's name what for ?
-In search of the body of Lady St . Simon .
+In search of the body of Lady St. Simon .
 Sherlock Holmes leaned back in his chair and laughed heartily .
 Have you dragged the basin of Trafalgar Square fountain ? he asked .
 Why ? What do you mean ?
@@ -7524,7 +7524,7 @@ cardcase is a note . And here is the very note . He slapped it down
 upon the table in front of him . Listen to this
 'You will see me when all is ready . Come at once .
 'F .H .M .'
-Now my theory all along has been that Lady St . Simon was decoyed away
+Now my theory all along has been that Lady St. Simon was decoyed away
 by Flora Millar and that she with confederates no doubt was
 responsible for her disappearance . Here signed with her initials is
 the very note which was no doubt quietly slipped into her hand at the
@@ -7554,7 +7554,7 @@ Mr. Holmes and we shall see which gets to the bottom of the matter
 first . He gathered up the garments thrust them into the bag and
 made for the door .
 Just one hint to you Lestrade drawled Holmes before his rival
-vanished I will tell you the true solution of the matter . Lady St .
+vanished I will tell you the true solution of the matter . Lady St.
 Simon is a myth . There is not and there never has been any such
 person .
 Lestrade looked sadly at my companion . Then he turned to me tapped
@@ -7581,7 +7581,7 @@ conclusions .
 They have laid the supper then he said rubbing his hands .
 You seem to expect company . They have laid for five .
 Yes I fancy we may have some company dropping in said he . I am
-surprised that Lord St . Simon has not already arrived . Ha ! I fancy
+surprised that Lord St. Simon has not already arrived . Ha ! I fancy
 that I hear his step now upon the stairs .
 It was indeed our visitor of the afternoon who came bustling in
 dangling his glasses more vigorously than ever and with a very
@@ -7590,7 +7590,7 @@ My messenger reached you then ? asked Holmes .
 Yes and I confess that the contents startled me beyond measure .
 Have you good authority for what you say ? 
 The best possible .
-Lord St . Simon sank into a chair and passed his hand over his
+Lord St. Simon sank into a chair and passed his hand over his
 forehead .
 What will the Duke say he murmured when he hears that one of the
 family has been subjected to such humiliation ?
@@ -7601,7 +7601,7 @@ I fail to see that anyone is to blame . I can hardly see how the lady
 could have acted otherwise though her abrupt method of doing it was
 undoubtedly to be regretted . Having no mother she had no one to
 advise her at such a crisis .
-It was a slight sir a public slight said Lord St . Simon tapping
+It was a slight sir a public slight said Lord St. Simon tapping
 his fingers upon the table .
 You must make allowance for this poor girl placed in so
 unprecedented a position .
@@ -7609,10 +7609,10 @@ I will make no allowance . I am very angry indeed and I have been
 shamefully used .
 I think that I heard a ring said Holmes . Yes there are steps on
 the landing . If I cannot persuade you to take a lenient view of the
-matter Lord St . Simon I have brought an advocate here who may be
+matter Lord St. Simon I have brought an advocate here who may be
 more successful . He opened the door and ushered in a lady and
-gentleman . Lord St . Simon said he allow me to introduce you to
-Mr. and Mrs . Francis Hay Moulton . The lady I think you have already
+gentleman . Lord St. Simon said he allow me to introduce you to
+Mr. and Mrs. Francis Hay Moulton . The lady I think you have already
 met .
 At the sight of these newcomers our client had sprung from his seat
 and stood very erect with his eyes cast down and his hand thrust
@@ -7623,13 +7623,13 @@ resolution perhaps for her pleading face was one which it was hard
 to resist .
 You're angry Robert said she . Well I guess you have every cause
 to be .
-Pray make no apology to me said Lord St . Simon bitterly .
+Pray make no apology to me said Lord St. Simon bitterly .
 Oh yes I know that I have treated you real bad and that I should
 have spoken to you before I went but I was kind of rattled and from
 the time when I saw Frank here again I just didn't know what I was
 doing or saying . I only wonder I didn't fall down and do a faint
 right there before the altar .
-Perhaps Mrs . Moulton you would like my friend and me to leave the
+Perhaps Mrs. Moulton you would like my friend and me to leave the
 room while you explain this matter ?
 If I may give an opinion remarked the strange gentleman we've
 had just a little too much secrecy over this business already . For my
@@ -7662,12 +7662,12 @@ been attacked by Apache Indians and there was my Frank's name among
 the killed . I fainted dead away and I was very sick for months
 after . Pa thought I had a decline and took me to half the doctors in
 'Frisco . Not a word of news came for a year and more so that I never
-doubted that Frank was really dead . Then Lord St . Simon came to
+doubted that Frank was really dead . Then Lord St. Simon came to
 'Frisco and we came to London and a marriage was arranged and pa
 was very pleased but I felt all the time that no man on this earth
 would ever take the place in my heart that had been given to my poor
 Frank .
-Still if I had married Lord St . Simon of course I'd have done my
+Still if I had married Lord St. Simon of course I'd have done my
 duty by him . We can't command our love but we can our actions . I
 went to the altar with him with the intention to make him just as
 good a wife as it was in me to be . But you may imagine what I felt
@@ -7690,13 +7690,13 @@ him and I determined to do just whatever he might direct .
 When I got back I told my maid who had known him in California and
 had always been his friend . I ordered her to say nothing but to get
 a few things packed and my ulster ready . I know I ought to have
-spoken to Lord St . Simon but it was dreadful hard before his mother
+spoken to Lord St. Simon but it was dreadful hard before his mother
 and all those great people . I just made up my mind to run away and
 explain afterwards . I hadn't been at the table ten minutes before I
 saw Frank out of the window at the other side of the road . He
 beckoned to me and then began walking into the Park . I slipped out
 put on my things and followed him . Some woman came talking something
-or other about Lord St . Simon to meseemed to me from the little I
+or other about Lord St. Simon to meseemed to me from the little I
 heard as if he had a little secret of his own before marriage
 alsobut I managed to get away from her and soon overtook Frank . We
 got into a cab together and away we drove to some lodgings he had
@@ -7721,11 +7721,11 @@ us this evening though how he found us is more than I can think and
 he showed us very clearly and kindly that I was wrong and that Frank
 was right and that we should be putting ourselves in the wrong if we
 were so secret . Then he offered to give us a chance of talking to
-Lord St . Simon alone and so we came right away round to his rooms at
+Lord St. Simon alone and so we came right away round to his rooms at
 once . Now Robert you have heard it all and I am very sorry if I
 have given you pain and I hope that you do not think very meanly of
 me .
-Lord St . Simon had by no means relaxed his rigid attitude but had
+Lord St. Simon had by no means relaxed his rigid attitude but had
 listened with a frowning brow and a compressed lip to this long
 narrative .
 Excuse me he said but it is not my custom to discuss my most
@@ -7771,7 +7771,7 @@ seen an American . Then who could this American be and why should he
 possess so much influence over her ? It might be a lover it might be
 a husband . Her young womanhood had I knew been spent in rough
 scenes and under strange conditions . So far I had got before I ever
-heard Lord St . Simon's narrative . When he told us of a man in a pew
+heard Lord St. Simon's narrative . When he told us of a man in a pew
 of the change in the bride's manner of so transparent a device for
 obtaining a note as the dropping of a bouquet of her resort to her
 confidential maid and of her very significant allusion to
@@ -7799,14 +7799,14 @@ travelled and being fortunate enough to find the loving couple at
 home I ventured to give them some paternal advice and to point out
 to them that it would be better in every way that they should make
 their position a little clearer both to the general public and to
-Lord St . Simon in particular . I invited them to meet him here and
+Lord St. Simon in particular . I invited them to meet him here and
 as you see I made him keep the appointment .
 But with no very good result I remarked . His conduct was
 certainly not very gracious .
 Ah Watson said Holmes smiling perhaps you would not be very
 gracious either if after all the trouble of wooing and wedding you
 found yourself deprived in an instant of wife and of fortune . I think
-that we may judge Lord St . Simon very mercifully and thank our stars
+that we may judge Lord St. Simon very mercifully and thank our stars
 that we are never likely to find ourselves in the same position . Draw
 your chair up and hand me my violin for the only problem we have
 still to solve is how to while away these bleak autumnal evenings .
@@ -9063,7 +9063,7 @@ morning though he little knew for what purpose .
 Let us have everything in its due order . Holmes thrust his long
 thin legs out towards the fire and composed himself to listen .
 In the first place I may say that I have met on the whole with no
-actual illtreatment from Mr. and Mrs . Rucastle . It is only fair to
+actual illtreatment from Mr. and Mrs. Rucastle . It is only fair to
 them to say that . But I cannot understand them and I am not easy in
 my mind about them .
 What can you not understand ?
@@ -9082,7 +9082,7 @@ the place .
 I was driven over by my employer who was as amiable as ever and
 was introduced by him that evening to his wife and the child . There
 was no truth Mr. Holmes in the conjecture which seemed to us to be
-probable in your rooms at Baker Street . Mrs . Rucastle is not mad . I
+probable in your rooms at Baker Street . Mrs. Rucastle is not mad . I
 found her to be a silent palefaced woman much younger than her
 husband not more than thirty I should think while he can hardly be
 less than fortyfive . From their conversation I have gathered that
@@ -9093,7 +9093,7 @@ she had left them was that she had an unreasoning aversion to her
 stepmother . As the daughter could not have been less than twenty I
 can quite imagine that her position must have been uncomfortable with
 her father's young wife .
-Mrs . Rucastle seemed to me to be colourless in mind as well as in
+Mrs. Rucastle seemed to me to be colourless in mind as well as in
 feature . She impressed me neither favourably nor the reverse . She was
 a nonentity . It was easy to see that she was passionately devoted
 both to her husband and to her little son . Her light grey eyes
@@ -9122,12 +9122,12 @@ Toller for that is his name is a rough uncouth man with grizzled
 hair and whiskers and a perpetual smell of drink . Twice since I have
 been with them he has been quite drunk and yet Mr. Rucastle seemed
 to take no notice of it . His wife is a very tall and strong woman
-with a sour face as silent as Mrs . Rucastle and much less amiable .
+with a sour face as silent as Mrs. Rucastle and much less amiable .
 They are a most unpleasant couple but fortunately I spend most of my
 time in the nursery and my own room which are next to each other in
 one corner of the building .
 For two days after my arrival at the Copper Beeches my life was very
-quiet on the third Mrs . Rucastle came down just after breakfast and
+quiet on the third Mrs. Rucastle came down just after breakfast and
 whispered something to her husband .
 'Oh yes' said he turning to me 'we are very much obliged to you
 Miss Hunter for falling in with our whims so far as to cut your
@@ -9139,7 +9139,7 @@ obliged .'
 The dress which I found waiting for me was of a peculiar shade of
 blue . It was of excellent material a sort of beige but it bore
 unmistakable signs of having been worn before . It could not have been
-a better fit if I had been measured for it . Both Mr. and Mrs .
+a better fit if I had been measured for it . Both Mr. and Mrs.
 Rucastle expressed a delight at the look of it which seemed quite
 exaggerated in its vehemence . They were waiting for me in the
 drawingroom which is a very large room stretching along the entire
@@ -9149,7 +9149,7 @@ back turned towards it . In this I was asked to sit and then Mr.
 Rucastle walking up and down on the other side of the room began to
 tell me a series of the funniest stories that I have ever listened
 to . You cannot imagine how comical he was and I laughed until I was
-quite weary . Mrs . Rucastle however who has evidently no sense of
+quite weary . Mrs. Rucastle however who has evidently no sense of
 humour never so much as smiled but sat with her hands in her lap
 and a sad anxious look upon her face . After an hour or so Mr.
 Rucastle suddenly remarked that it was time to commence the duties of
@@ -9182,7 +9182,7 @@ suit who seemed to be looking in my direction . The road is an
 important highway and there are usually people there . This man
 however was leaning against the railings which bordered our field
 and was looking earnestly up . I lowered my handkerchief and glanced
-at Mrs . Rucastle to find her eyes fixed upon me with a most searching
+at Mrs. Rucastle to find her eyes fixed upon me with a most searching
 gaze . She said nothing but I am convinced that she had divined that
 I had a mirror in my hand and had seen what was behind me . She rose
 at once .
@@ -9195,7 +9195,7 @@ to go away .'
 'Surely it would be better to take no notice .'
 'No no we should have him loitering here always . Kindly turn round
 and wave him away like that .'
-I did as I was told and at the same instant Mrs . Rucastle drew down
+I did as I was told and at the same instant Mrs. Rucastle drew down
 the blind . That was a week ago and from that time I have not sat
 again in the window nor have I worn the blue dress nor seen the man
 in the road .
@@ -9297,7 +9297,7 @@ in these deserted rooms and I once saw him carrying a large black
 linen bag with him through the door . Recently he has been drinking
 hard and yesterday evening he was very drunk and when I came
 upstairs there was the key in the door . I have no doubt at all that
-he had left it there . Mr. and Mrs . Rucastle were both downstairs and
+he had left it there . Mr. and Mrs. Rucastle were both downstairs and
 the child was with them so that I had an admirable opportunity . I
 turned the key gently in the lock opened the door and slipped
 through .
@@ -9363,7 +9363,7 @@ the household who had any influence with the savage creature or who
 would venture to set him free . I slipped in in safety and lay awake
 half the night in my joy at the thought of seeing you . I had no
 difficulty in getting leave to come into Winchester this morning but
-I must be back before three o'clock for Mr. and Mrs . Rucastle are
+I must be back before three o'clock for Mr. and Mrs. Rucastle are
 going on a visit and will be away all the evening so that I must
 look after the child . Now I have told you all my adventures Mr.
 Holmes and I should be very glad if you could tell me what it all
@@ -9373,7 +9373,7 @@ friend rose now and paced up and down the room his hands in his
 pockets and an expression of the most profound gravity upon his
 face .
 Is Toller still drunk ? he asked .
-Yes . I heard his wife tell Mrs . Rucastle that she could do nothing
+Yes . I heard his wife tell Mrs. Rucastle that she could do nothing
 with him .
 That is well . And the Rucastles go out tonight ?
 Yes .
@@ -9386,7 +9386,7 @@ you a quite exceptional woman .
 I will try . What is it ?
 We shall be at the Copper Beeches by seven o'clock my friend and I .
 The Rucastles will be gone by that time and Toller will we hope be
-incapable . There only remains Mrs . Toller who might give the alarm .
+incapable . There only remains Mrs. Toller who might give the alarm .
 If you could send her into the cellar on some errand and then turn
 the key upon her you would facilitate matters immensely .
 I will do it .
@@ -9431,7 +9431,7 @@ metal in the light of the setting sun were sufficient to mark the
 house even had Miss Hunter not been standing smiling on the
 doorstep .
 Have you managed it ? asked Holmes .
-A loud thudding noise came from somewhere downstairs . That is Mrs .
+A loud thudding noise came from somewhere downstairs . That is Mrs.
 Toller in the cellar said she . Her husband lies snoring on the
 kitchen rug . Here are his keys which are the duplicates of Mr.
 Rucastle's .
@@ -9491,12 +9491,12 @@ sofa and having dispatched the sobered Toller to bear the news to
 his wife I did what I could to relieve his pain . We were all
 assembled round him when the door opened and a tall gaunt woman
 entered the room .
-Mrs . Toller ! cried Miss Hunter .
+Mrs. Toller ! cried Miss Hunter .
 Yes miss . Mr. Rucastle let me out when he came back before he went
 up to you . Ah miss it is a pity you didn't let me know what you
 were planning for I would have told you that your pains were
 wasted .
-Ha ! said Holmes looking keenly at her . It is clear that Mrs .
+Ha ! said Holmes looking keenly at her . It is clear that Mrs.
 Toller knows more about this matter than anyone else .
 Yes sir I do and I am ready enough to tell what I know .
 Then pray sit down and let us hear it for there are several
@@ -9532,15 +9532,15 @@ But Mr. Fowler being a persevering man as a good seaman should be
 blockaded the house and having met you succeeded by certain
 arguments metallic or otherwise in convincing you that your
 interests were the same as his .
-Mr. Fowler was a very kindspoken freehanded gentleman said Mrs .
+Mr. Fowler was a very kindspoken freehanded gentleman said Mrs.
 Toller serenely .
 And in this way he managed that your good man should have no want of
 drink and that a ladder should be ready at the moment when your
 master had gone out .
 You have it sir just as it happened .
-I am sure we owe you an apology Mrs . Toller said Holmes for you
+I am sure we owe you an apology Mrs. Toller said Holmes for you
 have certainly cleared up everything which puzzled us . And here comes
-the country surgeon and Mrs . Rucastle so I think Watson that we
+the country surgeon and Mrs. Rucastle so I think Watson that we
 had best escort Miss Hunter back to Winchester as it seems to me
 that our locus standi now is rather a questionable one .
 And thus was solved the mystery of the sinister house with the copper

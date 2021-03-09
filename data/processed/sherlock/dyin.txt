@@ -1,6 +1,6 @@
 THE ADVENTURE OF THE DYING DETECTIVE
 Arthur Conan Doyle
-Mrs . Hudson the landlady of Sherlock Holmes was a longsuffering
+Mrs. Hudson the landlady of Sherlock Holmes was a longsuffering
 woman . Not only was her firstfloor flat invaded at all hours by
 throngs of singular and often undesirable characters but her
 remarkable lodger showed an eccentricity and irregularity in his life
@@ -20,7 +20,7 @@ sex but he was always a chivalrous opponent . Knowing how genuine was
 her regard for him I listened earnestly to her story when she came
 to my rooms in the second year of my married life and told me of the
 sad condition to which my poor friend was reduced .
-He's dying Dr . Watson said she . For three days he has been
+He's dying Dr. Watson said she . For three days he has been
 sinking and I doubt if he will last the day . He would not let me get
 a doctor . This morning when I saw his bones sticking out of his face
 and his great bright eyes looking at me I could stand no more of it .
@@ -56,7 +56,7 @@ which I had associated only with moments of crisis . If you approach
 me Watson I shall order you out of the house .
 But why ?
 Because it is my desire . Is that not enough ?
-Yes Mrs . Hudson was right . He was more masterful than ever . It was
+Yes Mrs. Hudson was right . He was more masterful than ever . It was
 pitiful however to see his exhaustion .
 I only wished to help I explained .
 Exactly ! You will help best by doing what you are told .
@@ -115,7 +115,7 @@ possibilities in the East Watson . He paused after each sentence to
 collect his failing strength . I have learned so much during some
 recent researches which have a medicocriminal aspect . It was in the
 course of them that I contracted this complaint . You can do nothing .
-Possibly not . But I happen to know that Dr . Ainstree the greatest
+Possibly not . But I happen to know that Dr. Ainstree the greatest
 living authority upon tropical disease is now in London . All
 remonstrance is useless Holmes I am going this instant to fetch
 him . I turned resolutely to the door .
@@ -243,7 +243,7 @@ world then be overrun by oysters ? No no horrible ! You'll convey
 all that is in your mind .
 I left him full of the image of this magnificent intellect babbling
 like a foolish child . He had handed me the key and with a happy
-thought I took it with me lest he should lock himself in . Mrs . Hudson
+thought I took it with me lest he should lock himself in . Mrs. Hudson
 was waiting trembling and weeping in the passage . Behind me as I
 passed from the flat I heard Holmes's high thin voice in some
 delirious chant . Below as I stood whistling for a cab a man came on
@@ -264,7 +264,7 @@ respectability in its oldfashioned iron railings its massive
 foldingdoor and its shining brasswork . All was in keeping with a
 solemn butler who appeared framed in the pink radiance of a tinted
 electrical light behind him .
-Yes Mr. Culverton Smith is in . Dr . Watson ! Very good sir I will
+Yes Mr. Culverton Smith is in . Dr. Watson ! Very good sir I will
 take up your card .
 My humble name and title did not appear to impress Mr. Culverton
 Smith . Through the halfopen door I heard a high petulant
@@ -335,7 +335,7 @@ About three days .
 Is he delirious ?
 Occasionally .
 Tut tut ! This sounds serious . It would be inhuman not to answer his
-call . I very much resent any interruption to my work Dr . Watson but
+call . I very much resent any interruption to my work Dr. Watson but
 this case is certainly exceptional . I will come with you at once .
 I remembered Holmes's injunction .
 I have another appointment said I .
@@ -516,7 +516,7 @@ I never needed it more said Holmes as he refreshed himself with a
 glass of claret and some biscuits in the intervals of his toilet .
 However as you know my habits are irregular and such a feat means
 less to me than to most men . It was very essential that I should
-impress Mrs . Hudson with the reality of my condition since she was
+impress Mrs. Hudson with the reality of my condition since she was
 to convey it to you and you in turn to him . You won't be offended
 Watson ? You will realize that among your many talents dissimulation
 finds no place and that if you had shared my secret you would never

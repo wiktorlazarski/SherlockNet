@@ -33,7 +33,7 @@ Holmes took the book from my hand .
 'Garrideb N .'  he read '136 Little Ryder Street W .' Sorry to
 disappoint you my dear Watson but this is the man himself . That is
 the address upon his letter . We want another to match him .
-Mrs . Hudson had come in with a card upon a tray . I took it up and
+Mrs. Hudson had come in with a card upon a tray . I took it up and
 glanced at it .
 Why here it is ! I cried in amazement . This is a different
 initial . John Garrideb Counsellor at Law Moorville Kansas U . S .
@@ -76,7 +76,7 @@ to that paper you hold in your hand ?
 Holmes had in some way ruffled our visitor whose chubby face had
 assumed a far less amiable expression .
 Patience ! Patience Mr. Garrideb ! said my friend in a soothing
-voice . Dr . Watson would tell you that these little digressions of
+voice . Dr. Watson would tell you that these little digressions of
 mine sometimes prove in the end to have some bearing on the matter .
 But why did Mr. Nathan Garrideb not come with you ?
 Why did he ever drag you into it at all ? asked our visitor with a
@@ -145,8 +145,8 @@ I have done that Mr. Holmes . No replies .
 Dear me ! Well it is certainly a most curious little problem . I may
 take a glance at it in my leisure . By the way it is curious that you
 should have come from Topeka . I used to have a correspondenthe is
-dead nowold Dr . Lysander Starr who was mayor in 1890 .
-Good old Dr . Starr ! said our visitor . His name is still honoured .
+dead nowold Dr. Lysander Starr who was mayor in 1890 .
+Good old Dr. Starr ! said our visitor . His name is still honoured .
 Well Mr. Holmes I suppose all we can do is to report to you and let
 you know how we progress . I reckon you will hear within a day or
 two . With this assurance our American bowed and departed .
@@ -166,7 +166,7 @@ by his own account he is a provincial American lately landed in
 London . There have been no advertisements in the agony columns . You
 know that I miss nothing there . They are my favourite covert for
 putting up a bird and I would never have overlooked such a cock
-pheasant as that . I never knew a Dr . Lysander Starr of Topeka . Touch
+pheasant as that . I never knew a Dr. Lysander Starr of Topeka . Touch
 him where you would he was false . I think the fellow is really an
 American but he has worn his accent smooth with years of London .
 What is his game then and what motive lies behind this preposterous
@@ -184,7 +184,7 @@ Yes he has been here . I understand that you don't know him .  . . . How
 long ?  . . . Only two days !  . . . Yes yes of course it is a most
 captivating prospect . Will you be at home this evening ? I suppose
 your namesake will not be there ?  . . . Very good we will come then
-for I would rather have a chat without him .  . . . Dr . Watson will come
+for I would rather have a chat without him .  . . . Dr. Watson will come
 with me .  . . . I understand from your note that you did not go out
 often .  . . . Well we shall be round about six . You need not mention it
 to the American lawyer .  . . . Very good . Goodbye !
@@ -230,7 +230,7 @@ Syracusanof the best period he explained holding it up . They
 degenerated greatly towards the end . At their best I hold them
 supreme though some prefer the Alexandrian school . You will find a
 chair here Mr. Holmes . Pray allow me to clear these bones . And you
-sirah yes Dr . Watsonif you would have the goodness to put the
+sirah yes Dr. Watsonif you would have the goodness to put the
 Japanese vase to one side . You see round me my little interests in
 life . My doctor lectures me about never going out but why should I
 go out when I have so much to hold me here ? I can assure you that the
@@ -355,10 +355,10 @@ and classified that they hardly need your personal explanation . If I
 should be able to look in tomorrow I presume that there would be no
 objection to my glancing over them ?
 None at all . You are most welcome . The place will of course be
-shut up but Mrs . Saunders is in the basement up to four o'clock and
+shut up but Mrs. Saunders is in the basement up to four o'clock and
 would let you in with her key .
 Well I happen to be clear tomorrow afternoon . If you would say a
-word to Mrs . Saunders it would be quite in order . By the way who is
+word to Mrs. Saunders it would be quite in order . By the way who is
 your houseagent ?
 Our client was amazed at the sudden question .
 Holloway and Steele in the Edgware Road . But why ?
@@ -442,7 +442,7 @@ live up to his nickname we must be ready for him . I'll give you an
 hour for a siesta Watson and then I think it will be time for our
 Ryder Street adventure .
 It was just four o'clock when we reached the curious apartment of
-Nathan Garrideb . Mrs . Saunders the caretaker was about to leave
+Nathan Garrideb . Mrs. Saunders the caretaker was about to leave
 but she had no hesitation in admitting us for the door shut with a
 spring lock and Holmes promised to see that all was safe before we
 left . Shortly afterwards the outer door closed her bonnet passed the
@@ -557,7 +557,7 @@ last heard of at a nursinghome in Brixton . It was a glad day at the
 Yard when the Prescott outfit was discovered for though they knew
 that it existed they had never been able after the death of the
 man to find out where it was . Evans had indeed done great service
-and caused several worthy C . I . D . men to sleep the sounder for the
+and caused several worthy C . I . D. men to sleep the sounder for the
 counterfeiter stands in a class by himself as a public danger . They
 would willingly have subscribed to that soupplate medal of which the
 criminal had spoken but an unappreciative bench took a less

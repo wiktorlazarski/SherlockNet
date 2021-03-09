@@ -381,7 +381,7 @@ surprised if before evening we have not cleared it up or made a
 considerable advance along it .
 It was already dark when we reached the old University city . Holmes
 took a cab at the station and ordered the man to drive to the house
-of Dr . Leslie Armstrong . A few minutes later we had stopped at a
+of Dr. Leslie Armstrong . A few minutes later we had stopped at a
 large mansion in the busiest thoroughfare . We were shown in and
 after a long wait were at last admitted into the consultingroom
 where we found the doctor seated behind his table .
@@ -394,7 +394,7 @@ could not fail to be impressed by a mere glance at the man the
 square massive face the brooding eyes under the thatched brows and
 the granite moulding of the inflexible jaw . A man of deep character
 a man with an alert mind grim ascetic selfcontained
-formidableso I read Dr . Leslie Armstrong . He held my friend's card
+formidableso I read Dr. Leslie Armstrong . He held my friend's card
 in his hand and he looked up with no very pleased expression upon
 his dour features .
 I have heard your name Mr. Sherlock Holmes and I am aware of your
@@ -441,7 +441,7 @@ Did you ever know him ill ?
 Never .
 Holmes popped a sheet of paper before the doctor's eyes . Then
 perhaps you will explain this receipted bill for thirteen guineas
-paid by Mr. Godfrey Staunton last month to Dr . Leslie Armstrong of
+paid by Mr. Godfrey Staunton last month to Dr. Leslie Armstrong of
 Cambridge . I picked it out from among the papers upon his desk .
 The doctor flushed with anger .
 I do not feel that there is any reason why I should render an
@@ -460,7 +460,7 @@ Staunton at sixfifteen yesterday eveninga telegram which is
 undoubtedly associated with his disappearanceand yet you have not
 had it . It is most culpable . I shall certainly go down to the office
 here and register a complaint .
-Dr . Leslie Armstrong sprang up from behind his desk and his dark
+Dr. Leslie Armstrong sprang up from behind his desk and his dark
 face was crimson with fury .
 I'll trouble you to walk out of my house sir said he . You can
 tell your employer Lord MountJames that I do not wish to have
@@ -468,7 +468,7 @@ anything to do either with him or with his agents . No sir not
 another word ! He rang the bell furiously . John show these
 gentlemen out ! A pompous butler ushered us severely to the door and
 we found ourselves in the street . Holmes burst out laughing .
-Dr . Leslie Armstrong is certainly a man of energy and character
+Dr. Leslie Armstrong is certainly a man of energy and character
 said he . I have not seen a man who if he turned his talents that
 way was more calculated to fill the gap left by the illustrious
 Moriarty . And now my poor Watson here we are stranded and
@@ -528,7 +528,7 @@ now as you perceive it has returned after me . Of course I had at
 the outset no particular reason to connect these journeys with the
 disappearance of Godfrey Staunton and was only inclined to
 investigate them on the general grounds that everything which
-concerns Dr . Armstrong is at present of interest to us but now that
+concerns Dr. Armstrong is at present of interest to us but now that
 I find he keeps so keen a lookout upon anyone who may follow him on
 these excursions the affair appears more important and I shall not
 be satisfied until I have made the matter clear .
@@ -539,7 +539,7 @@ concealment . All this country that I passed over tonight is as flat
 and clean as the palm of your hand and the man we are following is
 no fool as he very clearly showed tonight . I have wired to Overton
 to let us know any fresh London developments at this address and in
-the meantime we can only concentrate our attention upon Dr .
+the meantime we can only concentrate our attention upon Dr.
 Armstrong whose name the obliging young lady at the office allowed
 me to read upon the counterfoil of Staunton's urgent message . He
 knows where the young man isto that I'll swearand if he knows
@@ -603,7 +603,7 @@ combination in the threequarter line and their weakness both in
 attack and defence more than neutralized the efforts of a heavy and
 hardworking pack .'
 Then our friend Overton's forebodings have been justified said
-Holmes . Personally I am in agreement with Dr . Armstrong and
+Holmes . Personally I am in agreement with Dr. Armstrong and
 football does not come within my horizon . Early to bed tonight
 Watson for I foresee that tomorrow may be an eventful day .
 I was horrified by my first glimpse of Holmes next morning for he
@@ -616,7 +616,7 @@ this occasion the instrument of evil but it will rather prove to be
 the key which will unlock our mystery . On this syringe I base all my
 hopes . I have just returned from a small scouting expedition and
 everything is favourable . Eat a good breakfast Watson for I propose
-to get upon Dr . Armstrong's trail today and once on it I will not
+to get upon Dr. Armstrong's trail today and once on it I will not
 stop for rest or food until I run him to his burrow .
 In that case said I we had best carry our breakfast with us for
 he is making an early start . His carriage is at the door .
@@ -659,7 +659,7 @@ Jove ! here is the brougham coming round the corner . Quick Watson
 quick or we are done !
 He sprang through a gate into a field dragging the reluctant Pompey
 after him . We had hardly got under the shelter of the hedge when the
-carriage rattled past . I caught a glimpse of Dr . Armstrong within
+carriage rattled past . I caught a glimpse of Dr. Armstrong within
 his shoulders bowed his head sunk on his hands the very image of
 distress . I could tell by my companion's graver face that he also had
 seen .
@@ -697,13 +697,13 @@ were anything but doctors who had been sent to his assistance . Holmes
 was endeavouring to utter a few words of consolation and to explain
 the alarm which had been caused to his friends by his sudden
 disappearance when there was a step upon the stairs and there was
-the heavy stern questioning face of Dr . Armstrong at the door .
+the heavy stern questioning face of Dr. Armstrong at the door .
 So gentlemen said he you have attained your end and have
 certainly chosen a particularly delicate moment for your intrusion . I
 would not brawl in the presence of death but I can assure you that
 if I were a younger man your monstrous conduct would not pass with
 impunity .
-Excuse me Dr . Armstrong I think we are a little at
+Excuse me Dr. Armstrong I think we are a little at
 crosspurposes said my friend with dignity . If you could step
 downstairs with us we may each be able to give some light to the
 other upon this miserable affair .
@@ -719,7 +719,7 @@ anxious to hush up private scandals than to give them publicity . If
 as I imagine there is no breach of the law in this matter you can
 absolutely depend upon my discretion and my cooperation in keeping
 the facts out of the papers .
-Dr . Armstrong took a quick step forward and wrung Holmes by the hand .
+Dr. Armstrong took a quick step forward and wrung Holmes by the hand .
 You are a good fellow said he . I had misjudged you . I thank
 Heaven that my compunction at leaving poor Staunton all alone in this
 plight caused me to turn my carriage back and so to make your

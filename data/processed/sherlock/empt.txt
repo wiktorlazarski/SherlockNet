@@ -320,7 +320,7 @@ movements were hastened by the news of this very remarkable Park Lane
 Mystery which not only appealed to me by its own merits but which
 seemed to offer some most peculiar personal opportunities . I came
 over at once to London called in my own person at Baker Street
-threw Mrs . Hudson into violent hysterics and found that Mycroft had
+threw Mrs. Hudson into violent hysterics and found that Mycroft had
 preserved my rooms and my papers exactly as they had always been . So
 it was my dear Watson that at two o'clock today I found myself in
 my old armchair in my own old room and only wishing that I could
@@ -461,7 +461,7 @@ or his impatience with a less active intelligence than his own .
 Of course it has moved said he . Am I such a farcical bungler
 Watson that I should erect an obvious dummy and expect that some of
 the sharpest men in Europe would be deceived by it ? We have been in
-this room two hours and Mrs . Hudson has made some change in that
+this room two hours and Mrs. Hudson has made some change in that
 figure eight times or once in every quarter of an hour . She works it
 from the front so that her shadow may never be seen . Ah ! He drew in
 his breath with a shrill excited intake . In the dim light I saw his
@@ -612,7 +612,7 @@ month . That's the charge Lestrade . And now Watson if you can
 endure the draught from a broken window I think that half an hour in
 my study over a cigar may afford you some profitable amusement .
 Our old chambers had been left unchanged through the supervision of
-Mycroft Holmes and the immediate care of Mrs . Hudson . As I entered I
+Mycroft Holmes and the immediate care of Mrs. Hudson . As I entered I
 saw it is true an unwonted tidiness but the old landmarks were all
 in their place . There were the chemical corner and the acidstained
 dealtopped table . There upon a shelf was the row of formidable
@@ -620,14 +620,14 @@ scrapbooks and books of reference which many of our fellowcitizens
 would have been so glad to burn . The diagrams the violincase and
 the piperackeven the Persian slipper which contained the
 tobaccoall met my eyes as I glanced round me . There were two
-occupants of the roomone Mrs . Hudson who beamed upon us both as we
+occupants of the roomone Mrs. Hudson who beamed upon us both as we
 entered the other the strange dummy which had played so important a
 part in the evening's adventures . It was a waxcoloured model of my
 friend so admirably done that it was a perfect facsimile . It stood
 on a small pedestal table with an old dressinggown of Holmes's so
 draped round it that the illusion from the street was absolutely
 perfect .
-I hope you preserved all precautions Mrs . Hudson ? said Holmes .
+I hope you preserved all precautions Mrs. Hudson ? said Holmes .
 I went to it on my knees sir just as you told me .
 Excellent . You carried the thing out very well . Did you observe
 where the bullet went ?
@@ -636,7 +636,7 @@ passed right through the head and flattened itself on the wall . I
 picked it up from the carpet . Here it is !
 Holmes held it out to me . A soft revolver bullet as you perceive
 Watson . There's genius in that for who would expect to find such a
-thing fired from an airgun . All right Mrs . Hudson I am much
+thing fired from an airgun . All right Mrs. Hudson I am much
 obliged for your assistance . And now Watson let me see you in your
 old seat once more for there are several points which I should like
 to discuss with you .
@@ -691,7 +691,7 @@ evil name . It was at this time that he was sought out by Professor
 Moriarty to whom for a time he was chief of the staff . Moriarty
 supplied him liberally with money and used him only in one or two
 very highclass jobs which no ordinary criminal could have
-undertaken . You may have some recollection of the death of Mrs .
+undertaken . You may have some recollection of the death of Mrs.
 Stewart of Lauder in 1887 . Not ? Well I am sure Moran was at the
 bottom of it but nothing could be proved . So cleverly was the
 Colonel concealed that even when the Moriarty gang was broken up we

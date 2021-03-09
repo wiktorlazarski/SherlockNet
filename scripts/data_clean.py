@@ -18,7 +18,7 @@ def normalize(in_file, out_file):
             line = line.lstrip()
 
             remove_punctuations = "\"#$%&()*+,-/:;<=>@[\]^_`{|}~"
-            split_punctuations = re.compile(r"(?<!Mr|Ms)([!.?])")
+            split_punctuations = re.compile(r"(?<!M[rs])(?<!Mrs|etc)(?<!Dr|Ph|St)(?<!D)([!.?])")
 
             line = line.translate(str.maketrans("", "", remove_punctuations))
             line = split_punctuations.sub(r' \1', line)

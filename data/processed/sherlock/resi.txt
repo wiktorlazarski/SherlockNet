@@ -105,7 +105,7 @@ asking for your advice and assistance .
 Sherlock Holmes sat down and lit his pipe . You are very welcome to
 both said he . Pray let me have a detailed account of what the
 circumstances are which have disturbed you .
-One or two of them are so trivial said Dr . Trevelyan that really
+One or two of them are so trivial said Dr. Trevelyan that really
 I am almost ashamed to mention them . But the matter is so
 inexplicable and the recent turn which it has taken is so elaborate
 that I shall lay it all before you and you shall judge what is
@@ -202,10 +202,10 @@ pitiable state of prostration in which he now lies .
 What happened was this . Two days ago I received the letter which I
 now read to you . Neither address nor date is attached to it .
 'A Russian nobleman who is now resident in England' it runs 'would
-be glad to avail himself of the professional assistance of Dr . Percy
+be glad to avail himself of the professional assistance of Dr. Percy
 Trevelyan . He has been for some years a victim to cataleptic attacks
-on which as is well known Dr . Trevelyan is an authority . He
-proposes to call at about quarter past six tomorrow evening if Dr .
+on which as is well known Dr. Trevelyan is an authority . He
+proposes to call at about quarter past six tomorrow evening if Dr.
 Trevelyan will make it convenient to be at home .'
 This letter interested me deeply because the chief difficulty in
 the study of catalepsy is the rareness of the disease . You may
@@ -316,7 +316,7 @@ face was as impassive as ever but his lids had drooped more heavily
 over his eyes and his smoke had curled up more thickly from his pipe
 to emphasize each curious episode in the doctor's tale . As our
 visitor concluded Holmes sprang up without a word handed me my hat
-picked his own from the table and followed Dr . Trevelyan to the
+picked his own from the table and followed Dr. Trevelyan to the
 door . Within a quarter of an hour we had been dropped at the door of
 the physician's residence in Brook Street one of those sombre
 flatfaced houses which one associates with a WestEnd practice . A
@@ -327,7 +327,7 @@ the top was suddenly whisked out and from the darkness came a reedy
 quivering voice .
 I have a pistol it cried . I give you my word that I'll fire if
 you come any nearer .
-This really grows outrageous Mr. Blessington cried Dr . Trevelyan .
+This really grows outrageous Mr. Blessington cried Dr. Trevelyan .
 Oh then it is you doctor said the voice with a great heave of
 relief . But those other gentlemen are they what they pretend to
 be ?
@@ -344,7 +344,7 @@ intensity of his emotion . In his hand he held a pistol but he thrust
 it into his pocket as we advanced .
 Goodevening Mr. Holmes said he . I am sure I am very much
 obliged to you for coming round . No one ever needed your advice more
-than I do . I suppose that Dr . Trevelyan has told you of this most
+than I do . I suppose that Dr. Trevelyan has told you of this most
 unwarrantable intrusion into my rooms .
 Quite so said Holmes . Who are these two men Mr. Blessington and
 why do they wish to molest you ?
@@ -358,7 +358,7 @@ He led the way into his bedroom which was large and comfortably
 furnished .
 You see that said he pointing to a big black box at the end of
 his bed . I have never been a very rich man Mr. Holmesnever made
-but one investment in my life as Dr . Trevelyan would tell you . But I
+but one investment in my life as Dr. Trevelyan would tell you . But I
 don't believe in bankers . I would never trust a banker Mr. Holmes .
 Between ourselves what little I have is in that box so you can
 understand what it means to me when unknown people force themselves
@@ -367,7 +367,7 @@ Holmes looked at Blessington in his questioning way and shook his
 head .
 I cannot possibly advise you if you try to deceive me said he .
 But I have told you everything .
-Holmes turned on his heel with a gesture of disgust . Goodnight Dr .
+Holmes turned on his heel with a gesture of disgust . Goodnight Dr.
 Trevelyan said he .
 And no advice for me ? cried Blessington in a breaking voice .
 My advice to your sir is to speak the truth .
@@ -404,7 +404,7 @@ his own he suppresses it . It is just possible that tomorrow may find
 him in a more communicative mood .
 Is there not one alternative I suggested grotesquely improbably
 no doubt but still just conceivable ? Might the whole story of the
-cataleptic Russian and his son be a concoction of Dr . Trevelyan's
+cataleptic Russian and his son be a concoction of Dr. Trevelyan's
 who has for his own purposes been in Blessington's rooms ?
 I saw in the gaslight that Holmes wore an amused smile at this
 brilliant departure of mine .
@@ -512,7 +512,7 @@ until at last he professed himself satisfied and with my aid and
 that of the inspector cut down the wretched object and laid it
 reverently under a sheet .
 How about this rope ? he asked .
-It is cut off this said Dr . Trevelyan drawing a large coil from
+It is cut off this said Dr. Trevelyan drawing a large coil from
 under the bed . He was morbidly nervous of fire and always kept this
 beside him so that he might escape by the window in case the stairs
 were burning .
@@ -530,7 +530,7 @@ his son so we can give a very full description of them . They were
 admitted by a confederate inside the house . If I might offer you a
 word of advice Inspector it would be to arrest the page who as I
 understand has only recently come into your service Doctor .
-The young imp cannot be found said Dr . Trevelyan the maid and
+The young imp cannot be found said Dr. Trevelyan the maid and
 the cook have just been searching for him .
 Holmes shrugged his shoulders .
 He has played a not unimportant part in this drama said he . The
@@ -602,7 +602,7 @@ some years before their full term they set themselves as you
 perceive to hunt down the traitor and to avenge the death of their
 comrade upon him . Twice they tried to get at him and failed a third
 time you see it came off . Is there anything further which I can
-explain Dr . Trevelyan ?
+explain Dr. Trevelyan ?
 I think you have made it all remarkable clear said the doctor . No
 doubt the day on which he was perturbed was the day when he had seen
 of their release in the newspapers .

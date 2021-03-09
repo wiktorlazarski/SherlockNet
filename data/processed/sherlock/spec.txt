@@ -17,7 +17,7 @@ time from which I have only been freed during the last month by the
 untimely death of the lady to whom the pledge was given . It is
 perhaps as well that the facts should now come to light for I have
 reasons to know that there are widespread rumours as to the death of
-Dr . Grimesby Roylott which tend to make the matter even more terrible
+Dr. Grimesby Roylott which tend to make the matter even more terrible
 than the truth .
 It was early in April in the year '83 that I woke one morning to find
 Sherlock Holmes standing fully dressed by the side of my bed . He
@@ -26,7 +26,7 @@ showed me that it was only a quarterpast seven I blinked up at him
 in some surprise and perhaps just a little resentment for I was
 myself regular in my habits .
 Very sorry to knock you up Watson said he but it's the common
-lot this morning . Mrs . Hudson has been knocked up she retorted upon
+lot this morning . Mrs. Hudson has been knocked up she retorted upon
 me and I on you .
 What is it thena fire ?
 No a client . It seems that a young lady has arrived in a
@@ -47,9 +47,9 @@ on my clothes and was ready in a few minutes to accompany my friend
 down to the sittingroom . A lady dressed in black and heavily veiled
 who had been sitting in the window rose as we entered .
 Goodmorning madam said Holmes cheerily . My name is Sherlock
-Holmes . This is my intimate friend and associate Dr . Watson before
+Holmes . This is my intimate friend and associate Dr. Watson before
 whom you can speak as freely as before myself . Ha ! I am glad to see
-that Mrs . Hudson has had the good sense to light the fire . Pray draw
+that Mrs. Hudson has had the good sense to light the fire . Pray draw
 up to it and I shall order you a cup of hot coffee for I observe
 that you are shivering .
 It is not cold which makes me shiver said the woman in a low
@@ -83,7 +83,7 @@ and came in by the first train to Waterloo . Sir I can stand this
 strain no longer I shall go mad if it continues . I have no one to
 turn tonone save only one who cares for me and he poor fellow
 can be of little aid . I have heard of you Mr. Holmes I have heard
-of you from Mrs . Farintosh whom you helped in the hour of her sore
+of you from Mrs. Farintosh whom you helped in the hour of her sore
 need . It was from her that I had your address . Oh sir do you not
 think that you could help me too and at least throw a little light
 through the dense darkness which surrounds me ? At present it is out
@@ -132,15 +132,15 @@ perpetrated in the house he beat his native butler to death and
 narrowly escaped a capital sentence . As it was he suffered a long
 term of imprisonment and afterwards returned to England a morose and
 disappointed man .
-When Dr . Roylott was in India he married my mother Mrs . Stoner the
+When Dr. Roylott was in India he married my mother Mrs. Stoner the
 young widow of MajorGeneral Stoner of the Bengal Artillery . My
 sister Julia and I were twins and we were only two years old at the
 time of my mother's remarriage . She had a considerable sum of
-moneynot less than £1000 a yearand this she bequeathed to Dr .
+moneynot less than £1000 a yearand this she bequeathed to Dr.
 Roylott entirely while we resided with him with a provision that a
 certain annual sum should be allowed to each of us in the event of
 our marriage . Shortly after our return to England my mother diedshe
-was killed eight years ago in a railway accident near Crewe . Dr .
+was killed eight years ago in a railway accident near Crewe . Dr.
 Roylott then abandoned his attempts to establish himself in practice
 in London and took us to live with him in the old ancestral house at
 Stoke Moran . The money which my mother had left was enough for all
@@ -194,13 +194,13 @@ It is easy for me to be so for every event of that dreadful time is
 seared into my memory . The manorhouse is as I have already said
 very old and only one wing is now inhabited . The bedrooms in this
 wing are on the ground floor the sittingrooms being in the central
-block of the buildings . Of these bedrooms the first is Dr . Roylott's
+block of the buildings . Of these bedrooms the first is Dr. Roylott's
 the second my sister's and the third my own . There is no
 communication between them but they all open out into the same
 corridor . Do I make myself plain ?
 Perfectly so .
 The windows of the three rooms open out upon the lawn . That fatal
-night Dr . Roylott had gone to his room early though we knew that he
+night Dr. Roylott had gone to his room early though we knew that he
 had not retired to rest for my sister was troubled by the smell of
 the strong Indian cigars which it was his custom to smoke . She left
 her room therefore and came into mine where she sat for some time
@@ -275,7 +275,7 @@ charred stump of a match and in her left a matchbox .
 Showing that she had struck a light and looked about her when the
 alarm took place . That is important . And what conclusions did the
 coroner come to ?
-He investigated the case with great care for Dr . Roylott's conduct
+He investigated the case with great care for Dr. Roylott's conduct
 had long been notorious in the county but he was unable to find any
 satisfactory cause of death . My evidence showed that the door had
 been fastened upon the inner side and the windows were blocked by
@@ -399,7 +399,7 @@ a fierce old bird of prey .
 Which of you is Holmes ? asked this apparition .
 My name sir but you have the advantage of me said my companion
 quietly .
-I am Dr . Grimesby Roylott of Stoke Moran .
+I am Dr. Grimesby Roylott of Stoke Moran .
 Indeed Doctor said Holmes blandly . Pray take a seat .
 I will do nothing of the kind . My stepdaughter has been here . I have
 traced her . What has she been saying to you ?
@@ -471,7 +471,7 @@ A heavily timbered park stretched up in a gentle slope thickening
 into a grove at the highest point . From amid the branches there
 jutted out the grey gables and high rooftree of a very old mansion .
 Stoke Moran ? said he .
-Yes sir that be the house of Dr . Grimesby Roylott remarked the
+Yes sir that be the house of Dr. Grimesby Roylott remarked the
 driver .
 There is some building going on there said Holmes that is where
 we are going .
@@ -490,7 +490,7 @@ Stoner . You see that we have been as good as our word .
 Our client of the morning had hurried forward to meet us with a face
 which spoke her joy . I have been waiting so eagerly for you she
 cried shaking hands with us warmly . All has turned out splendidly .
-Dr . Roylott has gone to town and it is unlikely that he will be back
+Dr. Roylott has gone to town and it is unlikely that he will be back
 before evening .
 We have had the pleasure of making the doctor's acquaintance said
 Holmes and in a few words he sketched out what had occurred . Miss
@@ -518,7 +518,7 @@ visit . Holmes walked slowly up and down the illtrimmed lawn and
 examined with deep attention the outsides of the windows .
 This I take it belongs to the room in which you used to sleep the
 centre one to your sister's and the one next to the main building to
-Dr . Roylott's chamber ?
+Dr. Roylott's chamber ?
 Exactly so . But I am now sleeping in the middle one .
 Pending the alterations as I understand . By the way there does not
 seem to be any very pressing need for repairs at that end wall .
@@ -590,7 +590,7 @@ They seem to have been of a most interesting characterdummy
 bellropes and ventilators which do not ventilate . With your
 permission Miss Stoner we shall now carry our researches into the
 inner apartment .
-Dr . Grimesby Roylott's chamber was larger than that of his
+Dr. Grimesby Roylott's chamber was larger than that of his
 stepdaughter but was as plainly furnished . A campbed a small
 wooden shelf full of books mostly of a technical character an
 armchair beside the bed a plain wooden chair against the wall a
@@ -662,14 +662,14 @@ I should prefer to have clearer proofs before I speak .
 You can at least tell me whether my own thought is correct and if
 she died from some sudden fright .
 No I do not think so . I think that there was probably some more
-tangible cause . And now Miss Stoner we must leave you for if Dr .
+tangible cause . And now Miss Stoner we must leave you for if Dr.
 Roylott returned and saw us our journey would be in vain .  Goodbye
 and be brave for if you will do what I have told you you may rest
 assured that we shall soon drive away the dangers that threaten you .
 Sherlock Holmes and I had no difficulty in engaging a bedroom and
 sittingroom at the Crown Inn . They were on the upper floor and from
 our window we could command a view of the avenue gate and of the
-inhabited wing of Stoke Moran Manor House . At dusk we saw Dr .
+inhabited wing of Stoke Moran Manor House . At dusk we saw Dr.
 Grimesby Roylott drive past his huge form looming up beside the
 little figure of the lad who drove him . The boy had some slight
 difficulty in undoing the heavy iron gates and we heard the hoarse
@@ -698,7 +698,7 @@ I knew that we should find a ventilator before ever we came to Stoke
 Moran .
 My dear Holmes !
 Oh yes I did . You remember in her statement she said that her
-sister could smell Dr . Roylott's cigar . Now of course that suggested
+sister could smell Dr. Roylott's cigar . Now of course that suggested
 at once that there must be a communication between the two rooms . It
 could only be a small one or it would have been remarked upon at the
 coroner's inquiry . I deduced a ventilator .
@@ -805,7 +805,7 @@ and I stood gazing at Holmes and he at me until the last echoes of
 it had died away into the silence from which it rose .
 What can it mean ? I gasped .
 It means that it is all over Holmes answered . And perhaps after
-all it is for the best . Take your pistol and we will enter Dr .
+all it is for the best . Take your pistol and we will enter Dr.
 Roylott's room .
 With a grave face he lit the lamp and led the way down the corridor .
 Twice he struck at the chamber door without any reply from within .
@@ -814,7 +814,7 @@ cocked pistol in my hand .
 It was a singular sight which met our eyes . On the table stood a
 darklantern with the shutter half open throwing a brilliant beam of
 light upon the iron safe the door of which was ajar . Beside this
-table on the wooden chair sat Dr . Grimesby Roylott clad in a long
+table on the wooden chair sat Dr. Grimesby Roylott clad in a long
 grey dressinggown his bare ankles protruding beneath and his feet
 thrust into red heelless Turkish slippers . Across his lap lay the
 short stock with the long lash which we had noticed during the day .
@@ -837,7 +837,7 @@ As he spoke he drew the dogwhip swiftly from the dead man's lap and
 throwing the noose round the reptile's neck he drew it from its
 horrid perch and carrying it at arm's length threw it into the iron
 safe which he closed upon it .
-Such are the true facts of the death of Dr . Grimesby Roylott of
+Such are the true facts of the death of Dr. Grimesby Roylott of
 Stoke Moran . It is not necessary that I should prolong a narrative
 which has already run to too great a length by telling how we broke
 the sad news to the terrified girl how we conveyed her by the
@@ -893,7 +893,7 @@ With the result of driving it through the ventilator .
 And also with the result of causing it to turn upon its master at
 the other side . Some of the blows of my cane came home and roused its
 snakish temper so that it flew upon the first person it saw . In this
-way I am no doubt indirectly responsible for Dr . Grimesby Roylott's
+way I am no doubt indirectly responsible for Dr. Grimesby Roylott's
 death and I cannot say that it is likely to weigh very heavily upon
 my conscience .
 This text is provided to you asis without any warranty . No

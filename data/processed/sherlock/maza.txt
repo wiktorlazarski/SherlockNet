@@ -1,6 +1,6 @@
 THE ADVENTURE OF THE MAZARIN STONE
 Arthur Conan Doyle
-It was pleasant to Dr . Watson to find himself once more in the untidy
+It was pleasant to Dr. Watson to find himself once more in the untidy
 room of the first floor in Baker Street which had been the
 startingpoint of so many remarkable adventures . He looked round him
 at the scientific charts upon the wall the acidcharred bench of
@@ -14,13 +14,13 @@ It all seems very unchanged Billy . You don't change either . I hope
 the same can be said of him ?
 Billy glanced with some solicitude at the closed door of the bedroom .
 I think he's in bed and asleep he said .
-It was seven in the evening of a lovely summer's day but Dr . Watson
+It was seven in the evening of a lovely summer's day but Dr. Watson
 was sufficiently familiar with the irregularity of his old friend's
 hours to feel no surprise at the idea .
 That means a case I suppose ?
 Yes sir he is very hard at it just now . I'm frightened for his
 health . He gets paler and thinner and he eats nothing . 'When will
-you be pleased to dine Mr. Holmes ?' Mrs . Hudson asked .
+you be pleased to dine Mr. Holmes ?' Mrs. Hudson asked .
 'Seventhirty the day after tomorrow' said he . You know his way
 when he is keen on a case .
 Yes Billy I know .
@@ -54,7 +54,7 @@ Mr. Holmes had it put up there three days ago . We've got something
 funny behind it .
 Billy advanced and drew away the drapery which screened the alcove of
 the bow window .
-Dr . Watson could not restrain a cry of amazement . There was a
+Dr. Watson could not restrain a cry of amazement . There was a
 facsimile of his old friend dressinggown and all the face turned
 threequarters towards the window and downward as though reading an
 invisible book while the body was sunk deep in an armchair . Billy
@@ -171,7 +171,7 @@ Yes you can Watson . And you will for you have never failed to
 play the game . I am sure you will play it to the end . This man has
 come for his own purpose but he may stay for mine . Holmes took out
 his notebook and scribbled a few lines . Take a cab to Scotland Yard
-and give this to Youghal of the C . I . D . Come back with the police .
+and give this to Youghal of the C . I . D. Come back with the police .
 The fellow's arrest will follow .
 I'll do that with joy .
 Before you return I may have just time enough to find out where the
@@ -297,7 +297,7 @@ Yes sir you ! You are all hereevery action of your vile and
 dangerous life .
 Damn you Holmes ! cried the Count with blazing eyes . There are
 limits to my patience !
-It's all here Count . The real facts as to the death of old Mrs .
+It's all here Count . The real facts as to the death of old Mrs.
 Harold who left you the Blymer estate which you so rapidly gambled
 away .
 You are dreaming !
@@ -513,7 +513,7 @@ How do you do Lord Cantlemere ? It is chilly for the time of year
 but rather warm indoors . May I take your overcoat ?
 No I thank you I will not take it off .
 Holmes laid his hand insistently upon the sleeve .
-Pray allow me ! My friend Dr . Watson would assure you that these
+Pray allow me ! My friend Dr. Watson would assure you that these
 changes of temperature are most insidious .
 His Lordship shook himself free with some impatience .
 I am quite comfortable sir . I have no need to stay . I have simply
@@ -580,7 +580,7 @@ The case is but half finished the details can wait . No doubt Lord
 Cantlemere your pleasure in telling of this successful result in the
 exalted circle to which you return will be some small atonement for
 my practical joke . Billy you will show his Lordship out and tell
-Mrs . Hudson that I should be glad if she would send up dinner for two
+Mrs. Hudson that I should be glad if she would send up dinner for two
 as soon as possible .
 This text is provided to you asis without any warranty . No
 warranties of any kind expressed or implied are made to you as to

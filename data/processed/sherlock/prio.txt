@@ -3,7 +3,7 @@ Arthur Conan Doyle
 We have had some dramatic entrances and exits upon our small stage at
 Baker Street but I cannot recollect anything more sudden and
 startling than the first appearance of Thorneycroft Huxtable M .A .
-Ph .D . etc . His card which seemed too small to carry the weight of
+Ph.D. etc. His card which seemed too small to carry the weight of
 his academic distinctions preceded him by a few seconds and then he
 entered himselfso large so pompous and so dignified that he was
 the very embodiment of selfpossession and solidity . And yet his
@@ -41,7 +41,7 @@ I am quite well again . I cannot imagine how I came to be so weak . I
 wish you Mr. Holmes to come to Mackleton with me by the next
 train .
 My friend shook his head .
-My colleague Dr . Watson could tell you that we are very busy at
+My colleague Dr. Watson could tell you that we are very busy at
 present . I am retained in this case of the Ferrers Documents and the
 Abergavenny murder is coming up for trial . Only a very important
 issue could call me from London at present .
@@ -70,10 +70,10 @@ pounds will be handed over to the person who can tell him where his
 son is and another thousand to him who can name the man or men who
 have taken him .
 It is a princely offer said Holmes . Watson I think that we shall
-accompany Dr . Huxtable back to the North of England . And now Dr .
+accompany Dr. Huxtable back to the North of England . And now Dr.
 Huxtable when you have consumed that milk you will kindly tell me
 what has happened when it happened how it happened and finally
-what Dr . Thorneycroft Huxtable of the Priory School near Mackleton
+what Dr. Thorneycroft Huxtable of the Priory School near Mackleton
 has to do with the matter and why he comes three days after an
 eventthe state of your chin gives the dateto ask for my humble
 services .
@@ -251,7 +251,7 @@ herring led your pack . In the meantime I will do a little quiet work
 at your own doors and perhaps the scent is not so cold but that two
 old hounds like Watson and myself may get a sniff of it .
 That evening found us in the cold bracing atmosphere of the Peak
-country in which Dr . Huxtable's famous school is situated . It was
+country in which Dr. Huxtable's famous school is situated . It was
 already dark when we reached it . A card was lying on the hall table
 and the butler whispered something to his master who turned to us
 with agitation in every heavy feature .
@@ -265,20 +265,20 @@ complexion was of a dead pallor which was more startling by contrast
 with a long dwindling beard of vivid red which flowed down over his
 white waistcoat with his watchchain gleaming through its fringe .
 Such was the stately presence who looked stonily at us from the
-centre of Dr . Huxtable's hearthrug . Beside him stood a very young
+centre of Dr. Huxtable's hearthrug . Beside him stood a very young
 man whom I understood to be Wilder the private secretary . He was
 small nervous alert with intelligent lightblue eyes and mobile
 features . It was he who at once in an incisive and positive tone
 opened the conversation .
-I called this morning Dr . Huxtable too late to prevent you from
+I called this morning Dr. Huxtable too late to prevent you from
 starting for London . I learned that your object was to invite Mr.
 Sherlock Holmes to undertake the conduct of this case . His Grace is
-surprised Dr . Huxtable that you should have taken such a step
+surprised Dr. Huxtable that you should have taken such a step
 without consulting him .
 When I learned that the police had failed
 His Grace is by no means convinced that the police have failed .
 But surely Mr. Wilder
-You are well aware Dr . Huxtable that his Grace is particularly
+You are well aware Dr. Huxtable that his Grace is particularly
 anxious to avoid all public scandal . He prefers to take as few people
 as possible into his confidence .
 The matter can be easily remedied said the browbeaten doctor
@@ -291,7 +291,7 @@ is of course for you to decide .
 I could see that the unfortunate doctor was in the last stage of
 indecision from which he was rescued by the deep sonorous voice of
 the redbearded Duke which boomed out like a dinnergong .
-I agree with Mr. Wilder Dr . Huxtable that you would have done
+I agree with Mr. Wilder Dr. Huxtable that you would have done
 wisely to consult me . But since Mr. Holmes has already been taken
 into your confidence it would indeed be absurd that we should not
 avail ourselves of his services . Far from going to the inn Mr.
@@ -340,7 +340,7 @@ turn their attention to the South of France . I have already said that
 I do not believe that the Duchess would encourage so monstrous an
 action but the lad had the most wrongheaded opinions and it is
 possible that he may have fled to her aided and abetted by this
-German . I think Dr . Huxtable that we will now return to the Hall .
+German . I think Dr. Huxtable that we will now return to the Hall .
 I could see that there were other questions which Holmes would have
 wished to put but the nobleman's abrupt manner showed that the
 interview was at an end . It was evident that to his intensely
@@ -416,7 +416,7 @@ Well well ! said Holmes impatiently . A good cyclist does not need
 a high road . The moor is intersected with paths and the moon was at
 the full . Halloa ! what is this ?
 There was an agitated knock at the door and an instant afterwards
-Dr . Huxtable was in the room . In his hand he held a blue cricketcap
+Dr. Huxtable was in the room . In his hand he held a blue cricketcap
 with a white chevron on the peak .
 At last we have a clue ! he cried . Thank Heaven ! at last we are on
 the dear boy's track ! It is his cap .
@@ -563,7 +563,7 @@ But I need your company and assistance . Wait a bit ! There is a
 fellow cutting peat up yonder . Bring him over here and he will guide
 the police .
 I brought the peasant across and Holmes dispatched the frightened
-man with a note to Dr . Huxtable .
+man with a note to Dr. Huxtable .
 Now Watson said he we have picked up two clues this morning .
 One is the bicycle with the Palmer tyre and we see what that has led
 to . The other is the bicycle with the patched Dunlop . Before we start
@@ -799,7 +799,7 @@ walk to the school and the sooner we get started the better .
 He hardly opened his lips during that weary trudge across the moor
 nor would he enter the school when he reached it but went on to
 Mackleton Station whence he could send some telegrams . Late at night
-I heard him consoling Dr . Huxtable prostrated by the tragedy of his
+I heard him consoling Dr. Huxtable prostrated by the tragedy of his
 master's death and later still he entered my room as alert and
 vigorous as he had been when he started in the morning . All goes
 well my friend said he . I promise that before tomorrow evening
@@ -812,7 +812,7 @@ that wild terror of the night before still lurking in his furtive
 eyes and in his twitching features .
 You have come to see his Grace ? I am sorry but the fact is that the
 Duke is far from well . He has been very much upset by the tragic
-news . We received a telegram from Dr . Huxtable yesterday afternoon
+news . We received a telegram from Dr. Huxtable yesterday afternoon
 which told us of your discovery .
 I must see the Duke Mr. Wilder .
 But he is in his room .
@@ -837,8 +837,8 @@ If your Grace wishes
 Yes yes you had better go . Now Mr. Holmes what have you to say ?
 My friend waited until the door had closed behind the retreating
 secretary .
-The fact is your Grace said he that my colleague Dr . Watson
-and myself had an assurance from Dr . Huxtable that a reward had been
+The fact is your Grace said he that my colleague Dr. Watson
+and myself had an assurance from Dr. Huxtable that a reward had been
 offered in this case . I should like to have this confirmed from your
 own lips .
 Certainly Mr. Holmes .
@@ -964,7 +964,7 @@ for her dear sake there was no end to my longsuffering . All her
 pretty ways toothere was not one of them which he could not
 suggest and bring back to my memory . I could not send him away . But I
 feared so much lest he should do Arthurthat is Lord Saltirea
-mischief that I dispatched him for safety to Dr . Huxtable's school .
+mischief that I dispatched him for safety to Dr. Huxtable's school .
 James came into contact with this fellow Hayes because the man was a
 tenant of mine and James acted as agent . The fellow was a rascal
 from the beginning but in some extraordinary way James became
@@ -985,7 +985,7 @@ together . It appearsthough this James only heard yesterdaythat
 they were pursued that Hayes struck the pursuer with his stick and
 that the man died of his injuries . Hayes brought Arthur to his
 publichouse the Fighting Cock where he was confined in an upper
-room under the care of Mrs . Hayes who is a kindly woman but
+room under the care of Mrs. Hayes who is a kindly woman but
 entirely under the control of her brutal husband .
 Well Mr. Holmes that was the state of affairs when I first saw you
 two days ago . I had no more idea of the truth than you . You will ask
@@ -1004,7 +1004,7 @@ actually do so for events moved too quickly for him and he had not
 time to put his plans into practice .
 What brought all his wicked scheme to wreck was your discovery of
 this man Heidegger's dead body . James was seized with horror at the
-news . It came to us yesterday as we sat together in this study . Dr .
+news . It came to us yesterday as we sat together in this study . Dr.
 Huxtable had sent a telegram . James was so overwhelmed with grief and
 agitation that my suspicions which had never been entirely absent
 rose instantly to a certainty and I taxed him with the deed . He made
@@ -1017,7 +1017,7 @@ not go there by daylight without provoking comment but as soon as
 night fell I hurried off to see my dear Arthur . I found him safe and
 well but horrified beyond expression by the dreadful deed he had
 witnessed . In deference to my promise and much against my will I
-consented to leave him there for three days under the charge of Mrs .
+consented to leave him there for three days under the charge of Mrs.
 Hayes since it was evident that it was impossible to inform the
 police where he was without telling them also who was the murderer
 and I could not see how that murderer could be punished without ruin

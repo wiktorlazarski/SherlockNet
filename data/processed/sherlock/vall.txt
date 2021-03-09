@@ -303,7 +303,7 @@ which I had scrawled the enigmatic message .
 Douglas ! he stammered . Birlstone ! What's this Mr. Holmes ? Man
 it's witchcraft ! Where in the name of all that is wonderful did you
 get those names ?
-It is a cipher that Dr . Watson and I have had occasion to solve . But
+It is a cipher that Dr. Watson and I have had occasion to solve . But
 whywhat's amiss with the names ?
 The inspector looked from one to the other of us in dazed
 astonishment . Just this said he that Mr. Douglas of Birlstone
@@ -360,7 +360,7 @@ This professor that I've heard you mention ?
 Exactly !
 Inspector MacDonald smiled and his eyelid quivered as he glanced
 towards me . I won't conceal from you Mr. Holmes that we think in
-the C . I . D . that you have a wee bit of a bee in your bonnet over
+the C . I . D. that you have a wee bit of a bee in your bonnet over
 this professor . I made some inquiries myself about the matter . He
 seems to be a very respectable learned and talented sort of man .
 I'm glad you've got so far as to recognize the talent .
@@ -665,7 +665,7 @@ the confidence between the two did not appear to be complete since
 the wife was either very reticent about her husband's past life or
 else as seemed more likely was imperfectly informed about it . It
 had also been noted and commented upon by a few observant people that
-there were signs sometimes of some nervestrain upon the part of Mrs .
+there were signs sometimes of some nervestrain upon the part of Mrs.
 Douglas and that she would display acute uneasiness if her absent
 husband should ever be particularly late in his return . On a quiet
 countryside where all gossip is welcome this weakness of the lady
@@ -703,7 +703,7 @@ perceive his annoyance . Such was the third person who was one of the
 family when the catastrophe occurred .
 As to the other denizens of the old building it will suffice out of
 a large household to mention the prim respectable and capable Ames
-and Mrs . Allen a buxom and cheerful person who relieved the lady of
+and Mrs. Allen a buxom and cheerful person who relieved the lady of
 some of her household cares . The other six servants in the house bear
 no relation to the events of the night of January 6th .
 It was at eleven fortyfive that the first alarm reached the small
@@ -723,7 +723,7 @@ together in the hall with the frightened butler wringing his hands
 in the doorway . Only Cecil Barker seemed to be master of himself and
 his emotions he had opened the door which was nearest to the
 entrance and he had beckoned to the sergeant to follow him . At that
-moment there arrived Dr . Wood a brisk and capable general
+moment there arrived Dr. Wood a brisk and capable general
 practitioner from the village . The three men entered the fatal room
 together while the horrorstricken butler followed at their heels
 closing the door behind him to shut out the terrible scene from the
@@ -756,8 +756,8 @@ Yes it was open . Poor Douglas was lying as you see him . His bedroom
 candle was burning on the table . It was I who lit the lamp some
 minutes afterward .
 Did you see no one ?
-No . I heard Mrs . Douglas coming down the stair behind me and I
-rushed out to prevent her from seeing this dreadful sight . Mrs .
+No . I heard Mrs. Douglas coming down the stair behind me and I
+rushed out to prevent her from seeing this dreadful sight . Mrs.
 Allen the housekeeper came and took her away . Ames had arrived and
 we ran back into the room once more .
 But surely I have heard that the drawbridge is kept up all night .
@@ -775,7 +775,7 @@ Then if you were in the room within half a minute of the crime he
 must have been in the water at that very moment .
 I have not a doubt of it . I wish to heaven that I had rushed to the
 window ! But the curtain screened it as you can see and so it never
-occurred to me . Then I heard the step of Mrs . Douglas and I could
+occurred to me . Then I heard the step of Mrs. Douglas and I could
 not let her enter the room . It would have been too horrible .
 Horrible enough ! said the doctor looking at the shattered head and
 the terrible marks which surrounded it . I've never seen such
@@ -791,7 +791,7 @@ It was nearly six o'clock said Ames the butler .
 I've heard said the sergeant that it was usually raised at
 sunset . That would be nearer halfpast four than six at this time of
 year .
-Mrs . Douglas had visitors to tea said Ames . I couldn't raise it
+Mrs. Douglas had visitors to tea said Ames . I couldn't raise it
 until they went . Then I wound it up myself .
 Then it comes to this said the sergeant If anyone came from
 outsideif they didthey must have got in across the bridge before
@@ -810,7 +810,7 @@ Barker looked at it with curiosity . I never noticed it before he
 said . The murderer must have left it behind him .
 V . V .341 . I can make no sense of that .
 The sergeant kept turning it over in his big fingers . What's V . V . ?
-Somebody's initials maybe . What have you got there Dr . Wood ?
+Somebody's initials maybe . What have you got there Dr. Wood ?
 It was a goodsized hammer which had been lying on the rug in front
 of the fireplacea substantial workmanlike hammer . Cecil Barker
 pointed to a box of brassheaded nails upon the mantelpiece .
@@ -902,7 +902,7 @@ have the pressmen down like flies when they understand it . I'm hoping
 we will get our work done before they get poking their noses into it
 and messing up all the trails . There has been nothing like this that
 I can remember . There are some bits that will come home to you Mr.
-Holmes or I am mistaken . And you also Dr . Watson for the medicos
+Holmes or I am mistaken . And you also Dr. Watson for the medicos
 will have a word to say before we finish . Your room is at the
 Westville Arms . There's no other place but I hear that it is clean
 and good . The man will carry your bags . This way gentlemen if you
@@ -926,7 +926,7 @@ for there was nothing immediate that I could do . Sergeant Wilson had
 all the facts . I checked them and considered them and maybe added a
 few of my own .
 What were they ? asked Holmes eagerly .
-Well I first had the hammer examined . There was Dr . Wood there to
+Well I first had the hammer examined . There was Dr. Wood there to
 help me . We found no signs of violence upon it . I was hoping that if
 Mr. Douglas defended himself with the hammer he might have left his
 mark upon the murderer before he dropped it on the mat . But there was
@@ -1028,7 +1028,7 @@ wish ever to score at their expense . At the same time Mr. White
 Mason I claim the right to work in my own way and give my results at
 my own timecomplete rather than in stages .
 I am sure we are honoured by your presence and to show you all we
-know said White Mason cordially . Come along Dr . Watson and when
+know said White Mason cordially . Come along Dr. Watson and when
 the time comes we'll all hope for a place in your book .
 We walked down the quaint village street with a row of pollarded elms
 on each side of it . Just beyond were two ancient stone pillars
@@ -1076,7 +1076,7 @@ Anything fresh Sergeant Wilson ? asked White Mason .
 No sir .
 Then you can go home . You've had enough . We can send for you if we
 want you . The butler had better wait outside . Tell him to warn Mr.
-Cecil Barker Mrs . Douglas and the housekeeper that we may want a
+Cecil Barker Mrs. Douglas and the housekeeper that we may want a
 word with them presently . Now gentlemen perhaps you will allow me
 to give you the views I have formed first and then you will be able
 to arrive at your own .
@@ -1125,7 +1125,7 @@ would seem that the private grudge is the more likely theory . He
 slipped into this room because it was the first he came to and he
 hid behind the curtain . There he remained until past eleven at night .
 At that time Mr. Douglas entered the room . It was a short interview
-if there were any interview at all for Mrs . Douglas declares that
+if there were any interview at all for Mrs. Douglas declares that
 her husband had not left her more than a few minutes when she heard
 the shot .
 The candle shows that said Holmes .
@@ -1278,15 +1278,15 @@ of the house and there were several closed doors and a long passage
 between . The housekeeper had come out of her room attracted by the
 violent ringing of the bell . They had gone to the front of the house
 together .
-As they reached the bottom of the stair he had seen Mrs . Douglas
+As they reached the bottom of the stair he had seen Mrs. Douglas
 coming down it . No she was not hurrying it did not seem to him that
 she was particularly agitated . Just as she reached the bottom of the
-stair Mr. Barker had rushed out of the study . He had stopped Mrs .
+stair Mr. Barker had rushed out of the study . He had stopped Mrs.
 Douglas and begged her to go back .
 For God's sake go back to your room ! he cried . Poor Jack is dead !
 You can do nothing . For God's sake go back !
-After some persuasion upon the stairs Mrs . Douglas had gone back . She
-did not scream . She made no outcry whatever . Mrs . Allen the
+After some persuasion upon the stairs Mrs. Douglas had gone back . She
+did not scream . She made no outcry whatever . Mrs. Allen the
 housekeeper had taken her upstairs and stayed with her in the
 bedroom . Ames and Mr. Barker had then returned to the study where
 they had found everything exactly as the police had seen it . The
@@ -1296,7 +1296,7 @@ could be seen or heard . They had then rushed out into the hall where
 Ames had turned the windlass which lowered the drawbridge . Mr. Barker
 had then hurried off to get the police .
 Such in its essentials was the evidence of the butler .
-The account of Mrs . Allen the housekeeper was so far as it went a
+The account of Mrs. Allen the housekeeper was so far as it went a
 corroboration of that of her fellow servant . The housekeeper's room
 was rather nearer to the front of the house than the pantry in which
 Ames had been working . She was preparing to go to bed when the loud
@@ -1307,20 +1307,20 @@ sound which she imagined to be the slamming of a door . That was a
 good deal earlierhalf an hour at least before the ringing of the
 bell . When Mr. Ames ran to the front she went with him . She saw Mr.
 Barker very pale and excited come out of the study . He intercepted
-Mrs . Douglas who was coming down the stairs . He entreated her to go
+Mrs. Douglas who was coming down the stairs . He entreated her to go
 back and she answered him but what she said could not be heard .
-Take her up ! Stay with her ! he had said to Mrs . Allen .
+Take her up ! Stay with her ! he had said to Mrs. Allen .
 She had therefore taken her to the bedroom and endeavoured to soothe
 her . She was greatly excited trembling all over but made no other
 attempt to go downstairs . She just sat in her dressing gown by her
-bedroom fire with her head sunk in her hands . Mrs . Allen stayed with
+bedroom fire with her head sunk in her hands . Mrs. Allen stayed with
 her most of the night . As to the other servants they had all gone to
 bed and the alarm did not reach them until just before the police
 arrived . They slept at the extreme back of the house and could not
 possibly have heard anything .
 So far the housekeeper could add nothing on crossexamination save
 lamentations and expressions of amazement .
-Cecil Barker succeeded Mrs . Allen as a witness . As to the occurrences
+Cecil Barker succeeded Mrs. Allen as a witness . As to the occurrences
 of the night before he had very little to add to what he had already
 told the police . Personally he was convinced that the murderer had
 escaped by the window . The bloodstain was conclusive in his opinion
@@ -1404,7 +1404,7 @@ That is so .
 And he had been married five years . You must have returned about the
 time of his marriage .
 About a month before . I was his best man .
-Did you know Mrs . Douglas before her marriage ?
+Did you know Mrs. Douglas before her marriage ?
 No I did not . I had been away from England for ten years .
 But you have seen a good deal of her since .
 Barker looked sternly at the detective . I have seen a good deal of
@@ -1429,7 +1429,7 @@ Barker stood for a moment with his face set grimly and his strong
 black eyebrows drawn low in intense thought . Then he looked up with a
 smile . Well I guess you gentlemen are only doing your clear duty
 after all and I have no right to stand in the way of it . I'd only
-ask you not to worry Mrs . Douglas over this matter for she has
+ask you not to worry Mrs. Douglas over this matter for she has
 enough upon her just now . I may tell you that poor Douglas had just
 one fault in the world and that was his jealousy . He was fond of
 meno man could be fonder of a friend . And he was devoted to his
@@ -1482,7 +1482,7 @@ Holmes asked no further question and Barker with a deliberate look
 from one to the other of us which had as it seemed to me something
 of defiance in it turned and left the room .
 Inspector MacDonald had sent up a note to the effect that he would
-wait upon Mrs . Douglas in her room but she had replied that she
+wait upon Mrs. Douglas in her room but she had replied that she
 would meet us in the dining room . She entered now a tall and
 beautiful woman of thirty reserved and selfpossessed to a
 remarkable degree very different from the tragic and distracted
@@ -1496,7 +1496,7 @@ abrupt speech .
 Have you found anything out yet ? she asked .
 Was it my imagination that there was an undertone of fear rather than
 of hope in the question ?
-We have taken every possible step Mrs . Douglas said the
+We have taken every possible step Mrs. Douglas said the
 inspector . You may rest assured that nothing will be neglected .
 Spare no money she said in a dead even tone . It is my desire
 that every possible effort should be made .
@@ -1513,19 +1513,19 @@ How long was it after hearing the shot that you were stopped on the
 stair by Mr. Barker ?
 It may have been a couple of minutes . It is so hard to reckon time
 at such a moment . He implored me not to go on . He assured me that I
-could do nothing . Then Mrs . Allen the housekeeper led me upstairs
+could do nothing . Then Mrs. Allen the housekeeper led me upstairs
 again . It was all like some dreadful dream .
 Can you give us any idea how long your husband had been downstairs
 before you heard the shot ?
 No I cannot say . He went from his dressing room and I did not hear
 him go . He did the round of the house every night for he was nervous
 of fire . It is the only thing that I have ever known him nervous of .
-That is just the point which I want to come to Mrs . Douglas . You
+That is just the point which I want to come to Mrs. Douglas . You
 have known your husband only in England have you not ?
 Yes we have been married five years .
 Have you heard him speak of anything which occurred in America and
 might bring some danger upon him ?
-Mrs . Douglas thought earnestly before she answered . Yes . she said
+Mrs. Douglas thought earnestly before she answered . Yes . she said
 at last I have always felt that there was a danger hanging over
 him . He refused to discuss it with me . It was not from want of
 confidence in methere was the most complete love and confidence
@@ -1533,7 +1533,7 @@ between usbut it was out of his desire to keep all alarm away from
 me . He thought I should brood over it if I knew all and so he was
 silent .
 How did you know it then ?
-Mrs . Douglas's face lit with a quick smile . Can a husband ever carry
+Mrs. Douglas's face lit with a quick smile . Can a husband ever carry
 about a secret all his life and a woman who loves him have no
 suspicion of it ? I knew it by his refusal to talk about some episodes
 in his American life . I knew it by certain precautions he took . I
@@ -1656,7 +1656,7 @@ As I approached the spot I was aware of voices some remark in the
 deep tones of a man answered by a little ripple of feminine
 laughter .
 An instant later I had come round the end of the hedge and my eyes
-lit upon Mrs . Douglas and the man Barker before they were aware of my
+lit upon Mrs. Douglas and the man Barker before they were aware of my
 presence . Her appearance gave me a shock . In the diningroom she had
 been demure and discreet . Now all pretense of grief had passed away
 from her . Her eyes shone with the joy of living and her face still
@@ -1666,12 +1666,12 @@ answering smile upon his bold handsome face . In an instantbut it
 was just one instant too latethey resumed their solemn masks as my
 figure came into view . A hurried word or two passed between them and
 then Barker rose and came towards me .
-Excuse me sir said he but am I addressing Dr . Watson ?
+Excuse me sir said he but am I addressing Dr. Watson ?
 I bowed with a coldness which showed I dare say very plainly the
 impression which had been produced upon my mind .
 We thought that it was probably you as your friendship with Mr.
 Sherlock Holmes is so well known . Would you mind coming over and
-speaking to Mrs . Douglas for one instant ?
+speaking to Mrs. Douglas for one instant ?
 I followed him with a dour face . Very clearly I could see in my
 mind's eye that shattered figure on the floor . Here within a few
 hours of the tragedy were his wife and his nearest friend laughing
@@ -1681,10 +1681,10 @@ diningroom . Now I met her appealing gaze with an unresponsive eye .
 I fear that you think me callous and hardhearted said she .
 I shrugged my shoulders . It is no business of mine said I .
 Perhaps some day you will do me justice . If you only realized
-There is no need why Dr . Watson should realize said Barker
+There is no need why Dr. Watson should realize said Barker
 quickly . As he has himself said it is no possible business of his .
 Exactly said I and so I will beg leave to resume my walk .
-One moment Dr . Watson cried the woman in a pleading voice . There
+One moment Dr. Watson cried the woman in a pleading voice . There
 is one question which you can answer with more authority than anyone
 else in the world and it may make a very great difference to me . You
 know Mr. Holmes and his relations with the police better than anyone
@@ -1695,7 +1695,7 @@ Yes that's it said Barker eagerly . Is he on his own or is he
 entirely in with them ?
 I really don't know that I should be justified in discussing such a
 point .
-I begI implore that you will Dr . Watson ! I assure you that you
+I begI implore that you will Dr. Watson ! I assure you that you
 will be helping ushelping me greatly if you will guide us on that
 point .
 There was such a ring of sincerity in the woman's voice that for the
@@ -1746,7 +1746,7 @@ considered statement .
 A lie Watsona great big thumping obtrusive uncompromising
 liethat's what meets us on the threshold ! There is our starting
 point . The whole story told by Barker is a lie . But Barker's story is
-corroborated by Mrs . Douglas . Therefore she is lying also . They are
+corroborated by Mrs. Douglas . Therefore she is lying also . They are
 both lying and in a conspiracy . So now we have the clear problem .
 Why are they lying and what is the truth which they are trying so
 hard to conceal ? Let us try Watson you and I if we can get behind
@@ -1789,14 +1789,14 @@ far down the corridor and from it I could vaguely hear a voice when
 it was very loudly raised . The sound from a shotgun is to some extent
 muffled when the discharge is at very close range as it undoubtedly
 was in this instance . It would not be very loud and yet in the
-silence of the night it should have easily penetrated to Mrs . Allen's
+silence of the night it should have easily penetrated to Mrs. Allen's
 room . She is as she has told us somewhat deaf but none the less
 she mentioned in her evidence that she did hear something like a door
 slamming half an hour before the alarm was given . Half an hour before
 the alarm was given would be a quarter to eleven . I have no doubt
 that what she heard was the report of the gun and that this was the
 real instant of the murder .
-If this is so we have now to determine what Barker and Mrs .
+If this is so we have now to determine what Barker and Mrs.
 Douglas presuming that they are not the actual murderers could have
 been doing from quarter to eleven when the sound of the shot brought
 them down until quarter past eleven when they rang the bell and
@@ -1819,11 +1819,11 @@ was badly stagemanaged for even the rawest investigators must be
 struck by the absence of the usual feminine ululation . If there had
 been nothing else this incident alone would have suggested a
 prearranged conspiracy to my mind .
-You think then definitely that Barker and Mrs . Douglas are guilty
+You think then definitely that Barker and Mrs. Douglas are guilty
 of the murder ?
 There is an appalling directness about your questions Watson said
 Holmes shaking his pipe at me . They come at me like bullets . If you
-put it that Mrs . Douglas and Barker know the truth about the murder
+put it that Mrs. Douglas and Barker know the truth about the murder
 and are conspiring to conceal it then I can give you a wholesouled
 answer . I am sure they do . But your more deadly proposition is not so
 clear . Let us for a moment consider the difficulties which stand in
@@ -1855,7 +1855,7 @@ Watson . But now we come on the nasty angular uncompromising bits
 which won't slip into their places . Why a cutoff shotgun of all
 weaponsand an American one at that ? How could they be so sure that
 the sound of it would not bring someone on to them ? It's a mere
-chance as it is that Mrs . Allen did not start out to inquire for the
+chance as it is that Mrs. Allen did not start out to inquire for the
 slamming door . Why did your guilty couple do all this Watson ?
 I confess that I can't explain it .
 Then again if a woman and her lover conspire to murder a husband
@@ -2018,7 +2018,7 @@ other means to London or to some safe hiding place which he had
 already arranged . How is that Mr. Holmes ?
 Well Mr. Mac it is very good and very clear so far as it goes .
 That is your end of the story . My end is that the crime was committed
-half an hour earlier than reported that Mrs . Douglas and Barker are
+half an hour earlier than reported that Mrs. Douglas and Barker are
 both in a conspiracy to conceal something that they aided the
 murderer's escapeor at least that they reached the room before he
 escapedand that they fabricated evidence of his escape through the
@@ -2035,7 +2035,7 @@ I freely admit the difficulties said Holmes . I propose to make a
 little investigation of my own tonight and it is just possible that
 it may contribute something to the common cause .
 Can we help you Mr. Holmes ?
-No no ! Darkness and Dr . Watson's umbrellamy wants are simple . And
+No no ! Darkness and Dr. Watson's umbrellamy wants are simple . And
 Ames the faithful Ames no doubt he will stretch a point for me . All
 my lines of thought lead me back invariably to the one basic
 questionwhy should an athletic man develop his frame upon so
@@ -2140,7 +2140,7 @@ to your point I admit but you have such a deuced roundthecorner
 way of doing it .
 Well well I'll drop past history and get down to presentday
 facts . I called last night as I have already said at the Manor
-House . I did not see either Barker or Mrs . Douglas . I saw no
+House . I did not see either Barker or Mrs. Douglas . I saw no
 necessity to disturb them but I was pleased to hear that the lady
 was not visibly pining and that she had partaken of an excellent
 dinner . My visit was specially made to the good Mr. Ames with whom I
@@ -2304,7 +2304,7 @@ consideration which would have enabled you to draw deductions from
 it . When water is near and a weight is missing it is not a very
 farfetched supposition that something has been sunk in the water .
 The idea was at least worth testing so with the help of Ames who
-admitted me to the room and the crook of Dr . Watson's umbrella I
+admitted me to the room and the crook of Dr. Watson's umbrella I
 was able last night to fish up and inspect this bundle .
 It was of the first importance however that we should be able to
 prove who placed it there . This we accomplished by the very obvious
@@ -2357,7 +2357,7 @@ The proceedings seemed to have come to a definite end so far as he
 was concerned for one had only to look at that granite face to
 realize that no peine forte et dure would ever force him to plead
 against his will . The deadlock was broken however by a woman's
-voice . Mrs . Douglas had been standing listening at the half opened
+voice . Mrs. Douglas had been standing listening at the half opened
 door and now she entered the room .
 You have done enough for now Cecil said she . Whatever comes of
 it in the future you have done enough .
@@ -2366,15 +2366,15 @@ have every sympathy with you madam and should strongly urge you to
 have some confidence in the common sense of our jurisdiction and to
 take the police voluntarily into your complete confidence . It may be
 that I am myself at fault for not following up the hint which you
-conveyed to me through my friend Dr . Watson but at that time I had
+conveyed to me through my friend Dr. Watson but at that time I had
 every reason to believe that you were directly concerned in the
 crime . Now I am assured that this is not so . At the same time there
 is much that is unexplained and I should strongly recommend that you
 ask Mr. Douglas to tell us his own story .
-Mrs . Douglas gave a cry of astonishment at Holmes's words . The
+Mrs. Douglas gave a cry of astonishment at Holmes's words . The
 detectives and I must have echoed it when we were aware of a man who
 seemed to have emerged from the wall who advanced now from the gloom
-of the corner in which he had appeared . Mrs . Douglas turned and in
+of the corner in which he had appeared . Mrs. Douglas turned and in
 an instant her arms were round him . Barker had seized his
 outstretched hand .
 It's best this way Jack his wife repeated I am sure that it is
@@ -2389,7 +2389,7 @@ and then to my amazement he advanced to me and handed me a bundle of
 paper .
 I've heard of you said he in a voice which was not quite English
 and not quite American but was altogether mellow and pleasing . You
-are the historian of this bunch . Well Dr . Watson you've never had
+are the historian of this bunch . Well Dr. Watson you've never had
 such a story as that pass through your hands before and I'll lay my
 last dollar on that . Tell it your own way but there are the facts
 and you can't miss the public so long as you have those . I've been
@@ -3637,7 +3637,7 @@ return having had the service of two brethren in the matter of the
 patrolman last fall . You will send two good men they will be taken
 charge of by Treasurer Higgins of this lodge whose address you know .
 He will show them when to act and where . Yours in freedom
-J . W . Windle D . M . A . O . F .
+J . W . Windle D. M . A . O . F .
 Windle has never refused us when we have had occasion to ask for the
 loan of a man or two and it is not for us to refuse him . McGinty
 paused and looked round the room with his dull malevolent eyes . Who
@@ -4647,7 +4647,7 @@ may read the details of them . There one may learn of the shooting of
 Policemen Hunt and Evans because they had ventured to arrest two
 members of the societya double outrage planned at the Vermissa
 lodge and carried out in cold blood upon two helpless and disarmed
-men . There also one may read of the shooting of Mrs . Larbey when she
+men . There also one may read of the shooting of Mrs. Larbey when she
 was nursing her husband who had been beaten almost to death by
 orders of Boss McGinty . The killing of the elder Jenkins shortly
 followed by that of his brother the mutilation of James Murdoch the
@@ -5301,7 +5301,7 @@ our letter box . Dear me Mr. Holmes . Dear me ! said this singular
 epistle . There was neither superscription nor signature . I laughed at
 the quaint message but Holmes showed unwonted seriousness .
 Deviltry Watson ! he remarked and sat long with a clouded brow .
-Late last night Mrs . Hudson our landlady brought up a message that
+Late last night Mrs. Hudson our landlady brought up a message that
 a gentleman wished to see Holmes and that the matter was of the
 utmost importance . Close at the heels of his messenger came Cecil
 Barker our friend of the moated Manor House . His face was drawn and
@@ -5315,8 +5315,8 @@ always be Jack Douglas of Benito Canyon to me . I told you that they
 started together for South Africa in the Palmyra three weeks ago .
 Exactly .
 The ship reached Cape Town last night . I received this cable from
-Mrs . Douglas this morning
-Jack has been lost overboard in gale off St . Helena . No one knows
+Mrs. Douglas this morning
+Jack has been lost overboard in gale off St. Helena . No one knows
 how accident occurred .
 Ivy Douglas .
 Ha ! It came like that did it ? said Holmes thoughtfully . Well

@@ -20,7 +20,7 @@ Well Mr. Holmes there is no use denying that there is something on
 my mind . And yet it is such an absurd business that I hesitated to
 bother you about it . On the other hand although it is trivial it is
 undoubtedly queer and I know that you have a taste for all that is
-out of the common . But in my opinion it comes more in Dr . Watson's
+out of the common . But in my opinion it comes more in Dr. Watson's
 line than ours .
 Disease ? said I .
 Madness anyhow . And a queer madness too ! You wouldn't think there
@@ -52,17 +52,17 @@ affair appeared to be too childish for any particular investigation .
 The second case however was more serious and also more singular .
 It occurred only last night .
 In Kennington Road and within a few hundred yards of Morse Hudson's
-shop there lives a wellknown medical practitioner named Dr .
+shop there lives a wellknown medical practitioner named Dr.
 Barnicot who has one of the largest practices upon the south side of
 the Thames . His residence and principal consultingroom is at
 Kennington Road but he has a branch surgery and dispensary at Lower
-Brixton Road two miles away . This Dr . Barnicot is an enthusiastic
+Brixton Road two miles away . This Dr. Barnicot is an enthusiastic
 admirer of Napoleon and his house is full of books pictures and
 relics of the French Emperor . Some little time ago he purchased from
 Morse Hudson two duplicate plaster casts of the famous head of
 Napoleon by the French sculptor Devine . One of these he placed in
 his hall in the house at Kennington Road and the other on the
-mantelpiece of the surgery at Lower Brixton . Well when Dr . Barnicot
+mantelpiece of the surgery at Lower Brixton . Well when Dr. Barnicot
 came down this morning he was astonished to find that his house had
 been burgled during the night but that nothing had been taken save
 the plaster head from the hall . It had been carried out and had been
@@ -71,7 +71,7 @@ fragments were discovered .
 Holmes rubbed his hands .
 This is certainly very novel said he .
 I thought it would please you . But I have not got to the end yet .
-Dr . Barnicot was due at his surgery at twelve o'clock and you can
+Dr. Barnicot was due at his surgery at twelve o'clock and you can
 imagine his amazement when on arriving there he found that the
 window had been opened in the night and that the broken pieces of
 his second bust were strewn all over the room . It had been smashed to
@@ -79,7 +79,7 @@ atoms where it stood . In neither case were there any signs which
 could give us a clue as to the criminal or lunatic who had done the
 mischief . Now Mr. Holmes you have got the facts .
 They are singular not to say grotesque said Holmes . May I ask
-whether the two busts smashed in Dr . Barnicot's rooms were the exact
+whether the two busts smashed in Dr. Barnicot's rooms were the exact
 duplicates of the one which was destroyed in Morse Hudson's shop ?
 They were taken from the same mould .
 Such a fact must tell against the theory that the man who breaks
@@ -94,7 +94,7 @@ these three were the only ones which had been in his shop for years .
 So although as you say there are many hundreds of statues in
 London it is very probable that these three were the only ones in
 that district . Therefore a local fanatic would begin with them . What
-do you think Dr . Watson ?
+do you think Dr. Watson ?
 There are no limits to the possibilities of monomania I answered .
 There is the condition which the modern French psychologists have
 called the 'idée fixe' which may be trifling in character and
@@ -109,7 +109,7 @@ find out where these busts were situated .
 Well how do you explain it ?
 I don't attempt to do so . I would only observe that there is a
 certain method in the gentleman's eccentric proceedings . For example
-in Dr . Barnicot's hall where a sound might arouse the family the
+in Dr. Barnicot's hall where a sound might arouse the family the
 bust was taken outside before being broken whereas in the surgery
 where there was less danger of an alarm it was smashed where it
 stood . The affair seems absurdly trifling and yet I dare call
@@ -261,7 +261,7 @@ Holmes pointed to the street lamp above our heads .
 He could see what he was doing here and he could not there . That was
 his reason .
 By Jove ! that's true said the detective . Now that I come to think
-of it Dr . Barnicot's bust was broken not far from his red lamp .
+of it Dr. Barnicot's bust was broken not far from his red lamp .
 Well Mr. Holmes what are we to do with that fact ?
 To remember itto docket it . We may come on something later which
 will bear upon it . What steps do you propose to take now Lestrade ?
@@ -313,14 +313,14 @@ A drive of an hour brought us to the picturedealer's establishment .
 He was a small stout man with a red face and a peppery manner .
 Yes sir . On my very counter sir said he . What we pay rates and
 taxes for I don't know when any ruffian can come in and break one's
-goods . Yes sir it was I who sold Dr . Barnicot his two statues .
+goods . Yes sir it was I who sold Dr. Barnicot his two statues .
 Disgraceful sir ! A Nihilist plot that's what I make it . No one but
 an Anarchist would go about breaking statues . Red republicans that's
 what I call 'em . Who did I get the statues from ? I don't see what
 that has to do with it . Well if you really want to know I got them
 from Gelder  Co . in Church Street Stepney . They are a wellknown
 house in the trade and have been this twenty years . How many had I ?
-Threetwo and one are threetwo of Dr . Barnicot's and one smashed
+Threetwo and one are threetwo of Dr. Barnicot's and one smashed
 in broad daylight on my own counter . Do I know that photograph ? No I
 don't . Yes I do though . Why it's Beppo . He was a kind of Italian
 piecework man who made himself useful in the shop . He could carve a
