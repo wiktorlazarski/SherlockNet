@@ -12,7 +12,11 @@ class BytePairEncoding:
     @classmethod
     def create(cls, corpus, num_merges):
         tokens, vocab_encoded = cls._create_tokens(corpus, num_merges)
-        tokens = sorted(tokens.keys(), key=lambda k: len(k), reverse=True)
+
+        def token_len(token):
+            return len(token[:-4]) + 1 if token.endswith('</w>') else len(token)
+
+        tokens = sorted(tokens.keys(), key=token_len, reverse=True)
 
         return cls(tokens, vocab_encoded)
 
@@ -83,11 +87,46 @@ class BytePairEncoding:
 
         return v_out
 
-    def encoder(self):
-        pass
+    def encode(self, word, unknown_token='</u>'):
+        if word in self.vocab.keys():
+            return self.vocab[word]
 
-    def decode(self):
-        pass
+        word += '</w>'
+        return self._encode(word, self.tokens, unknown_token)
+
+    def _encode(self, word, sorted_tokens, unknown_token):
+        if word == '':
+            return []
+
+        word_tokens = []
+        for i in range(len(sorted_tokens)):
+            token = sorted_tokens[i]
+            token_reg = re.escape(token.replace('.', '[.]'))
+
+            matched_positions = [(m.start(0), m.end(0)) for m in re.finditer(token_reg, word)]
+            if len(matched_positions) == 0:
+                continue
+
+            substring_end_positions = [matched_position[0] for matched_position in matched_positions]
+
+            substring_start_position = 0
+            for substring_end_position in substring_end_positions:
+                substring = word[substring_start_position:substring_end_position]
+                word_tokens += self._encode(substring, sorted_tokens[i+1:], unknown_token)
+                word_tokens += [token]
+                substring_start_position = substring_end_position + len(token)
+
+            remaining_substring = word[substring_start_position:]
+            word_tokens += self._encode(remaining_substring, sorted_tokens[i+1:], unknown_token)
+            break
+
+        return word_tokens if sorted_tokens[i+1:] != [] else [unknown_token]
+
+    def decode(self, encoded_text):
+        text = ''.join(encoded_text)
+        text = text.replace('</w>', '')
+
+        return text
 
 
 def merge_corpora(data_dir):
@@ -102,6 +141,7 @@ def merge_corpora(data_dir):
 
 
 if __name__ == '__main__':
+    # Create assets with tokens and vocabulary
     corpus = merge_corpora("./data/processed/sherlock")
 
     encoder = BytePairEncoding.create(corpus, 1000)
