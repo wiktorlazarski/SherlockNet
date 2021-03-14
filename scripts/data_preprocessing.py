@@ -5,10 +5,28 @@ import re
 
 
 class BytePairEncoding:
-    def __init__(self, corpus, num_merges):
-        self.tokens, self.vocab_encoded = self._create_tokens(corpus, num_merges)
-        self.tokens = sorted(self.tokens.keys(), key=lambda k: len(k), reverse=True)
+    def __init__(self, tokens, vocab):
+        self.tokens = tokens
+        self.vocab = vocab
 
+    @classmethod
+    def create(cls, corpus, num_merges):
+        tokens, vocab_encoded = cls._create_tokens(corpus, num_merges)
+        tokens = sorted(tokens.keys(), key=lambda k: len(k), reverse=True)
+
+        return cls(tokens, vocab_encoded)
+
+    @classmethod
+    def load(cls, token_json, vocab_json):
+        with open(token_json, 'r') as token_json:
+            tokens = json.load(token_json)
+
+        with open(vocab_json, 'r') as vocab_json:
+            vocab = json.load(vocab_json)
+
+        return cls(tokens, vocab)
+
+    @classmethod
     def _create_tokens(self, corpus, num_merges):
         vocab = self._build_vocab(corpus)
 
@@ -34,12 +52,7 @@ class BytePairEncoding:
 
         return tokens, vocab_encoded
 
-    def encoder(self):
-        pass
-
-    def decode(self):
-        pass
-
+    @classmethod
     def _build_vocab(self, corpus):
         tokens = [" ".join(word) + " </w>" for word in corpus.split()]
 
@@ -47,6 +60,7 @@ class BytePairEncoding:
 
         return vocab
 
+    @classmethod
     def _get_stats(self, vocab):
         pairs = collections.defaultdict(int)
         for word, frequency in vocab.items():
@@ -57,6 +71,7 @@ class BytePairEncoding:
 
         return pairs
 
+    @classmethod
     def _merge_vocab(self, pair, v_in):
         v_out = {}
         bigram = re.escape(' '.join(pair))
@@ -67,6 +82,12 @@ class BytePairEncoding:
             v_out[w_out] = v_in[word]
 
         return v_out
+
+    def encoder(self):
+        pass
+
+    def decode(self):
+        pass
 
 
 def merge_corpora(data_dir):
@@ -83,10 +104,10 @@ def merge_corpora(data_dir):
 if __name__ == '__main__':
     corpus = merge_corpora("./data/processed/sherlock")
 
-    encoder = BytePairEncoding(corpus, 1000)
+    encoder = BytePairEncoding.create(corpus, 1000)
 
     with open('./assets/tokens_1k.json', 'w') as token_json:
         json.dump(encoder.tokens, token_json)
 
     with open('./assets/vocab_1k.json', 'w') as vocab_json:
-        json.dump(encoder.vocab_encoded, vocab_json)
+        json.dump(encoder.vocab, vocab_json)
