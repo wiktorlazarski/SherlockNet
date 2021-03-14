@@ -3,8 +3,27 @@ import os
 import re
 import string
 
+def normalize_text(text):
+    """Normalize text.
 
-def normalize(in_file, out_file):
+    Args:
+        text (str): in text
+
+    Returns:
+        str: normalized text
+    """
+    text = text.lstrip()
+
+    remove_punctuations = "\"#$%&()*+,-/:;<=>@[\]^_`{|}~’"
+    split_punctuations = re.compile(r"(?<!M[rs])(?<!Mrs|etc)(?<!Dr|Ph|St)(?<!D)([!.?])")
+
+    text = text.translate(str.maketrans("", "", remove_punctuations))
+    text = split_punctuations.sub(r' \1', text)
+
+    return text
+
+
+def normalize_file(in_file, out_file):
     """Normalize english text in book.
 
     Args:
@@ -15,13 +34,9 @@ def normalize(in_file, out_file):
         for line in book:
             if line.strip() == "":
                 continue
-            line = line.lstrip()
 
-            remove_punctuations = "\"#$%&()*+,-/:;<=>@[\]^_`{|}~"
-            split_punctuations = re.compile(r"(?<!M[rs])(?<!Mrs|etc)(?<!Dr|Ph|St)(?<!D)([!.?])")
+            line = normalize_text(line)
 
-            line = line.translate(str.maketrans("", "", remove_punctuations))
-            line = split_punctuations.sub(r' \1', line)
             out.write(line.lstrip())
 
 
@@ -41,7 +56,7 @@ def main():
         book_path = os.path.join(args.raw_data, book)
         out_path = os.path.join(args.out_data, book)
 
-        normalize(book_path, out_path)
+        normalize_file(book_path, out_path)
 
 
 if __name__ == "__main__":

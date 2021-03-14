@@ -1,10 +1,13 @@
+import collections
+import json
 import os
 import re
-import collections
+
 
 class BytePairEncoding:
     def __init__(self, corpus, num_merges):
         self.tokens, self.vocab_encoded = self._create_tokens(corpus, num_merges)
+        self.tokens = sorted(self.tokens.keys(), key=lambda k: len(k), reverse=True)
 
     def _create_tokens(self, corpus, num_merges):
         vocab = self._build_vocab(corpus)
@@ -80,7 +83,10 @@ def merge_corpora(data_dir):
 if __name__ == '__main__':
     corpus = merge_corpora("./data/processed/sherlock")
 
-    encoder = BytePairEncoding(corpus, 500)
-    print(encoder.tokens)
-    print(encoder.vocab_encoded)
-    # print(len(encoder.tokens))
+    encoder = BytePairEncoding(corpus, 1000)
+
+    with open('./assets/tokens_1k.json', 'w') as token_json:
+        json.dump(encoder.tokens, token_json)
+
+    with open('./assets/vocab_1k.json', 'w') as vocab_json:
+        json.dump(encoder.vocab_encoded, vocab_json)
