@@ -13,7 +13,9 @@ ENCODED_WITH_BPE_DATASET_PATH = "./data/encoded_corpus.txt"
 BPE_TOKENS_PATH = "./assets/tokens_1k.json"
 
 
-def train(num_epochs, story_window, batch_size, lr, embedding_dim, hidden_dim, dropout):
+def train(num_epochs, story_window, batch_size, lr, embedding_dim, hidden_dim, dropout, checkpoint=None):
+    checkpoint = torch.load(checkpoint) if checkpoint is not None else None
+
     dset = dl.SherlockDataset(
         ENCODED_WITH_BPE_DATASET_PATH,
         story_window,
@@ -36,13 +38,19 @@ def train(num_epochs, story_window, batch_size, lr, embedding_dim, hidden_dim, d
         hidden_dim=hidden_dim,
         dropout=dropout
     )
+    if checkpoint is not None:
+        sherlock_lm.load_state_dict(checkpoint["LM"])
     sherlock_lm.to(device)
 
     optimizer = torch.optim.Adam(params=sherlock_lm.parameters(), lr=lr)
+    if checkpoint is not None:
+        optimizer.load_state_dict(checkpoint["optim"])
+
     criterion = torch.nn.CrossEntropyLoss()
     criterion.to(device)
 
-    for epoch in range(1, num_epochs + 1):
+    start_epoch = 1 if checkpoint is None else checkpoint["epoch"] + 1
+    for epoch in range(start_epoch, start_epoch + num_epochs):
         cost = 0.0
         running_loss = 0.0
 
@@ -89,6 +97,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--embedding_dim", default=256, type=int, help="Word embedding dimmension")
     parser.add_argument("--hidden_dim", default=512, type=int, help="LSTM layer dimmension")
     parser.add_argument("--dropout", default=0.5, type=float, help="Dropout regularization")
+    parser.add_argument("--checkpoint_path", type=str, help="Checkpoint path")
 
     return parser.parse_args()
 
@@ -105,5 +114,6 @@ if __name__ == "__main__":
         lr=args.lr,
         embedding_dim=args.embedding_dim,
         hidden_dim=args.hidden_dim,
-        dropout=args.dropout
+        dropout=args.dropout,
+        checkpoint=args.checkpoint_path
     )
