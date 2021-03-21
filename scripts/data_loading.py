@@ -28,6 +28,6 @@ class SherlockDataset(torch.utils.data.Dataset):
 
     def _one_hot_encoding(self, tokens):
         if isinstance(tokens, str):
-            tokens = [tokens]
+            return self.tokens[tokens]
 
         return [self.tokens[story_token] for story_token in tokens]
