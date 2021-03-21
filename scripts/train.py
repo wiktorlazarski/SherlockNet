@@ -75,16 +75,16 @@ def train(num_epochs, story_window, batch_size, lr, embedding_dim, hidden_dim, d
                 'optim': optimizer.state_dict(),
                 'LM': sherlock_lm.state_dict()
             },
-            f"./models/LM_GPU_e{embedding_dim}_h{hidden_dim}.pth"
+            f"./models/epoch{epoch}_LM_GPU_e{embedding_dim}_h{hidden_dim}.pth"
         )
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Image Captioning with Visual Attention training process")
 
-    parser.add_argument("--num_epochs", default=10, type=int, help="Number of epochs to perform in training process")
+    parser.add_argument("--num_epochs", default=5, type=int, help="Number of epochs to perform in training process")
     parser.add_argument("--story_window", default=128, type=int, help="Number of tokens considered when training")
-    parser.add_argument("--batch_size", default=16, type=int, help="Batch size")
+    parser.add_argument("--batch_size", default=256, type=int, help="Batch size")
     parser.add_argument("--lr", default=3e-4, type=float, help="Learning rate. If checkpoint passed then learning rate will be loaded from state_dict")
     parser.add_argument("--embedding_dim", default=256, type=int, help="Word embedding dimmension")
     parser.add_argument("--hidden_dim", default=512, type=int, help="LSTM layer dimmension")
