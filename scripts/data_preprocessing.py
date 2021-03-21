@@ -140,14 +140,35 @@ def merge_corpora(data_dir):
     return '\n'.join(corpora)
 
 
+def create_jsons(corpus, num_iters, token_json, vocab_json):
+    encoder = BytePairEncoding.create(corpus, num_iters)
+
+    with open(token_json, 'w') as json:
+        json.dump(encoder.tokens, json)
+
+    with open(vocab_json, 'w') as json:
+        json.dump(encoder.vocab, json)
+
+
+def create_encoded_corpus_file(corpus, out_path, token_json, vocab_json):
+    corpus = corpus.split()
+
+    encoder = BytePairEncoding.load(token_json, vocab_json)
+
+    corpus = [encoder.encode(word) for word in corpus]
+    corpus = [' '.join(encoded_word) for encoded_word in corpus]
+    corpus = ' '.join(corpus)
+
+    with open(out_path, 'w') as out_file:
+        out_file.write(corpus)
+
+
 if __name__ == '__main__':
-    # Create assets with tokens and vocabulary
     corpus = merge_corpora("./data/processed/sherlock")
 
-    encoder = BytePairEncoding.create(corpus, 1000)
-
-    with open('./assets/tokens_1k.json', 'w') as token_json:
-        json.dump(encoder.tokens, token_json)
-
-    with open('./assets/vocab_1k.json', 'w') as vocab_json:
-        json.dump(encoder.vocab, vocab_json)
+    create_encoded_corpus_file(
+        corpus,
+        './data/encoded_corpus.txt',
+        './assets/tokens_1k.json',
+        './assets/vocab_1k.json'
+    )
