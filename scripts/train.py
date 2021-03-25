@@ -95,7 +95,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--batch_size", default=256, type=int, help="Batch size")
     parser.add_argument("--lr", default=3e-4, type=float, help="Learning rate. If checkpoint passed then learning rate will be loaded from state_dict")
     parser.add_argument("--embedding_dim", default=256, type=int, help="Word embedding dimmension")
-    parser.add_argument("--hidden_dim", default=512, type=int, help="LSTM layer dimmension")
+    parser.add_argument("--hidden_dim", default=512, type=int, help="GRU layer dimmension")
     parser.add_argument("--dropout", default=0.5, type=float, help="Dropout regularization")
     parser.add_argument("--checkpoint_path", type=str, help="Checkpoint path")
 

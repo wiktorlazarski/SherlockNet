@@ -33,10 +33,31 @@ class SherlockLanguageModel(nn.Module):
 
         return out
 
-    def sample_story(self, starting_passage):
+    def sample_story(self, passage, temperature, length, story_window=16):
         self.eval()
+        device = next(self.parameters()).device
 
         with torch.no_grad():
-            pass
+            generated_story = passage.copy()
+            if len(passage) > story_window:
+                passage = passage[:-story_window]
+
+            for _ in range(length):
+                passage = torch.tensor(passage).unsqueeze(dim=0)
+
+                preds = self.forward(passage)
+                preds = torch.softmax(preds / temperature, dim=1)
+
+                y_pred = torch.multinomial(preds, 1)
+
+                new_token = y_pred.item()
+
+                generated_story.append(new_token)
+                passage = generated_story.copy()
+
+                if len(generated_story) > story_window:
+                    passage = passage[1:]
+
+        return generated_story
 
         return
