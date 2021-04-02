@@ -54,4 +54,4 @@ if __name__ == "__main__":
         hidden_dim=1028
     )
 
-    print(pipeline("Wiktor believe that", 0.7, 100))
+    print(pipeline("Wiktor believes that", 0.7, 100))
