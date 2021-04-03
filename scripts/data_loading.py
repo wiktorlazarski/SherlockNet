@@ -27,6 +27,14 @@ class SherlockDataset(torch.utils.data.Dataset):
         return torch.tensor(story), torch.tensor(target)
 
     def _one_hot_encoding(self, tokens):
+        """Encodes list of tokens into one-hot encoding vectors.
+
+        Args:
+            tokens (Union[str, List[str]]): list of tokens
+
+        Returns:
+            [List[int]]: one-hot encoded vectors
+        """
         if isinstance(tokens, str):
             return self.tokens[tokens]
 

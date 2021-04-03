@@ -2,6 +2,8 @@ import torch
 import scripts.model as mdl
 
 class StoryPipeline:
+    """Samples story based on initial passage"""
+
     def __init__(self, model_path, bpe, embedding_dim, hidden_dim):
         self.bpe = bpe
 
@@ -20,6 +22,16 @@ class StoryPipeline:
 
 
     def __call__(self, initial_passage, temperature, num_tokens):
+        """Call story pipeline.
+
+        Args:
+            initial_passage (str): initial passage for LM
+            temperature (float): temperature parameter
+            num_tokens (int): number of tokens to be sampled
+
+        Returns:
+            str: story
+        """
         encoded_passage = self._preprocess(initial_passage)
         story = self.model.sample_story(encoded_passage, temperature, num_tokens)
 
@@ -54,4 +66,4 @@ if __name__ == "__main__":
         hidden_dim=1028
     )
 
-    print(pipeline("Wiktor believe that", 0.7, 100))
+    print(pipeline("Natural Language Processing is awesome because it allowed Sherlock to realize that", 3.0, 200))
