@@ -4,7 +4,7 @@ Language Model for generating Sherlock Holmes stories based on RNN trained on to
 Data collected from: https://www.kaggle.com/idevji1/sherlock-holmes-stories
 
 ### Model architecture
-I have decided to play around with _Gated Recurrent Unit_ (GRU) variant of RNN in this project. I applied bidirectional cell of GRU to represent text. Then output of both cells is concatenated and passed through output layer to map $`2 x GRU_CELL_DIM`$ into vocabulary dimension. Final model available in _./model_ directory was trained with following parameters:
+I have decided to play around with _Gated Recurrent Unit_ (GRU) variant of RNN in this project. I applied bidirectional cell of GRU to represent text. Then output of both cells is concatenated and passed through output layer to map _2 x GRU_CELL_DIM_ into vocabulary dimension. Final model available in _./model_ directory was trained with following parameters:
 
 | Parameter | Value |
 |---|---|
@@ -12,11 +12,10 @@ I have decided to play around with _Gated Recurrent Unit_ (GRU) variant of RNN i
 | Embedding dimension  |  512 |
 | GRU hidden dimension  |  1028 |
 
-<br />
-![alt text](./img/sherlock_lm_architecture.png)
+![alt text](https://github.com/wiktorlazarski/SherlockNet/blob/main/img/sherlock_lm_architecture.png)
 
 ### Sampled stories
-Below you may read some sampled stories of different temperature value. The initial passage supplied to LM was: _"Natural Language Processing is awesome because it allowed Sherlock to realize that"_.
+Below you may read some sampled stories of different temperature value. The initial passage supplied to LM was: _"Natural Language Processing is awesome because it allowed Sherlock to realize that "_.
 
 #### temperature=0.2
 
