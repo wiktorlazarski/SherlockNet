@@ -66,8 +66,4 @@ if __name__ == "__main__":
         hidden_dim=1028
     )
 
-<<<<<<< HEAD
     print(pipeline("Natural Language Processing is awesome because it allowed Sherlock to realize that", 3.0, 200))
-=======
-    print(pipeline("Wiktor believes that", 0.7, 100))
->>>>>>> e6720677a19c30115f01be45994631bd9dea1c90
